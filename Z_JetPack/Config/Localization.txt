@@ -1,14 +1,16 @@
-Key,Source,Context,Changes,English,Russian
+Key,Source,Context,Changes,English,Russian,TChinese
 
-modJetPack,item_modifiers,mod,,JetPack Mod,Мод Реактивный ранец
-modJetPackDesc,item_modifiers,mod,,"Allows you to perform powerful jumps with a small cooldown. When disabled, reduces stamina consumption when jumping by [FFB800]30%[-]\n\nModifies the armor chest","Дает возможность совершать усиленные прыжки с небольшой перезарядкой. В выключенном режиме уменьшает расход выносливости при прыжках на [FFB800]30%[-]\n\nМодифицирует корпус брони"
 
-buffJetPackReloadName,buffs,buff,,Recharging the jetpack,Перезарядка реактивного ранца 
-buffJetPackReloadTooltip,buffs,buff,,Your jetpack is on recharge,Ваш реактивный ранец на перезарядке
-buffJetPackReloadIncDesc,buffs,Buff,,"Your jetpack is on recharge. Wait until it is complete before you can use it.\n\n[DECEA3]Duration: 7 seconds[-]","Ваш реативный ранец на перезарядки. Дождитесь ее завершения для возможности его использования.\n\n[DECEA3]Длительность: 7 секунд[-]"
-buffJetPackNormalName,buffs,buff,,JetPack [DECEA3]OFF[-],Реактивный ранец [DECEA3]ВЫКЛ[-]
-buffJetPackNormalTooltip,buffs,buff,,Your jetpack is disabled,Ваш реактивный ранец выключен
-buffJetPackNormalIncDesc,buffs,Buff,,"Your jetpack is disabled. You must activate it to use jump boosts.\n\nIn this mode, stamina consumption when jumping is reduced by [DECEA3]30%[-]","Ваш реативный ранец выключен. Для использования усиленных прыжком его необходимо активировать.\n\nВ этом режиме расход выносливости при прыжках уменьшено на [DECEA3]30%[-]"
-buffJetPackBoostName,buffs,buff,,JetPack [DECEA3]ON[-],Реактивный ранец [DECEA3]ВКЛ[-]
-buffJetPackBoostTooltip,buffs,buff,,Your jetpack is active,Ваш реактивный ранец активен
-buffJetPackBoostIncDesc,buffs,Buff,,"Your jetpack is active. Your next jump will be boosted by [DECEA3]300%[-]\n\n[DECEA3]After a boosted jump, your jetpack will go on recharge. Be careful not to break your legs[-]"Ваш реативный ранец активен. Следующий ваш прыжок будет усилен на [DECEA3]300%[-]\n\n[DECEA3]После усиленного прыжка ваш ранец уйдет на перезарядку. Будьте осторожны и не поломайте ноги[-]"
+modJetPack,item_modifiers,mod,,JetPack Mod,Мод Реактивный ранец,噴氣背包模組
+
+modJetPackDesc,item_modifiers,mod,,"Allows you to perform powerful jumps with a small cooldown. When disabled, reduces stamina consumption when jumping by [FFB800]30%[-]\n\nModifies the armor chest","Дает возможность совершать усиленные прыжки с небольшой перезарядкой. В выключенном режиме уменьшает расход выносливости при прыжках на [FFB800]30%[-]\n\nМодифицирует корпус брони","允許你進行強力跳躍,但有短暫冷卻時間。禁用時,跳躍時的耐力消耗減少[FFB800]30%[-]\n\n修改胸甲"
+
+buffJetPackReloadName,buffs,buff,,Recharging the jetpack,Перезарядка реактивного ранца,噴氣背包充能中
+buffJetPackReloadTooltip,buffs,buff,,Your jetpack is on recharge,Ваш реактивный ранец на перезарядке,你的噴氣背包正在充能
+buffJetPackReloadIncDesc,buffs,Buff,,"Your jetpack is on recharge. Wait until it is complete before you can use it.\n\n[DECEA3]Duration: 7 seconds[-]","Ваш реативный ранец на перезарядки. Дождитесь ее завершения для возможности его использования.\n\n[DECEA3]Длительность: 7 секунд[-]","你的噴氣背包正在充能。等待充能完成後才能使用。\n\n[DECEA3]持續時間: 7秒[-]"
+buffJetPackNormalName,buffs,buff,,JetPack [DECEA3]OFF[-],Реактивный ранец [DECEA3]ВЫКЛ[-],噴氣背包 [DECEA3]關閉[-]
+buffJetPackNormalTooltip,buffs,buff,,Your jetpack is disabled,Ваш реактивный ранец выключен,你的噴氣背包已禁用
+buffJetPackNormalIncDesc,buffs,Buff,,"Your jetpack is disabled. You must activate it to use jump boosts.\n\nIn this mode, stamina consumption when jumping is reduced by [DECEA3]30%[-]","Ваш реативный ранец выключен. Для использования усиленных прыжком его необходимо активировать.\n\nВ этом режиме расход выносливости при прыжках уменьшено на [DECEA3]30%[-]","你的噴氣背包已禁用。你必須啟動它才能使用跳躍加強。\n\n在此模式下,跳躍時的耐力消耗減少[DECEA3]30%[-]"
+buffJetPackBoostName,buffs,buff,,JetPack [DECEA3]ON[-],Реактивный ранец [DECEA3]ВКЛ[-],噴氣背包 [DECEA3]開啟[-]
+buffJetPackBoostTooltip,buffs,buff,,Your jetpack is active,Ваш реактивный ранец активен,你的噴氣背包已啟動
+buffJetPackBoostIncDesc,buffs,Buff,,"Your jetpack is active. Your next jump will be boosted by [DECEA3]300%[-]\n\n[DECEA3]After a boosted jump, your jetpack will go on recharge. Be careful not to break your legs[-]","Ваш реативный ранец активен. Следующий ваш прыжок будет усилен на [DECEA3]300%[-]\n\n[DECEA3]После усиленного прыжка ваш ранец уйдет на перезарядку. Будьте осторожны и не поломайте ноги[-]","你的噴氣背包已啟動。你的下一次跳躍將提升[DECEA3]300%[-]\n\n[DECEA3]在進行加強跳躍後,你的噴氣背包將進入充能狀態。小心不要摔斷腿[-]"

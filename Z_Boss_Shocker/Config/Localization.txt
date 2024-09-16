@@ -1,18 +1,18 @@
-Key,Source,Context,Changes,English,Russian
+Key,Source,Context,Changes,English,Russian,TChinese
 
-BuffShockerAOE,buffs,Buff,,Shocker,Шокер
-BuffShockerAOEName,buffs,buff,,Shocker nearby, Шокер рядом
-BuffShockerAOETooltip,buffs,buff,,Shocker is on the hunt,Шокер вышел на охоту
-BuffShockerAOEIncDesc,buffs,Buff,,"What happens if you connect an irradiated zombie to the network. Apparently someone seriously asked this question!!!\nThis creature burns everything on its own near itself. Try not to get close to it, if possible.\n\nIt is difficult for you to overcome your fear. Your eyes are dark and everything is swimming. But you can still RUN!!!\nYour mobility is reduced by [FFB800]10%[-]","Что получиться если подключить к сети облученного зомби. Видимо ктото всерьез задался этим вопросом!!!\nЭта тварь сжигает все на своем рядом с собой. Старайтель не сближаться с ней, если получиться.\n\nВам сложно преодолеть страх. В глазах потемнего и все поплыло. Но вы все еще можете БЕЖАТЬ!!!\nВаша мобильность снижена на [FFB800]10%[-]"
+BuffShockerAOE,buffs,Buff,,Shocker,Шокер,電擊者
+BuffShockerAOEName,buffs,buff,,Shocker nearby,Шокер рядом,電擊者在附近
+BuffShockerAOETooltip,buffs,buff,,Shocker is on the hunt,Шокер вышел на охоту,電擊者正在獵捕中
+BuffShockerAOEIncDesc,buffs,Buff,,"What happens if you connect an irradiated zombie to the network. Apparently someone seriously asked this question!!!\nThis creature burns everything on its own near itself. Try not to get close to it, if possible.\n\nIt is difficult for you to overcome your fear. Your eyes are dark and everything is swimming. But you can still RUN!!!\nYour mobility is reduced by [FFB800]10%[-]","Что получиться если подключить к сети облученного зомби. Видимо ктото всерьез задался этим вопросом!!!\nЭта тварь сжигает все на своем рядом с собой. Старайтель не сближаться с ней, если получиться.\n\nВам сложно преодолеть страх. В глазах потемнего и все поплыло. Но вы все еще можете БЕЖАТЬ!!!\nВаша мобильность снижена на [FFB800]10%[-]","如果將一個受輻射的殭屍連接到電網會發生什麼？顯然有人認真地問了這個問題！！！\n這個生物會自己燒毀周圍的一切。盡量不要靠近它。\n\n你很難克服恐懼。你的眼前一片漆黑，一切都在搖晃。但你仍然可以奔跑！！！\n你的移動速度降低了 [FFB800]10%[-]"
 
-BuffBossEnragePlayer,buffs,Buff,,Boss in rage,Босс в бешенстве
-BuffBossEnragePlayerName,buffs,buff,,Boss in rage,Босс в бешенстве
-BuffBossEnragePlayerTooltip,buffs,buff,,Boss in rage,Босс в бешенстве
-BuffBossEnragePlayerIncDesc,buffs,Buff,,"You've driven Boss into a rage. Better run away!\nHis movement speed is increased by [DECEA3]50%[-], his attack speed is increased by [DECEA3]60%[-], and any of his attacks will knock you down.\n\nHowever, his damage resistance is decreased by [DECEA3]30%[-]","Вы довели Босса до приступа бешенства. Лучше убегайте!\nСкорость его передвижения увеличена на [DECEA3]50%[-], скорость атаки увеличена на [DECEA3]60%[-], также любая его атака собъет вас с ног.\n\nОднако сопротивление урону уменьшенно на [DECEA3]30%[-]"
+BuffBossEnragePlayer,buffs,Buff,,Boss in rage,Босс в бешенстве,憤怒的首領
+BuffBossEnragePlayerName,buffs,buff,,Boss in rage,Босс в бешенстве,憤怒的首領
+BuffBossEnragePlayerTooltip,buffs,buff,,Boss in rage,Босс в бешенстве,憤怒的首領
+BuffBossEnragePlayerIncDesc,buffs,Buff,,"You've driven Boss into a rage. Better run away!\nHis movement speed is increased by [DECEA3]50%[-], his attack speed is increased by [DECEA3]60%[-], and any of his attacks will knock you down.\n\nHowever, his damage resistance is decreased by [DECEA3]30%[-]","Вы довели Босса до приступа бешенства. Лучше убегайте!\nСкорость его передвижения увеличена на [DECEA3]50%[-], скорость атаки увеличена на [DECEA3]60%[-], также любая его атака собъет вас с ног.\n\nОднако сопротивление урону уменьшенно на [DECEA3]30%[-]","你激怒了首領。最好趕緊逃跑！\n他的移動速度增加了 [DECEA3]50%[-]，攻擊速度增加了 [DECEA3]60%[-]，而且他的任何攻擊都會將你擊倒。\n\n然而，他的傷害抗性降低了 [DECEA3]30%[-]"
 
-BuffBossHealthTheftPlayer,buffs,Buff,,Boss steals health,Босс крадет здоровье
-BuffBossHealthTheftPlayerName,buffs,buff,,Boss steals health,Босс крадет здоровье
-BuffBossHealthTheftPlayerTooltip,buffs,buff,,Boss steals health,Босс крадет здоровье
-BuffBossHealthTheftPlayerIncDesc,buffs,Buff,,"The boss feeds on your adrenaline. You take damage over time and are slowed down. Try to wait it out and stay alive.","Босс питается вашим адреналином. Вы получаете периодический урон и замедлены\nПостарайтесь переждать и остаться в живых."
+BuffBossHealthTheftPlayer,buffs,Buff,,Boss steals health,Босс крадет здоровье,首領偷取生命值
+BuffBossHealthTheftPlayerName,buffs,buff,,Boss steals health,Босс крадет здоровье,首領偷取生命值
+BuffBossHealthTheftPlayerTooltip,buffs,buff,,Boss steals health,Босс крадет здоровье,首領偷取生命值
+BuffBossHealthTheftPlayerIncDesc,buffs,Buff,,"The boss feeds on your adrenaline. You take damage over time and are slowed down. Try to wait it out and stay alive.","Босс питается вашим адреналином. Вы получаете периодический урон и замедлены\nПостарайтесь переждать и остаться в живых.","首領正在吸取你的腎上腺素。你會持續受到傷害並被減速。試著撐過去並保持存活。"
 
-bossShocker,entityclasses,Entity,,[FFB800]BOSS[-] SHOCKER,[FFB800]БОСС[-] ШОКЕР
+bossShocker,entityclasses,Entity,,[FFB800]BOSS[-] SHOCKER,[FFB800]БОСС[-] ШОКЕР,[FFB800]首領[-] 電擊者

@@ -1,32 +1,32 @@
-Key,Source,Context,Changes,English,Russian
+Key,Source,Context,Changes,English,Russian,TChinese
 
-resourceExperimentalAlloys,items,Resources,,Experimental alloys,Эксперементальные сплавы
-resourceExperimentalAlloysDesc,items,Resources,,"The rarest, but at the same time the most sought after type of alloy. It is extremely difficult to find in the quarantine zone, but it is possible to exchange it through the [DECEA3]Radio Station.[-]\nUsed to work with experimental technologies.","Самый редкий, но в тоже время самый востребованный вид сплавов. В зоне карантина его найти крайне сложно, но возможно выменять через [DECEA3]Радиостанцию.[-]\nИспользуется для работы с эксперементальными технологиями."
-resourceUltraStrengthAlloys,items,Resources,,Ultra strength alloys,Сверхпрочные сплавы
-resourceUltraStrengthAlloysDesc,items,Resources,,"A rare type of alloy. Can be found in the quarantine zone or exchanged through the [DECEA3]Radio Station.[-]\nUsed for improvements and crafting.","Редкий вид сплавов. Возможно найти в зоне карантина или выменять через [DECEA3]Радиостанцию.[-]\nИспользуется для улучшений и крафта."
-resourceUltraLightAlloys,items,Resources,,Ultra light alloys,Сверхлегкие сплавы
-resourceUltraLightAlloysDesc,items,Resources,,"A rare type of alloy. Can be found in the quarantine zone or exchanged through the [DECEA3]Radio Station.[-]\nUsed for improvements and crafting.","Редкий вид сплавов. Возможно найти в зоне карантина или выменять через [DECEA3]Радиостанцию.[-]\nИспользуется для улучшений и крафта."
+resourceExperimentalAlloys,items,Resources,,Experimental alloys,Эксперементальные сплавы,實驗性合金
+resourceExperimentalAlloysDesc,items,Resources,,"The rarest, but at the same time the most sought after type of alloy. It is extremely difficult to find in the quarantine zone, but it is possible to exchange it through the [DECEA3]Radio Station.[-]\nUsed to work with experimental technologies.","Самый редкий, но в тоже время самый востребованный вид сплавов. В зоне карантина его найти крайне сложно, но возможно выменять через [DECEA3]Радиостанцию.[-]\nИспользуется для работы с эксперементальными технологиями.","最稀有，但同時也是最受歡迎的合金類型。在隔離區內極難找到，但可以通過[DECEA3]無線電站[-]進行交換。\n用於實驗性技術的研究。"
+resourceUltraStrengthAlloys,items,Resources,,Ultra strength alloys,Сверхпрочные сплавы,超強度合金
+resourceUltraStrengthAlloysDesc,items,Resources,,"A rare type of alloy. Can be found in the quarantine zone or exchanged through the [DECEA3]Radio Station.[-]\nUsed for improvements and crafting.","Редкий вид сплавов. Возможно найти в зоне карантина или выменять через [DECEA3]Радиостанцию.[-]\nИспользуется для улучшений и крафта.","一種罕見的合金類型。可以在隔離區內找到或通過[DECEA3]無線電站[-]交換。\n用於改進和製造。"
+resourceUltraLightAlloys,items,Resources,,Ultra light alloys,Сверхлегкие сплавы,超輕合金
+resourceUltraLightAlloysDesc,items,Resources,,"A rare type of alloy. Can be found in the quarantine zone or exchanged through the [DECEA3]Radio Station.[-]\nUsed for improvements and crafting.","Редкий вид сплавов. Возможно найти в зоне карантина или выменять через [DECEA3]Радиостанцию.[-]\nИспользуется для улучшений и крафта.","一種罕見的合金類型。可以在隔離區內找到或通過[DECEA3]無線電站[-]交換。\n用於改進和製造。"
 
-UltraLightAlloys_BundleSmall,items,Resources,,Ultra light alloys [DECEA3]Bundle Small[-],Сверхлегкие сплавы [DECEA3]Малый набор[-]
-UltraLightAlloys_BundleSmallDesc,items,Resources,,"Contains 10 [DECEA3]Ultra light alloys[-]\nClick [DECEA3]Open[-] to get the ingots.","Сожержит 10 [DECEA3]Сверлегких сплавов[-]\nНажмите [DECEA3]Открыть[-] чтобы получить слитки."
-UltraLightAlloys_BundleMedium,items,Resources,,Ultra light alloys [DECEA3]Bundle Medium[-],Сверхлегкие сплавы [DECEA3]Средний набор[-]
-UltraLightAlloys_BundleMediumDesc,items,Resources,,"Contains 50 [DECEA3]Ultra light alloys[-]\nClick [DECEA3]Open[-] to get the ingots.","Сожержит 50 [DECEA3]Сверлегких сплавов[-]\nНажмите [DECEA3]Открыть[-] чтобы получить слитки."
-UltraLightAlloys_BundleBig,items,Resources,,Ultra light alloys [DECEA3]Bundle Big[-],Сверхлегкие сплавы [DECEA3]Большой набор[-]
-UltraLightAlloys_BundleBigDesc,items,Resources,,"Contains 100 [DECEA3]Ultra light alloys[-]\nClick [DECEA3]Open[-] to get the ingots.","Сожержит 100 [DECEA3]Сверлегких сплавов[-]\nНажмите [DECEA3]Открыть[-] чтобы получить слитки."
+UltraLightAlloys_BundleSmall,items,Resources,,Ultra light alloys [DECEA3]Bundle Small[-],Сверхлегкие сплавы [DECEA3]Малый набор[-],超輕合金[DECEA3]小包裝[-]
+UltraLightAlloys_BundleSmallDesc,items,Resources,,"Contains 10 [DECEA3]Ultra light alloys[-]\nClick [DECEA3]Open[-] to get the ingots.","Сожержит 10 [DECEA3]Сверлегких сплавов[-]\nНажмите [DECEA3]Открыть[-] чтобы получить слитки.","包含10個[DECEA3]超輕合金[-]\n點擊[DECEA3]開啟[-]以獲得錠塊。"
+UltraLightAlloys_BundleMedium,items,Resources,,Ultra light alloys [DECEA3]Bundle Medium[-],Сверхлегкие сплавы [DECEA3]Средний набор[-],超輕合金[DECEA3]中包裝[-]
+UltraLightAlloys_BundleMediumDesc,items,Resources,,"Contains 50 [DECEA3]Ultra light alloys[-]\nClick [DECEA3]Open[-] to get the ingots.","Сожержит 50 [DECEA3]Сверлегких сплавов[-]\nНажмите [DECEA3]Открыть[-] чтобы получить слитки.","包含50個[DECEA3]超輕合金[-]\n點擊[DECEA3]開啟[-]以獲得錠塊。"
+UltraLightAlloys_BundleBig,items,Resources,,Ultra light alloys [DECEA3]Bundle Big[-],Сверхлегкие сплавы [DECEA3]Большой набор[-],超輕合金[DECEA3]大包裝[-]
+UltraLightAlloys_BundleBigDesc,items,Resources,,"Contains 100 [DECEA3]Ultra light alloys[-]\nClick [DECEA3]Open[-] to get the ingots.","Сожержит 100 [DECEA3]Сверлегких сплавов[-]\nНажмите [DECEA3]Открыть[-] чтобы получить слитки.","包含100個[DECEA3]超輕合金[-]\n點擊[DECEA3]開啟[-]以獲得錠塊。"
 
-UltraStrengthAlloys_BundleSmall,items,Resources,,Ultra strength alloys [DECEA3]Bundle Small[-],Сверхпрочные сплавы [DECEA3]Малый набор[-]
-UltraStrengthAlloys_BundleSmallDesc,items,Resources,,"Contains 10 [DECEA3]Ultra strength alloys[-]\nClick [DECEA3]Open[-] to get the ingots.","Сожержит 10 [DECEA3]Сверхпрочных сплавов[-]\nНажмите [DECEA3]Открыть[-] чтобы получить слитки."
-UltraStrengthAlloys_BundleMedium,items,Resources,,Ultra strength alloys [DECEA3]Bundle Medium[-],Сверхпрочные сплавы [DECEA3]Средний набор[-]
-UltraStrengthAlloys_BundleMediumDesc,items,Resources,,"Contains 50 [DECEA3]Ultra strength alloys[-]\nClick [DECEA3]Open[-] to get the ingots.","Сожержит 50 [DECEA3]Сверхпрочных сплавов[-]\nНажмите [DECEA3]Открыть[-] чтобы получить слитки."
-UltraStrengthAlloys_BundleBig,items,Resources,,Ultra strength alloys [DECEA3]Bundle Big[-],Сверхпрочные сплавы [DECEA3]Большой набор[-]
-UltraStrengthAlloys_BundleBigDesc,items,Resources,,"Contains 100 [DECEA3]Ultra strength alloys[-]\nClick [DECEA3]Open[-] to get the ingots.","Сожержит 100 [DECEA3]Сверхпрочных сплавов[-]\nНажмите [DECEA3]Открыть[-] чтобы получить слитки."
+UltraStrengthAlloys_BundleSmall,items,Resources,,Ultra strength alloys [DECEA3]Bundle Small[-],Сверхпрочные сплавы [DECEA3]Малый набор[-],超強度合金[DECEA3]小包裝[-]
+UltraStrengthAlloys_BundleSmallDesc,items,Resources,,"Contains 10 [DECEA3]Ultra strength alloys[-]\nClick [DECEA3]Open[-] to get the ingots.","Сожержит 10 [DECEA3]Сверхпрочных сплавов[-]\nНажмите [DECEA3]Открыть[-] чтобы получить слитки.","包含10個[DECEA3]超強度合金[-]\n點擊[DECEA3]開啟[-]以獲得錠塊。"
+UltraStrengthAlloys_BundleMedium,items,Resources,,Ultra strength alloys [DECEA3]Bundle Medium[-],Сверхпрочные сплавы [DECEA3]Средний набор[-],超強度合金[DECEA3]中包裝[-]
+UltraStrengthAlloys_BundleMediumDesc,items,Resources,,"Contains 50 [DECEA3]Ultra strength alloys[-]\nClick [DECEA3]Open[-] to get the ingots.","Сожержит 50 [DECEA3]Сверхпрочных сплавов[-]\nНажмите [DECEA3]Открыть[-] чтобы получить слитки.","包含50個[DECEA3]超強度合金[-]\n點擊[DECEA3]開啟[-]以獲得錠塊。"
+UltraStrengthAlloys_BundleBig,items,Resources,,Ultra strength alloys [DECEA3]Bundle Big[-],Сверхпрочные сплавы [DECEA3]Большой набор[-],超強度合金[DECEA3]大包裝[-]
+UltraStrengthAlloys_BundleBigDesc,items,Resources,,"Contains 100 [DECEA3]Ultra strength alloys[-]\nClick [DECEA3]Open[-] to get the ingots.","Сожержит 100 [DECEA3]Сверхпрочных сплавов[-]\nНажмите [DECEA3]Открыть[-] чтобы получить слитки.","包含100個[DECEA3]超強度合金[-]\n點擊[DECEA3]開啟[-]以獲得錠塊。"
 
-ExperimentalAlloys_BundleSmall,items,Resources,,Experimental alloys [DECEA3]Bundle Small[-],Эксперементальные сплавы [DECEA3]Малый набор[-]
-ExperimentalAlloys_BundleSmallDesc,items,Resources,,"Contains 10 [DECEA3]Experimental alloys[-]\nClick [DECEA3]Open[-] to get the ingots.","Сожержит 10 [DECEA3]Эксперементальных сплавов[-]\nНажмите [DECEA3]Открыть[-] чтобы получить слитки."
-ExperimentalAlloys_BundleMedium,items,Resources,,Experimental alloys [DECEA3]Bundle Medium[-],Эксперементальные сплавы [DECEA3]Средний набор[-]
-ExperimentalAlloys_BundleMediumDesc,items,Resources,,"Contains 50 [DECEA3]Experimental alloys[-]\nClick [DECEA3]Open[-] to get the ingots.","Сожержит 50 [DECEA3]Эксперементальных сплавов[-]\nНажмите [DECEA3]Открыть[-] чтобы получить слитки."
-ExperimentalAlloys_BundleBig,items,Resources,,Experimental alloys [DECEA3]Bundle Big[-],Эксперементальные сплавы [DECEA3]Большой набор[-]
-ExperimentalAlloys_BundleBigDesc,items,Resources,,"Contains 100 [DECEA3]Experimental alloys[-]\nClick [DECEA3]Open[-] to get the ingots.","Сожержит 100 [DECEA3]Эксперементальных сплавов[-]\nНажмите [DECEA3]Открыть[-] чтобы получить слитки."
+ExperimentalAlloys_BundleSmall,items,Resources,,Experimental alloys [DECEA3]Bundle Small[-],Эксперементальные сплавы [DECEA3]Малый набор[-],實驗性合金[DECEA3]小包裝[-]
+ExperimentalAlloys_BundleSmallDesc,items,Resources,,"Contains 10 [DECEA3]Experimental alloys[-]\nClick [DECEA3]Open[-] to get the ingots.","Сожержит 10 [DECEA3]Эксперементальных сплавов[-]\nНажмите [DECEA3]Открыть[-] чтобы получить слитки.","包含10個[DECEA3]實驗性合金[-]\n點擊[DECEA3]開啟[-]以獲得錠塊。"
+ExperimentalAlloys_BundleMedium,items,Resources,,Experimental alloys [DECEA3]Bundle Medium[-],Эксперементальные сплавы [DECEA3]Средний набор[-],實驗性合金[DECEA3]中包裝[-]
+ExperimentalAlloys_BundleMediumDesc,items,Resources,,"Contains 50 [DECEA3]Experimental alloys[-]\nClick [DECEA3]Open[-] to get the ingots.","Сожержит 50 [DECEA3]Эксперементальных сплавов[-]\nНажмите [DECEA3]Открыть[-] чтобы получить слитки.","包含50個[DECEA3]實驗性合金[-]\n點擊[DECEA3]開啟[-]以獲得錠塊。"
+ExperimentalAlloys_BundleBig,items,Resources,,Experimental alloys [DECEA3]Bundle Big[-],Эксперементальные сплавы [DECEA3]Большой набор[-],實驗性合金[DECEA3]大包裝[-]
+ExperimentalAlloys_BundleBigDesc,items,Resources,,"Contains 100 [DECEA3]Experimental alloys[-]\nClick [DECEA3]Open[-] to get the ingots.","Сожержит 100 [DECEA3]Эксперементальных сплавов[-]\nНажмите [DECEA3]Открыть[-] чтобы получить слитки.","包含100個[DECEA3]實驗性合金[-]\n點擊[DECEA3]開啟[-]以獲得錠塊。"
 
-resourcePreciousMetals,items,Resources,,Precious Metals,Драгоценные металлы
-resourcePreciousMetalsDesc,items,Resources,,"Rare metal. All necessary resources for crafting can be found when extracting basic resources, or exchanged with merchants.\nUsed for improvements and crafting.","Редкий металл. Все необходимые ресурсы для крафта можно найти при добыче базовых ресурсов, или выменять у торговцев.\nИспользуется для улучшений и крафта."
+resourcePreciousMetals,items,Resources,,Precious Metals,Драгоценные металлы,貴重金屬
+resourcePreciousMetalsDesc,items,Resources,,"Rare metal. All necessary resources for crafting can be found when extracting basic resources, or exchanged with merchants.\nUsed for improvements and crafting.","Редкий металл. Все необходимые ресурсы для крафта можно найти при добыче базовых ресурсов, или выменять у торговцев.\nИспользуется для улучшений и крафта.","稀有金屬。製作所需的所有資源都可以在開採基本資源時找到，或與商人交換。\n用於改進和製造。"

@@ -1,12 +1,12 @@
-Key,Source,Context,Changes,English,Russian
+Key,Source,Context,Changes,English,Russian,TChinese
 
-buffBuffDevourerAOE,buffs,Buff,,Devourer,Пожиратель
-BuffDevourerAOEName,buffs,buff,,Devourer nearby, Пожиратель рядом
-BuffDevourerAOETooltip,buffs,buff,,The Devourer is on the hunt,Пожиратель вышел на охоту
-BuffDevourerAOEIncDesc,buffs,Buff,,"You have sometimes heard about this creature in stories from experienced wanderers. And here is this creature next to you. If you are not ready to meet it, you better run away. The Devourer never walks alone, if it senses danger, it can call minions.\nIt is difficult for you to overcome fear. Your eyes are dark and everything is swimming. But you can still RUN!!!\nYour mobility is reduced by [FFB800]10%[-]","Вы иногда слышали об этой твари в расказах от бывалых странников. И вот это тварь рядом с вами. Если вы не готовы к встречи с ней лучше убегайте. Пожиратель никогда не ходит один, если он почувствует опасность он может позвать приспешников.\nВам сложно преодолеть страх. В глазах потемнего и все поплыло. Но вы все еще можете БЕЖАТЬ!!!\nВаша мобильность снижена на [FFB800]10%[-]"
+buffBuffDevourerAOE,buffs,Buff,,Devourer,Пожиратель,吞噬者
+BuffDevourerAOEName,buffs,buff,,Devourer nearby,Пожиратель рядом,附近有吞噬者
+BuffDevourerAOETooltip,buffs,buff,,The Devourer is on the hunt,Пожиратель вышел на охоту,吞噬者正在狩獵
+BuffDevourerAOEIncDesc,buffs,Buff,,"You have sometimes heard about this creature in stories from experienced wanderers. And here is this creature next to you. If you are not ready to meet it, you better run away. The Devourer never walks alone, if it senses danger, it can call minions.\nIt is difficult for you to overcome fear. Your eyes are dark and everything is swimming. But you can still RUN!!!\nYour mobility is reduced by [FFB800]10%[-]","Вы иногда слышали об этой твари в расказах от бывалых странников. И вот это тварь рядом с вами. Если вы не готовы к встречи с ней лучше убегайте. Пожиратель никогда не ходит один, если он почувствует опасность он может позвать приспешников.\nВам сложно преодолеть страх. В глазах потемнего и все поплыло. Но вы все еще можете БЕЖАТЬ!!!\nВаша мобильность снижена на [FFB800]10%[-]","你有時會在經驗豐富的流浪者的故事中聽到這種生物。現在這個生物就在你身邊。如果你還沒準備好面對它，最好趕快逃跑。吞噬者從不單獨行動，如果它感到危險，它可以召喚隨從。\n你很難克服恐懼。你的眼前一片黑暗，一切都在搖晃。但你仍然可以跑!!!\n你的移動速度降低了[FFB800]10%[-]"
 
-BuffTerribleWoundsName,buffs,buff,,Terrible wound, Ужасные раны
-BuffTerribleWoundsTooltip,buffs,buff,,You have a terrible wound,У вас ужасная рана
-BuffTerribleWoundsIncDesc,buffs,Buff,,"You have opened up a nasty wound. You take periodic damage from blood loss. \nYour health is reduced by [FFB800]25[-] and your mobility is reduced by [FFB800]20%[-]","У вас открылась ужасная рана. Вы получаете периодический урон от потери крови. \nЗапас здоровья снижен на [FFB800]25[-] а ваша мобильность на [FFB800]20%[-]"
+BuffTerribleWoundsName,buffs,buff,,Terrible wound,Ужасные раны,可怕的傷口
+BuffTerribleWoundsTooltip,buffs,buff,,You have a terrible wound,У вас ужасная рана,你有一個可怕的傷口
+BuffTerribleWoundsIncDesc,buffs,Buff,,"You have opened up a nasty wound. You take periodic damage from blood loss. \nYour health is reduced by [FFB800]25[-] and your mobility is reduced by [FFB800]20%[-]","У вас открылась ужасная рана. Вы получаете периодический урон от потери крови. \nЗапас здоровья снижен на [FFB800]25[-] а ваша мобильность на [FFB800]20%[-]","你開了一個嚴重的傷口。你會因失血而受到週期性傷害。\n你的生命值減少了[FFB800]25[-]，移動速度降低了[FFB800]20%[-]"
 
-bossDevourer,entityclasses,Entity,,[FFB800]Mini BOSS[-] DEVOURER,[FFB800]Мини БОСС[-] ПОЖИРАТЕЛЬ
+bossDevourer,entityclasses,Entity,,[FFB800]Mini BOSS[-] DEVOURER,[FFB800]Мини БОСС[-] ПОЖИРАТЕЛЬ,[FFB800]小首領[-] 吞噬者

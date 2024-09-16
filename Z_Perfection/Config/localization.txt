@@ -1,364 +1,348 @@
-Key,Source,Context,Changes,English,Russian
+Key,Source,Context,Changes,English,Russian,TChinese
+buffXPBonusName,buffs,buff,,Bonus to experience gained,Бонус к получаемому опыту,獲得經驗值加成
+buffXPBonusTooltip,buffs,buff,,Experience gained increased by 25%,Получаемый опыт увеличен на 25%,獲得的經驗值增加25%
+buffXPBonusIncDesc,buffs,Buff,,"You have a good teacher next to you.\nAll experience gained is increased by [DECEA3]25%[-]","Рядом с вами хороший учитель.\nВесь получаемый опыт увеличена на [DECEA3]25%[-]","你身邊有一位好老師。\n所有獲得的經驗值增加[DECEA3]25%[-]"
 
-buffXPBonusName,buffs,buff,,Bonus to experience gained, Бонус к получаемому опыту
-buffXPBonusTooltip,buffs,buff,,Experience gained increased by 25%,Получаемый опыт увеличен на 25%
-buffXPBonusIncDesc,buffs,Buff,,"You have a good teacher next to you.\nAll experience gained is increased by [DECEA3]25%[-]","Рядом с вами хороший учитель.\nВесь получаемый опыт увеличена на [DECEA3]25%[-]"
+attperfection,progression,Attribute,,Perfection,Совершенствование,完美
+attperfectionName,progression,Attribute,,Attribute: Perfection,Атрибут: Совершенствование,屬性：完美
+attperfectionDesc,progression,Attribute,,Advanced character skill development,Продвинутое развитие навыков персонажа,進階角色技能發展
+attperfectionRank01Desc,progression,Attribute,,Newbie,Новичек,新手
+attperfectionRank01LongDesc,progression,Attribute,,"You are still far from perfect, but everything is in your hands. Explore the world and become the king of the wasteland.","Вы еще далеки от совершенства, но все в ваших руках. Исследуйте мир и станьте королем пустоши.","你離完美還很遠，但一切都掌握在你手中。探索這個世界，成為荒廢之地的王者。"
+attperfectionRank02Desc,progression,Attribute,,Sneaky,Проныра,狡猾
+attperfectionRank02LongDesc,progression,Attribute,,"You are no longer just meat - you are running. Explore the world and become the king of the wasteland.","Вы уже не простое мясо - а бегающее. Исследуйте мир и станьте королем пустоши.","你不再只是肉體 - 你在奔跑。探索這個世界，成為荒廢之地的王者。"
+attperfectionRank03Desc,progression,Attribute,,Wanderer,Странник,流浪者
+attperfectionRank03LongDesc,progression,Attribute,,"You have seen the world and have some experience in survival. Explore the world and become the king of the wasteland.","Вы повидали мир и какой-то опыт выживания у вас есть. Исследуйте мир и станьте королем пустоши.","你已經見識過這個世界，並有一些生存經驗。探索這個世界，成為荒廢之地的王者。"
+attperfectionRank04Desc,progression,Attribute,,Researcher,Исследователь,研究者
+attperfectionRank04LongDesc,progression,Attribute,,"You've mastered the basics perfectly, now it's time to delve into the details. Explore the world and become the king of the wasteland.","Азы вы освоили на отлично, теперь пора углубиться в детали. Исследуйте мир и станьте королем пустоши.","你已經完美掌握了基礎，現在是時候深入細節了。探索這個世界，成為荒廢之地的王者。"
+attperfectionRank05Desc,progression,Attribute,,Recognizable,Узнаваемый,知名
+attperfectionRank05LongDesc,progression,Attribute,,"Other survivors have heard about you. Not necessarily only good things. Explore the world and become the king of the wasteland.","Про вас слышали другие выжившие. Не факт что только хорошее. Исследуйте мир и станьте королем пустоши.","其他倖存者聽說過你。不一定都是好事。探索這個世界，成為荒廢之地的王者。"
+attperfectionRank06Desc,progression,Attribute,,Mercenary,Наемник,傭兵
+attperfectionRank06LongDesc,progression,Attribute,,"You have excellent fighting skills - all that remains is to put them into practice. Explore the world and become the king of the wasteland.","У вас отличные навыки боя - осталось применить их на деле. Исследуйте мир и станьте королем пустоши.","你有出色的戰鬥技能 - 剩下的就是將它們付諸實踐。探索這個世界，成為荒廢之地的王者。"
+attperfectionRank07Desc,progression,Attribute,,Veteran,Ветеран,老兵
+attperfectionRank07LongDesc,progression,Attribute,,"You've seen a lot. But don't stop there. Explore the world and become the king of the wasteland.","Вы повидали многое. Но не стоит останавливаться на достигнутом. Исследуйте мир и станьте королем пустоши.","你見識過很多。但不要就此止步。探索這個世界，成為荒廢之地的王者。"
+attperfectionRank08Desc,progression,Attribute,,Authority,Авторитет,權威
+attperfectionRank08LongDesc,progression,Attribute,,"You can't be ignored. You're right there in every mess. Explore the world and become the king of the wasteland.","С вами нельзя не считаться. В каждой заварушке вы тут как тут. Исследуйте мир и станьте королем пустоши.","你不能被忽視。每次混亂中你都在場。探索這個世界，成為荒廢之地的王者。"
+attperfectionRank09Desc,progression,Attribute,,Legend,Легенда,傳奇
+attperfectionRank09LongDesc,progression,Attribute,,"People talk about you with admiration. You are perfect in almost everything. In almost everything. Explore the world and become the king of the wasteland.","О вас говорят с восхищением. Вы совершенны почти во всем. Почти во всем. Исследуйте мир и станьте королем пустоши.","人們談論你時充滿敬佩。你幾乎在所有方面都很完美。幾乎所有方面。探索這個世界，成為荒廢之地的王者。"
+attperfectionRank10Desc,progression,Attribute,,Wasteland king,Король пустоши,荒廢之地之王
+attperfectionRank10LongDesc,progression,Attribute,,"You are the king of the entire wasteland. There is nothing that will surprise or frighten you. You are perfect!","Вы король всей пустоши. Нет ничего что вас удивит или испугает. Вы совершенны!","你是整個荒廢之地的王者。沒有什麼能讓你驚訝或害怕。你是完美的！"
 
-attperfection,progression,Attribute,,Perfection,Совершенствование
-attperfectionName,progression,Attribute,,Attribute: Perfection,Атрибут: Совершенствование
-attperfectionDesc,progression,Attribute,,Advanced character skill development,Продвинутое развитие навыков персонажа
-attperfectionRank01Desc,progression,Attribute,,Newbie,Новичек
-attperfectionRank01LongDesc,progression,Attribute,,"You are still far from perfect, but everything is in your hands. Explore the world and become the king of the wasteland.","Вы еще далеки от совершенства, но все в ваших руках. Исследуйте мир и станьте королем пустоши."
-attperfectionRank02Desc,progression,Attribute,,Sneaky,Проныра
-attperfectionRank02LongDesc,progression,Attribute,,"You are no longer just meat - you are running. Explore the world and become the king of the wasteland.","Вы уже не простое мясо - а бегающее. Исследуйте мир и станьте королем пустоши."
-attperfectionRank03Desc,progression,Attribute,,Wanderer,Странник
-attperfectionRank03LongDesc,progression,Attribute,,"You have seen the world and have some experience in survival. Explore the world and become the king of the wasteland.","Вы повидали мир и какой-то опыт выживания у вас есть. Исследуйте мир и станьте королем пустоши."
-attperfectionRank04Desc,progression,Attribute,,Researcher,Исследователь
-attperfectionRank04LongDesc,progression,Attribute,,"You've mastered the basics perfectly, now it's time to delve into the details. Explore the world and become the king of the wasteland.","Азы вы освоили на отлично, теперь пора углубиться в детали. Исследуйте мир и станьте королем пустоши."
-attperfectionRank05Desc,progression,Attribute,,Recognizable,Узнаваемый
-attperfectionRank05LongDesc,progression,Attribute,,"Other survivors have heard about you. Not necessarily only good things. Explore the world and become the king of the wasteland.","Про вас слышали другие выжившие. Не факт что только хорошее. Исследуйте мир и станьте королем пустоши."
-attperfectionRank06Desc,progression,Attribute,,Mercenary,Наемник
-attperfectionRank06LongDesc,progression,Attribute,,"You have excellent fighting skills - all that remains is to put them into practice. Explore the world and become the king of the wasteland.","У вас отличные навыки боя - осталось применить их на деле. Исследуйте мир и станьте королем пустоши."
-attperfectionRank07Desc,progression,Attribute,,Veteran,Ветеран
-attperfectionRank07LongDesc,progression,Attribute,,"You've seen a lot. But don't stop there. Explore the world and become the king of the wasteland.","Вы повидали многое. Но не стоит останавливаться на достигнутом. Исследуйте мир и станьте королем пустоши."
-attperfectionRank08Desc,progression,Attribute,,Authority,Авторитет
-attperfectionRank08LongDesc,progression,Attribute,,"You can't be ignored. You're right there in every mess. Explore the world and become the king of the wasteland.","С вами нельзя не считаться. В каждой заварушке вы тут как тут. Исследуйте мир и станьте королем пустоши."
-attperfectionRank09Desc,progression,Attribute,,Legend,Легенда
-attperfectionRank09LongDesc,progression,Attribute,,"People talk about you with admiration. You are perfect in almost everything. In almost everything. Explore the world and become the king of the wasteland.","О вас говорят с восхищением. Вы совершенны почти во всем. Почти во всем. Исследуйте мир и станьте королем пустоши."
-attperfectionRank10Desc,progression,Attribute,,Wasteland king,Король пустоши
-attperfectionRank10LongDesc,progression,Attribute,,"You are the king of the entire wasteland. There is nothing that will surprise or frighten you. You are perfect!","Вы король всей пустоши. Нет ничего что вас удивит или испугает. Вы совершенны!"
+reqPerfectPoints01,progression,Attribute,,1 lvl,1 ур,1級
+reqPerfectPoints02,progression,Attribute,,50 lvl,50 ур,50級
+reqPerfectPoints03,progression,Attribute,,100 lvl,100 ур,100級
+reqPerfectPoints04,progression,Attribute,,150 lvl,150 ур,150級
+reqPerfectPoints05,progression,Attribute,,200 lvl,200 ур,200級
+reqPerfectPoints06,progression,Attribute,,250 lvl,250 ур,250級
+reqPerfectPoints07,progression,Attribute,,300 lvl,300 ур,300級
+reqPerfectPoints08,progression,Attribute,,350 lvl,350 ур,350級
+reqPerfectPoints09,progression,Attribute,,400 lvl,400 ур,400級
+reqPerfectPoints10,progression,Attribute,,450 lvl,450 ур,450級
 
-reqPerfectPoints01,progression,Attribute,,1 lvl,1 ур
-reqPerfectPoints02,progression,Attribute,,50 lvl,50 ур
-reqPerfectPoints03,progression,Attribute,,100 lvl,100 ур
-reqPerfectPoints04,progression,Attribute,,150 lvl,150 ур
-reqPerfectPoints05,progression,Attribute,,200 lvl,200 ур
-reqPerfectPoints06,progression,Attribute,,250 lvl,250 ур
-reqPerfectPoints07,progression,Attribute,,300 lvl,300 ур
-reqPerfectPoints08,progression,Attribute,,350 lvl,350 ур
-reqPerfectPoints09,progression,Attribute,,400 lvl,400 ур
-reqPerfectPoints10,progression,Attribute,,450 lvl,450 ур
-
-reqPerfectLevel01,progression,Attribute,,Perfection Level 1,Уровень совершенства 1
-reqPerfectLevel02,progression,Attribute,,Perfection Level 2,Уровень совершенства 2
-reqPerfectLevel03,progression,Attribute,,Perfection Level 3,Уровень совершенства 3
-reqPerfectLevel04,progression,Attribute,,Perfection Level 4,Уровень совершенства 4
-reqPerfectLevel05,progression,Attribute,,Perfection Level 5,Уровень совершенства 5
-reqPerfectLevel06,progression,Attribute,,Perfection Level 6,Уровень совершенства 6
-reqPerfectLevel07,progression,Attribute,,Perfection Level 7,Уровень совершенства 7
-reqPerfectLevel08,progression,Attribute,,Perfection Level 8,Уровень совершенства 8
-reqPerfectLevel09,progression,Attribute,,Perfection Level 9,Уровень совершенства 9
-reqPerfectLevel10,progression,Attribute,,Perfection Level 10,Уровень совершенства 10
+reqPerfectLevel01,progression,Attribute,,Perfection Level 1,Уровень совершенства 1,完美等級 1
+reqPerfectLevel02,progression,Attribute,,Perfection Level 2,Уровень совершенства 2,完美等級 2
+reqPerfectLevel03,progression,Attribute,,Perfection Level 3,Уровень совершенства 3,完美等級 3
+reqPerfectLevel04,progression,Attribute,,Perfection Level 4,Уровень совершенства 4,完美等級 4
+reqPerfectLevel05,progression,Attribute,,Perfection Level 5,Уровень совершенства 5,完美等級 5
+reqPerfectLevel06,progression,Attribute,,Perfection Level 6,Уровень совершенства 6,完美等級 6
+reqPerfectLevel07,progression,Attribute,,Perfection Level 7,Уровень совершенства 7,完美等級 7
+reqPerfectLevel08,progression,Attribute,,Perfection Level 8,Уровень совершенства 8,完美等級 8
+reqPerfectLevel09,progression,Attribute,,Perfection Level 9,Уровень совершенства 9,完美等級 9
+reqPerfectLevel10,progression,Attribute,,Perfection Level 10,Уровень совершенства 10,完美等級 10
 
 0000 Self Develop 0000
 
-skillSelfDevelopName,progression,Skills,,Skills Self Development,Навыки саморазвития
+skillSelfDevelopName,progression,Skills,,Skills Self Development,Навыки саморазвития,自我發展技能
 
-perkLearningAbilityName,progression,perk,,Learning ability,Обучаемость
-perkLearningAbilityDesc,progression,perk,,"You also need to be able to learn. Developing the skill of learning will allow you to learn faster, and when you master the skills, you will be able to teach others.","Обучаться тоже надо уметь. Развитие навыка обучаемости позволит вам обучаться быстрее, а когда вы овладеете навыков вы сможете обучать других."
-perkLearningAbilityRank1LongDesc,progression,Skills,,"Everything is like in school. Only zombies interfere with homework.\nYour experience gain is increased by 10%","Все как в школе. Только зомби мешают делать уроки.\nПолучаемый вами опыт увеличен на 10%"
-perkLearningAbilityRank2LongDesc,progression,Skills,,"Ah, student life. Classes, library, parties, girls... and zombies.\nYour experience gain is increased by 20%","Эх студенческая жизнь. Занятия, библиотека, Вечеринки, Девочки... и зомби.\nПолучаемый вами опыт увеличен на 20%"
-perkLearningAbilityRank3LongDesc,progression,Skills,,"If it weren't for the apocalypse, you would have become a good engineer.\nYour experience gain is increased by 30%","Если бы не апокалипсис вы бы стали хорошим инженером.\nПолучаемый вами опыт увеличен на 30%"
-perkLearningAbilityRank4LongDesc,progression,Skills,,"You don't have to read a lot to survive the apocalypse. You can, for example, shoot a lot.\nYour experience gain is increased by 40%","Не обязательно много читать чтобы выживать в апокалипсис. Можно например много стрелять.\nПолучаемый вами опыт увеличен на 40%"
-perkLearningAbilityRank5LongDesc,progression,Skills,,"Learned it yourself - teach others. Allies and party members receive 25% more experience.\nYour experience gain is increased by 50%","Научился сам - научи других. Союзники и участники группы получают на 25% больше опыта.\nПолучаемый вами опыт увеличен на 50%"
-perkLearningAbilityRank1Desc,progression,Skills,,Schoolboy,Школьник
-perkLearningAbilityRank2Desc,progression,Skills,,Student,Студент
-perkLearningAbilityRank3Desc,progression,Skills,,Graduate student,Аспирант
-perkLearningAbilityRank4Desc,progression,Skills,,Botanist,Ботаник
-perkLearningAbilityRank5Desc,progression,Skills,,Teacher,Учитель
+perkLearningAbilityName,progression,perk,,Learning ability,Обучаемость,學習能力
+perkLearningAbilityDesc,progression,perk,,"You also need to be able to learn. Developing the skill of learning will allow you to learn faster, and when you master the skills, you will be able to teach others.","Обучаться тоже надо уметь. Развитие навыка обучаемости позволит вам обучаться быстрее, а когда вы овладеете навыков вы сможете обучать других.","學習也需要技巧。發展學習能力將使你學習更快，當你掌握技能後，你將能夠教導他人。"
+perkLearningAbilityRank1LongDesc,progression,Skills,,"Everything is like in school. Only zombies interfere with homework.\nYour experience gain is increased by 5%","Все как в школе. Только зомби мешают делать уроки.\nПолучаемый вами опыт увеличен на 5%","一切就像在學校一樣。只是殭屍干擾了作業。\n你獲得的經驗增加了5%"
+perkLearningAbilityRank2LongDesc,progression,Skills,,"Ah, student life. Classes, library, parties, girls... and zombies.\nYour experience gain is increased by 10%","Эх студенческая жизнь. Занятия, библиотека, Вечеринки, Девочки... и зомби.\nПолучаемый вами опыт увеличен на 10%","啊，學生生活。課堂、圖書館、派對、女孩...還有殭屍。\n你獲得的經驗增加了10%"
+perkLearningAbilityRank3LongDesc,progression,Skills,,"If it weren't for the apocalypse, you would have become a good engineer.\nYour experience gain is increased by 15%","Если бы не апокалипсис вы бы стали хорошим инженером.\nПолучаемый вами опыт увеличен на 15%","如果不是因為末日，你本來會成為一個優秀的工程師。\n你獲得的經驗增加了15%"
+perkLearningAbilityRank4LongDesc,progression,Skills,,"You don't have to read a lot to survive the apocalypse. You can, for example, shoot a lot.\nYour experience gain is increased by 20%","Не обязательно много читать чтобы выживать в апокалипсис. Можно например много стрелять.\nПолучаемый вами опыт увеличен на 20%","在末日生存不一定要讀很多書。你可以，比如說，多射擊。\n你獲得的經驗增加了20%"
+perkLearningAbilityRank5LongDesc,progression,Skills,,"Learned it yourself - teach others. Allies and party members receive 25% more experience.\nYour experience gain is increased by 25%","Научился сам - научи других. Союзники и участники группы получают на 25% больше опыта.\nПолучаемый вами опыт увеличен на 25%","自己學會了就教別人。盟友和隊伍成員獲得25%更多經驗。\n你獲得的經驗增加了25%"
+perkLearningAbilityRank1Desc,progression,Skills,,Schoolboy,Школьник,學生
+perkLearningAbilityRank2Desc,progression,Skills,,Student,Студент,大學生
+perkLearningAbilityRank3Desc,progression,Skills,,Graduate student,Аспирант,研究生
+perkLearningAbilityRank4Desc,progression,Skills,,Botanist,Ботаник,植物學家
+perkLearningAbilityRank5Desc,progression,Skills,,Teacher,Учитель,教師
 
-perkLooteringName,progression,perk,,Lootering,Мародерство
-perkLooteringDesc,progression,perk,,"To find good loot, you need to understand where and why it was hidden. Master the skill of finding rare loot and you will always have something to offer for sale.","Чтобы найти хорошую добычу, нужно понимать где и зачем ее прятали. Обвладейте навыком поиска редкой добычи и у вас всегда что будет предложить на продажу."
-perkLooteringRank1LongDesc,progression,Skills,,"Look more carefully.\nLoot Search Bonus 10%","Ищите внимательнее.\nБонус поиска добычи 10%"
-perkLooteringRank2LongDesc,progression,Skills,,"A good thief always knows where to look...\nLoot Search Bonus 20%","Хороший вор всегда знает где искать...\nБонус поиска добычи 20%"
-perkLooteringRank3LongDesc,progression,Skills,,"If you can't find anything, you can just take it away.\nLoot Search Bonus 30%","Если ничего не найти, можно просто отобрать.\nБонус поиска добычи 30%"
-perkLooteringRank4LongDesc,progression,Skills,,"...and an experienced Thief knows how to get away with it.\nLoot Search Bonus 40%","...а Опытный вор знает как с этим уйти.\nБонус поиска добычи 40%"
-perkLooteringRank5LongDesc,progression,Skills,,"Nothing can be hidden from you.\n50% loot search bonus","От вас ничего не спрятать.\nБонус поиска добычи 50%"
-perkLooteringRank1Desc,progression,Skills,,Seeker,Искатель
-perkLooteringRank2Desc,progression,Skills,,Thief,Вор
-perkLooteringRank3Desc,progression,Skills,,Looter,Мародер
-perkLooteringRank4Desc,progression,Skills,,Experienced thief,Опытный вор
-perkLooteringRank5Desc,progression,Skills,,Pro Looter,Профессиональный грабитель
+perkLooteringName,progression,perk,,Lootering,Мародерство,掠奪
+perkLooteringDesc,progression,perk,,"To find good loot, you need to understand where and why it was hidden. Master the skill of finding rare loot and you will always have something to offer for sale.","Чтобы найти хорошую добычу, нужно понимать где и зачем ее прятали. Обвладейте навыком поиска редкой добычи и у вас всегда что будет предложить на продажу.","要找到好的戰利品，你需要理解它被藏在哪裡以及為什麼被藏起來。掌握尋找稀有戰利品的技能，你就總有東西可以出售。"
+perkLooteringRank1LongDesc,progression,Skills,,"Look more carefully.\nLoot Search Bonus 5%","Ищите внимательнее.\nБонус поиска добычи 5%","仔細尋找。\n戰利品搜索加成 5%"
+perkLooteringRank2LongDesc,progression,Skills,,"A good thief always knows where to look...\nLoot Search Bonus 10%","Хороший вор всегда знает где искать...\nБонус поиска добычи 10%","優秀的小偷總是知道去哪裡找...\n戰利品搜索加成 10%"
+perkLooteringRank3LongDesc,progression,Skills,,"If you can't find anything, you can just take it away.\nLoot Search Bonus 15%","Если ничего не найти, можно просто отобрать.\nБонус поиска добычи 15%","如果找不到任何東西，你可以直接搶走。\n戰利品搜索加成 15%"
+perkLooteringRank4LongDesc,progression,Skills,,"...and an experienced Thief knows how to get away with it.\nLoot Search Bonus 20%","...а Опытный вор знает как с этим уйти.\nБонус поиска добычи 20%","...而經驗豐富的小偷知道如何逃脫。\n戰利品搜索加成 20%"
+perkLooteringRank5LongDesc,progression,Skills,,"Nothing can be hidden from you.\n25% loot search bonus","От вас ничего не спрятать.\nБонус поиска добычи 25%","沒有什麼能躲過你的眼睛。\n戰利品搜索加成 25%"
+perkLooteringRank1Desc,progression,Skills,,Seeker,Искатель,尋寶者
+perkLooteringRank2Desc,progression,Skills,,Thief,Вор,小偷
+perkLooteringRank3Desc,progression,Skills,,Looter,Мародер,掠奪者
+perkLooteringRank4Desc,progression,Skills,,Experienced thief,Опытный вор,經驗豐富的小偷
+perkLooteringRank5Desc,progression,Skills,,Pro Looter,Профессиональный грабитель,專業掠奪者
 
-perkZombieExpertName,progression,perk,,Zombie Expert,Эксперт по зомби
-perkZombieExpertDesc,progression,perk,,"To find good loot, you need to understand where and why it was hidden. Master the skill of finding rare loot and you will always have something to offer for sale.","Чтобы найти хорошую добычу, нужно понимать где и зачем ее прятали. Обвладейте навыком поиска редкой добычи и у вас всегда что будет предложить на продажу."
-perkZombieExpertRank1LongDesc,progression,Skills,,"These running creatures can be quickly calmed down if you know how. Increased damage to feral zombies by 15%","Этих бегающих тварей можно быстро успокоить, если знаешь как. Увеличен урон по диким зомби на 15%"
-perkZombieExpertRank2LongDesc,progression,Skills,,"You understand the weak points of irradiated zombies very well.\nIncreased damage to feral zombies by 30% and to radiated ones by 15%.","Вы хорошо понимаете слабые места облученных зомби.\nУвеличен урон по диким зомби на 30% и по радиактивным на 15%"
-perkZombieExpertRank3LongDesc,progression,Skills,,"There is no such type of zombie that you have not killed yet.\nIncreased damage to feral zombies by 40%, to radioactive by 30%, to elite by 20%","Нет такого вида зомби которого вы еще не убивали.\nУвеличен урон по диким зомби на 40%, по радиактивным на 30%, по элитным на 20%"
-perkZombieExpertRank1Desc,progression,Skills,,Ferals,Дикие
-perkZombieExpertRank2Desc,progression,Skills,,Radiateds,Облученные
-perkZombieExpertRank3Desc,progression,Skills,,Elites,Элитные
+perkZombieExpertName,progression,perk,,Zombie Expert,Эксперт по зомби,殭屍專家
+perkZombieExpertDesc,progression,perk,,"To find good loot, you need to understand where and why it was hidden. Master the skill of finding rare loot and you will always have something to offer for sale.","Чтобы найти хорошую добычу, нужно понимать где и зачем ее прятали. Обвладейте навыком поиска редкой добычи и у вас всегда что будет предложить на продажу.","要找到好的戰利品，你需要理解它被藏在哪裡以及為什麼被藏起來。掌握尋找稀有戰利品的技能，你就總有東西可以出售。"
+perkZombieExpertRank1LongDesc,progression,Skills,,"These running creatures can be quickly calmed down if you know how. Increased damage to feral zombies by 15%","Этих бегающих тварей можно быстро успокоить, если знаешь как. Увеличен урон по диким зомби на 15%","如果你知道方法，這些奔跑的生物可以很快被平息。對狂暴殭屍的傷害增加15%"
+perkZombieExpertRank2LongDesc,progression,Skills,,"You understand the weak points of irradiated zombies very well.\nIncreased damage to feral zombies by 30% and to radiated ones by 15%.","Вы хорошо понимаете слабые места облученных зомби.\nУвеличен урон по диким зомби на 30% и по радиактивным на 15%","你非常了解輻射殭屍的弱點。\n對狂暴殭屍的傷害增加30%，對輻射殭屍的傷害增加15%。"
+perkZombieExpertRank3LongDesc,progression,Skills,,"There is no such type of zombie that you have not killed yet.\nIncreased damage to feral zombies by 40%, to radioactive by 30%, to elite by 20%","Нет такого вида зомби которого вы еще не убивали.\nУвеличен урон по диким зомби на 40%, по радиактивным на 30%, по элитным на 20%","沒有你還沒殺過的殭屍類型。\n對狂暴殭屍的傷害增加40%，對輻射殭屍的傷害增加30%，對精英殭屍的傷害增加20%"
+perkZombieExpertRank1Desc,progression,Skills,,Ferals,Дикие,狂暴
+perkZombieExpertRank2Desc,progression,Skills,,Radiateds,Облученные,輻射
+perkZombieExpertRank3Desc,progression,Skills,,Elites,Элитные,精英
 
-perkHealthyBodyName,progression,perk,,Healthy Body,Здоровое тело
-perkHealthyBodyDesc,progression,perk,,"By improving your body you will easily overcome any challenges. Your health and endurance will only grow.","Совершенствуя свое тело вы легко преодолеете любые испытания. Запас вашего здоровья и выносливости будет только расти."
-perkHealthyBodyRank1LongDesc,progression,Skills,,"Proper nutrition is the key to health - everyone says so. You know it from experience.\nHealth and stamina increased by 20","Правильное питание залог здоровья - все так говорят. Вы это знаете на деле.\nЗапас здоровья и выносливости увеличен на 20"
-perkHealthyBodyRank2LongDesc,progression,Skills,,"Regular fitness training pays off.\Health and stamina increased by 40","Регулярные занятия фитнесом дают свои плоды.\nЗапас здоровья и выносливости увеличен на 40"
-perkHealthyBodyRank3LongDesc,progression,Skills,,"You will always find how to get the maximum load on your body.\nHealth and stamina reserves increased by 60","Вы всегда найдете как получить максимальную нагрузку на свой организм.\nЗапас здоровья и выносливости увеличен на 60"
-perkHealthyBodyRank4LongDesc,progression,Skills,,"With this form you are ready for the Olympic Games.\nHealth and stamina increased by 80","С такой формой вам прямиком на олимпийские игры.\nЗапас здоровья и выносливости увеличен на 80"
-perkHealthyBodyRank5LongDesc,progression,Skills,,"Your physical form is like that of the ancient Greek gods.\nHealth and stamina are increased by 100","Ваша физическая форма как у древнегреческих богов.\nЗапас здоровья и выносливости увеличен на 100"
-perkHealthyBodyRank1Desc,progression,Skills,,Lover of healthy eating,Любитель правильного питания
-perkHealthyBodyRank2Desc,progression,Skills,,Fitness trainer,Фитнес тренер
-perkHealthyBodyRank3Desc,progression,Skills,,Iron Man,Железный человек
-perkHealthyBodyRank4Desc,progression,Skills,,Olympic champion,Олимпийский чемпион
-perkHealthyBodyRank5Desc,progression,Skills,,Hercules,Геракл
+perkHealthyBodyName,progression,perk,,Healthy Body,Здоровое тело,健康的身體
+perkHealthyBodyDesc,progression,perk,,"By improving your body you will easily overcome any challenges. Your health and endurance will only grow.","Совершенствуя свое тело вы легко преодолеете любые испытания. Запас вашего здоровья и выносливости будет только расти.","通過改善你的身體，你將輕鬆克服任何挑戰。你的健康和耐力只會增長。"
+perkHealthyBodyRank1LongDesc,progression,Skills,,"Proper nutrition is the key to health - everyone says so. You know it from experience.\nHealth and stamina increased by 20","Правильное питание залог здоровья - все так говорят. Вы это знаете на деле.\nЗапас здоровья и выносливости увеличен на 20","適當的營養是健康的關鍵 - 每個人都這麼說。你從經驗中知道這一點。\n健康和耐力增加20"
+perkHealthyBodyRank2LongDesc,progression,Skills,,"Regular fitness training pays off.\Health and stamina increased by 40","Регулярные занятия фитнесом дают свои плоды.\nЗапас здоровья и выносливости увеличен на 40","定期的健身訓練是有回報的。\n健康和耐力增加40"
+perkHealthyBodyRank3LongDesc,progression,Skills,,"You will always find how to get the maximum load on your body.\nHealth and stamina reserves increased by 60","Вы всегда найдете как получить максимальную нагрузку на свой организм.\nЗапас здоровья и выносливости увеличен на 60","你總能找到如何給你的身體最大負荷。\n健康和耐力儲備增加60"
+perkHealthyBodyRank4LongDesc,progression,Skills,,"With this form you are ready for the Olympic Games.\nHealth and stamina increased by 80","С такой формой вам прямиком на олимпийские игры.\nЗапас здоровья и выносливости увеличен на 80","有了這樣的體型，你已經準備好參加奧運會了。\n健康和耐力增加80"
+perkHealthyBodyRank5LongDesc,progression,Skills,,"Your physical form is like that of the ancient Greek gods.\nHealth and stamina are increased by 100","Ваша физическая форма как у древнегреческих богов.\nЗапас здоровья и выносливости увеличен на 100","你的身材就像古希臘眾神一樣。\n健康和耐力增加100"
+perkHealthyBodyRank1Desc,progression,Skills,,Lover of healthy eating,Любитель правильного питания,健康飲食愛好者
+perkHealthyBodyRank2Desc,progression,Skills,,Fitness trainer,Фитнес тренер,健身教練
+perkHealthyBodyRank3Desc,progression,Skills,,Iron Man,Железный человек,鋼鐵俠
+perkHealthyBodyRank4Desc,progression,Skills,,Olympic champion,Олимпийский чемпион,奧運冠軍
+perkHealthyBodyRank5Desc,progression,Skills,,Hercules,Геракл,大力神
 
-perkSelfMedicationName,progression,perk,,Self Medication,Самолечение
-perkSelfMedicationDesc,progression,perk,,"You can cure yourself of any disease. By developing self-healing, you increase the treatment received, the speed of recovery of critical wounds, and also gradually restore the health reserve.","Вы можете сами себя вылечить от любых болезней. Развивая самолечение вы увеливаете получаемое лечение, скорость восстановление критических ранений, а также постепенно восстанавливаете запас здоровья."
-perkSelfMedicationRank1LongDesc,progression,Skills,,"It hurts for now, but it will soon pass.\nHealing received increased by 10%. Critical wound recovery speed increased by 4%. You additionally restore 1 health every 35 seconds.","Пока болит, но скоро все пройдет.\nПолучаемое лечение увеличено на 10%. Скорость восстановления критических ранений увеличена на 4%. Вы дополнительно восстанавливаете 1 здоровье каждые 35 секунд."
-perkSelfMedicationRank2LongDesc,progression,Skills,,"You're still confusing the pills, but it seems to be helping.\nHealing received increased by 20%. Critical wound recovery speed increased by 8%. You restore an additional 1 health every 25 seconds.","Вы все еще путаете таблетки, но вроде помогает.\nПолучаемое лечение увеличено на 20%. Скорость восстановления критических ранений увеличена на 8%. Вы дополнительно восстанавливаете 1 здоровье каждые 25 секунд."
-perkSelfMedicationRank3LongDesc,progression,Skills,,"There is no secret - tie it up and lie down\nHealing received is increased by 30%. Critical wound recovery speed is increased by 12%. You additionally restore 1 health every 15 seconds.","Нет никакого секрета - завяжи и лежи\nПолучаемое лечение увеличено на 30%. Скорость восстановления критических ранений увеличена на 12%. Вы дополнительно восстанавливаете 1 здоровье каждые 15 секунд."
-perkSelfMedicationRank4LongDesc,progression,Skills,,"Old recipes for ointments and medicines work at all times.\nHealing received is increased by 40%. Critical wound recovery speed is increased by 16%. You additionally restore 1 health every 10 seconds.","Старые рецепты мазей и лекарств работают во все времена.\nПолучаемое лечение увеличено на 40%. Скорость восстановления критических ранений увеличена на 16%. Вы дополнительно восстанавливаете 1 здоровье каждые 10 секунд."
-perkSelfMedicationRank5LongDesc,progression,Skills,,"You are a Guru of Medicine.\nHealing received is increased by 50%. Critical wound recovery speed is increased by 20%. You additionally restore 1 health every 5 seconds.","Вы Гуру медицины.\nПолучаемое лечение увеличено на 50%. Скорость восстановления критических ранений увеличена на 20%. Вы дополнительно восстанавливаете 1 здоровье каждые 5 секунд."
-perkSelfMedicationRank1Desc,progression,Skills,,Nurse,Санитар
-perkSelfMedicationRank2Desc,progression,Skills,,Intern,Интерн
-perkSelfMedicationRank3Desc,progression,Skills,,Doctor,Врач
-perkSelfMedicationRank4Desc,progression,Skills,,Medical specialist,Специалист по медицине
-perkSelfMedicationRank5Desc,progression,Skills,,Doctor of Medical Sciences,Доктор медицинских наук
+perkSelfMedicationName,progression,perk,,Self Medication,Самолечение,自我醫療
+perkSelfMedicationDesc,progression,perk,,"You can cure yourself of any disease. By developing self-healing, you increase the treatment received, the speed of recovery of critical wounds, and also gradually restore the health reserve.","Вы можете сами себя вылечить от любых болезней. Развивая самолечение вы увеливаете получаемое лечение, скорость восстановление критических ранений, а также постепенно восстанавливаете запас здоровья.","你可以治癒自己的任何疾病。通過發展自我治療，你增加了接受的治療，重傷恢復的速度，並逐漸恢復健康儲備。"
+perkSelfMedicationRank1LongDesc,progression,Skills,,"It hurts for now, but it will soon pass.\nHealing received increased by 10%. Critical wound recovery speed increased by 4%. You additionally restore 1 health every 35 seconds.","Пока болит, но скоро все пройдет.\nПолучаемое лечение увеличено на 10%. Скорость восстановления критических ранений увеличена на 4%. Вы дополнительно восстанавливаете 1 здоровье каждые 35 секунд.","現在很疼，但很快就會過去。\n接受的治療增加10%。重傷恢復速度增加4%。你每35秒額外恢復1點健康。"
+perkSelfMedicationRank2LongDesc,progression,Skills,,"You're still confusing the pills, but it seems to be helping.\nHealing received increased by 20%. Critical wound recovery speed increased by 8%. You restore an additional 1 health every 25 seconds.","Вы все еще путаете таблетки, но вроде помогает.\nПолучаемое лечение увеличено на 20%. Скорость восстановления критических ранений увеличена на 8%. Вы дополнительно восстанавливаете 1 здоровье каждые 25 секунд.","你仍然搞混了藥丸，但似乎有幫助。\n接受的治療增加20%。重傷恢復速度增加8%。你每25秒額外恢復1點健康。"
+perkSelfMedicationRank3LongDesc,progression,Skills,,"There is no secret - tie it up and lie down\nHealing received is increased by 30%. Critical wound recovery speed is increased by 12%. You additionally restore 1 health every 15 seconds.","Нет никакого секрета - завяжи и лежи\nПолучаемое лечение увеличено на 30%. Скорость восстановления критических ранений увеличена на 12%. Вы дополнительно восстанавливаете 1 здоровье каждые 15 секунд.","沒有秘密 - 綁好傷口然後躺下\n接受的治療增加30%。重傷恢復速度增加12%。你每15秒額外恢復1點健康。"
+perkSelfMedicationRank4LongDesc,progression,Skills,,"Old recipes for ointments and medicines work at all times.\nHealing received is increased by 40%. Critical wound recovery speed is increased by 16%. You additionally restore 1 health every 10 seconds.","Старые рецепты мазей и лекарств работают во все времена.\nПолучаемое лечение увеличено на 40%. Скорость восстановления критических ранений увеличена на 16%. Вы дополнительно восстанавливаете 1 здоровье каждые 10 секунд.","古老的軟膏和藥物配方在任何時候都有效。\n接受的治療增加40%。重傷恢復速度增加16%。你每10秒額外恢復1點健康。"
+perkSelfMedicationRank5LongDesc,progression,Skills,,"You are a Guru of Medicine.\nHealing received is increased by 50%. Critical wound recovery speed is increased by 20%. You additionally restore 1 health every 5 seconds.","Вы Гуру медицины.\nПолучаемое лечение увеличено на 50%. Скорость восстановления критических ранений увеличена на 20%. Вы дополнительно восстанавливаете 1 здоровье каждые 5 секунд.","你是醫學大師。\n接受的治療增加50%。重傷恢復速度增加20%。你每5秒額外恢復1點健康。"
+perkSelfMedicationRank1Desc,progression,Skills,,Nurse,Санитар,護士
+perkSelfMedicationRank2Desc,progression,Skills,,Intern,Интерн,實習醫生
+perkSelfMedicationRank3Desc,progression,Skills,,Doctor,Врач,醫生
+perkSelfMedicationRank4Desc,progression,Skills,,Medical specialist,Специалист по медицине,醫學專家
+perkSelfMedicationRank5Desc,progression,Skills,,Doctor of Medical Sciences,Доктор медицинских наук,醫學博士
 
-perkFastFeetName,progression,perk,,Fast Feet,Быстрые ноги
-perkFastFeetDesc,progression,perk,,"Fast legs are essential when exploring the wasteland. Who knows who might show up and where.\nBy training your legs you increase your overall movement speed.","Быстрые ноги крайне важны когда вы исследуете пустошь. Кто знает кто и откуда может появиться.\nТренеруя свои ноги вы увеличиваете общую скорость пердвижения."
-perkFastFeetRank1LongDesc,progression,Skills,,"Movement is life... You said it when you saw the horde.\nMovement speed increased by 5%, and stamina consumption when running decreased by 5%","Движение жизнь... Сказали вы увидев орду.\nСкорость передвижения увеличена на 5%, а расход выносливости при беге уменьшен на 5%"
-perkFastFeetRank2LongDesc,progression,Skills,,"Sometimes it's better to run than to lie down.\nMovement speed increased by 10%, and stamina consumption while running decreased by 10%","Иногда лучше бежать чем лежать.\nСкорость передвижения увеличена на 10%, а расход выносливости при беге уменьшен на 10%"
-perkFastFeetRank3LongDesc,progression,Skills,,"The distance may not be long, but they definitely can't catch up with you.\nMovement speed increased by 15%, and stamina consumption while running decreased by 15%","Может дистанция и не большая, но догнать вас точно не могут.\nСкорость передвижения увеличена на 15%, а расход выносливости при беге уменьшен на 15%"
-perkFastFeetRank4LongDesc,progression,Skills,,"You can run a marathon right now. Your legs won't let you down.\nMovement speed increased by 20%, and stamina consumption when running decreased by 20%","Вам хоть сейчас на марафон. Ноги вас точно не подведут.\nСкорость передвижения увеличена на 20%, а расход выносливости при беге уменьшен на 20%"
-perkFastFeetRank5LongDesc,progression,Skills,,"You move like a rocket. No one can catch you.\nMovement speed increased by 30%, and stamina consumption while running decreased by 30%","Вы двигаетесь как ракета. Вас не догнать.\nСкорость передвижения увеличена на 30%, а расход выносливости при беге уменьшен на 30%"
-perkFastFeetRank1Desc,progression,Skills,,Speed walker,Скороход
-perkFastFeetRank2Desc,progression,Skills,,Runner,Бегун
-perkFastFeetRank3Desc,progression,Skills,,Sprinter,Спринтер
-perkFastFeetRank4Desc,progression,Skills,,Marathon runner,Марафонец
-perkFastFeetRank5Desc,progression,Skills,,Rocket Man,Человек ракета
+perkFastFeetName,progression,perk,,Fast Feet,Быстрые ноги,快腳
+perkFastFeetDesc,progression,perk,,"Fast legs are essential when exploring the wasteland. Who knows who might show up and where.\nBy training your legs you increase your overall movement speed.","Быстрые ноги крайне важны когда вы исследуете пустошь. Кто знает кто и откуда может появиться.\nТренеруя свои ноги вы увеличиваете общую скорость пердвижения.","在探索荒廢之地時，快速的腿是必不可少的。誰知道會從哪裡冒出什麼人。\n通過訓練你的腿，你增加了整體移動速度。"
+perkFastFeetRank1LongDesc,progression,Skills,,"Movement is life... You said it when you saw the horde.\nMovement speed increased by 5%, and stamina consumption when running decreased by 5%","Движение жизнь... Сказали вы увидев орду.\nСкорость передвижения увеличена на 5%, а расход выносливости при беге уменьшен на 5%","運動就是生命...當你看到那群殭屍時，你這麼說。\n移動速度增加5%，奔跑時的耐力消耗減少5%"
+perkFastFeetRank2LongDesc,progression,Skills,,"Sometimes it's better to run than to lie down.\nMovement speed increased by 10%, and stamina consumption while running decreased by 10%","Иногда лучше бежать чем лежать.\nСкорость передвижения увеличена на 10%, а расход выносливости при беге уменьшен на 10%","有時跑比躺下更好。\n移動速度增加10%，奔跑時的耐力消耗減少10%"
+perkFastFeetRank3LongDesc,progression,Skills,,"The distance may not be long, but they definitely can't catch up with you.\nMovement speed increased by 15%, and stamina consumption while running decreased by 15%","Может дистанция и не большая, но догнать вас точно не могут.\nСкорость передвижения увеличена на 15%, а расход выносливости при беге уменьшен на 15%","距離可能不長，但他們肯定追不上你。\n移動速度增加15%，奔跑時的耐力消耗減少15%"
+perkFastFeetRank4LongDesc,progression,Skills,,"You can run a marathon right now. Your legs won't let you down.\nMovement speed increased by 20%, and stamina consumption when running decreased by 20%","Вам хоть сейчас на марафон. Ноги вас точно не подведут.\nСкорость передвижения увеличена на 20%, а расход выносливости при беге уменьшен на 20%","你現在就可以跑馬拉松。你的腿絕對不會讓你失望。\n移動速度增加20%，奔跑時的耐力消耗減少20%"
+perkFastFeetRank5LongDesc,progression,Skills,,"You move like a rocket. No one can catch you.\nMovement speed increased by 30%, and stamina consumption while running decreased by 30%","Вы двигаетесь как ракета. Вас не догнать.\nСкорость передвижения увеличена на 30%, а расход выносливости при беге уменьшен на 30%","你的移動像火箭一樣。沒人能追上你。\n移動速度增加30%，奔跑時的耐力消耗減少30%"
+perkFastFeetRank1Desc,progression,Skills,,Speed walker,Скороход,快步行者
+perkFastFeetRank2Desc,progression,Skills,,Runner,Бегун,跑者
+perkFastFeetRank3Desc,progression,Skills,,Sprinter,Спринтер,短跑選手
+perkFastFeetRank4Desc,progression,Skills,,Marathon runner,Марафонец,馬拉松選手
+perkFastFeetRank5Desc,progression,Skills,,Rocket Man,Человек ракета,火箭人
 
-perkHeavyBurdenName,progression,perk,,Heavy Burden,Тяжелая ноша
-perkHeavyBurdenDesc,progression,perk,,"A teacher of packing and transporting any loads. This will allow you to carry more items without consequences.","Научитель упаковывать и транспортировать любые грузы. Это позволит вам переносить больше предметов без последствий."
-perkHeavyBurdenRank1LongDesc,progression,Skills,,"You can handle any boxes with ease.\nYou can carry 6 additional items without consequences","Вы легко управляетесь с любыми коробками.\nВы можете нести 6 дополнительных предметов без последствий"
-perkHeavyBurdenRank2LongDesc,progression,Skills,,"You understand perfectly well how to move heavy loads.\nYou can carry 12 additional items without consequences","Вы прекрасно понимате я переместить тяжелые грузы.\nВы можете нести 12 дополнительных предметов без последствий"
-perkHeavyBurdenRank3LongDesc,progression,Skills,,"You are an expert in packing and transporting any cargo.\nYou can carry 18 additional items without consequences","Вы эксперт в упаковке и транспортировке любых грузов.\nВы можете нести 18 дополнительных предметов без последствий"
-perkHeavyBurdenRank1Desc,progression,Skills,,Pizza delivery man,Доставщик пиццы
-perkHeavyBurdenRank2Desc,progression,Skills,,Cargo Master,Груз мастер
-perkHeavyBurdenRank3Desc,progression,Skills,,Genius of transportation,Гений транспортировки
+perkHeavyBurdenName,progression,perk,,Heavy Burden,Тяжелая ноша,沉重負擔
+perkHeavyBurdenDesc,progression,perk,,"A teacher of packing and transporting any loads. This will allow you to carry more items without consequences.","Научитель упаковывать и транспортировать любые грузы. Это позволит вам переносить больше предметов без последствий.","一位包裝和運輸任何負載的老師。這將允許你攜帶更多物品而不會有後果。"
+perkHeavyBurdenRank1LongDesc,progression,Skills,,"You can handle any boxes with ease.\nYou can carry 6 additional items without consequences","Вы легко управляетесь с любыми коробками.\nВы можете нести 6 дополнительных предметов без последствий","你可以輕鬆處理任何箱子。\n你可以額外攜帶6件物品而不會有後果"
+perkHeavyBurdenRank2LongDesc,progression,Skills,,"You understand perfectly well how to move heavy loads.\nYou can carry 12 additional items without consequences","Вы прекрасно понимате я переместить тяжелые грузы.\nВы можете нести 12 дополнительных предметов без последствий","你完全理解如何移動重物。\n你可以額外攜帶12件物品而不會有後果"
+perkHeavyBurdenRank3LongDesc,progression,Skills,,"You are an expert in packing and transporting any cargo.\nYou can carry 18 additional items without consequences","Вы эксперт в упаковке и транспортировке любых грузов.\nВы можете нести 18 дополнительных предметов без последствий","你是包裝和運輸任何貨物的專家。\n你可以額外攜帶18件物品而不會有後果"
+perkHeavyBurdenRank1Desc,progression,Skills,,Pizza delivery man,Доставщик пиццы,披薩送貨員
+perkHeavyBurdenRank2Desc,progression,Skills,,Cargo Master,Груз мастер,貨運大師
+perkHeavyBurdenRank3Desc,progression,Skills,,Genius of transportation,Гений транспортировки,運輸天才
 
-perkTirelessnessName,progression,perk,,Tirelessness,Неутомимость
-perkTirelessnessDesc,progression,perk,,"Learn to distribute your strength correctly. This will help you reduce the consumption of stamina when working with a tool or melee weapon.","Научитесь правильно распределять силы. Так вы сможете снизить расход выносливости при работе инструментом или оружием ближнего боя"
-perkTirelessnessRank1LongDesc,progression,Skills,,"You can easily help any housewife. Even if it is a big mom.\nStamina consumption when using melee weapons or tools is reduced by 15%","Вы легко можете помочь любой домохозайке. Даже если это большая мамочка.\nРасход выносливости при использовании оружия ближнего боя или инструмента уменьшен на 15%"
-perkTirelessnessRank2LongDesc,progression,Skills,,"The work of tenacity is to be afraid.\nThe stamina consumption when using a melee weapon or tool is reduced by 30%","Работа упорства боиться.\nРасход выносливости при использовании оружия ближнего боя или инструмента уменьшен на 30%"
-perkTirelessnessRank3LongDesc,progression,Skills,,"You control when your second, third, fourth... breath opens.\nStamina cost when using melee weapons or tools is reduced by 45%","Вы контролируете когда откроется второе, третье, четвертое... дыхания.\nРасход выносливости при использовании оружия ближнего боя или инструмента уменьшен на 45%"
-perkTirelessnessRank1Desc,progression,Skills,,Husband for an hour,Муж на час
-perkTirelessnessRank2Desc,progression,Skills,,Hard work,Упорная работа
-perkTirelessnessRank3Desc,progression,Skills,,Master of the Second Wind,Мастер второго дыхания
+perkTirelessnessName,progression,perk,,Tirelessness,Неутомимость,不知疲倦
+perkTirelessnessDesc,progression,perk,,"Learn to distribute your strength correctly. This will help you reduce the consumption of stamina when working with a tool or melee weapon.","Научитесь правильно распределять силы. Так вы сможете снизить расход выносливости при работе инструментом или оружием ближнего боя","學會正確分配你的力量。這將幫助你減少使用工具或近戰武器時的耐力消耗。"
+perkTirelessnessRank1LongDesc,progression,Skills,,"You can easily help any housewife. Even if it is a big mom.\nStamina consumption when using melee weapons or tools is reduced by 15%","Вы легко можете помочь любой домохозайке. Даже если это большая мамочка.\nРасход выносливости при использовании оружия ближнего боя или инструмента уменьшен на 15%","你可以輕鬆幫助任何家庭主婦。即使是大媽也不例外。\n使用近戰武器或工具時的耐力消耗減少15%"
+perkTirelessnessRank2LongDesc,progression,Skills,,"The work of tenacity is to be afraid.\nThe stamina consumption when using a melee weapon or tool is reduced by 30%","Работа упорства боиться.\nРасход выносливости при использовании оружия ближнего боя или инструмента уменьшен на 30%","堅持不懈的工作是要害怕的。\n使用近戰武器或工具時的耐力消耗減少30%"
+perkTirelessnessRank3LongDesc,progression,Skills,,"You control when your second, third, fourth... breath opens.\nStamina cost when using melee weapons or tools is reduced by 45%","Вы контролируете когда откроется второе, третье, четвертое... дыхания.\nРасход выносливости при использовании оружия ближнего боя или инструмента уменьшен на 45%","你可以控制你的第二、第三、第四...口氣何時開始。\n使用近戰武器或工具時的耐力消耗減少45%"
+perkTirelessnessRank1Desc,progression,Skills,,Husband for an hour,Муж на час,鐘點丈夫
+perkTirelessnessRank2Desc,progression,Skills,,Hard work,Упорная работа,艱苦工作
+perkTirelessnessRank3Desc,progression,Skills,,Master of the Second Wind,Мастер второго дыхания,第二呼吸大師
 
 0000 Resource gathering 0000
 
-skillResourceGatheringName,progression,Skills,,Resource gathering skills,Навыки сбора ресурсов
+skillResourceGatheringName,progression,Skills,,Resource gathering skills,Навыки сбора ресурсов,資源收集技能
 
-perkStoneUpStoneName,progression,perk,,Stone Upon Stone,Камень на камне
-perkStoneUpStoneDesc,progression,perk,,"A good miner can destroy a mountain. A super miner can change the world. By developing the skill you will increase the damage to blocks and the amount of resources obtained during mining.","Хороший шахтер может разрушить гору. Супер Шахтер может изменять мир. Развивая навык вы увеличите урон по блокам и объем получаемых ресурсов при добыче"
-perkStoneUpStoneRank1LongDesc,progression,Skills,,"Knock... knock... knock...\nIncreased block damage and resource yield by 20% when mining","Тук... тук... тук...\nНа 20% увеличен урон по блокам и получаемые ресурсы при горной добыче"
-perkStoneUpStoneRank2LongDesc,progression,Skills,,"Knock-knock-knock...\nIncreased block damage and resource yield by 40% when mining","Тук-тук-тук...\nНа 40% увеличен урон по блокам и получаемые ресурсы при горной добыче"
-perkStoneUpStoneRank3LongDesc,progression,Skills,,"The main thing is that nothing collapses after such extraction.\nIncreased block damage and resource yield by 60% when mining","Главное чтобы ничего после такой добычи не обвалилось.\nНа 60% увеличен урон по блокам и получаемые ресурсы при горной добыче"
-perkStoneUpStoneRank4LongDesc,progression,Skills,,"KNOCK-k-k... KNOCK-k-k... KNOCK-k-k...\nIncreased block damage and resource yield by 80% when mining","ТУК-к-к... ТУК-к-к... ТУК-к-к...\nНа 80% увеличен урон по блокам и получаемые ресурсы при горной добыче"
-perkStoneUpStoneRank5LongDesc,progression,Skills,,"A smart person won't go up a mountain, a smart person will go around a mountain. A super miner won't go up a mountain, he'll smash it.\nIncreased block damage and resource yield by 100% when mining","Умный в гору не пойдет, умный гору обойдет. Супер шахтер в гору не пойдет, он ее раздолбает.\nНа 100% увеличен урон по блокам и получаемые ресурсы при горной добыче"
-perkStoneUpStoneRank1Desc,progression,Skills,,The Dolt,Долбатель
-perkStoneUpStoneRank2Desc,progression,Skills,,Rock crusher,Камнедробитель
-perkStoneUpStoneRank3Desc,progression,Skills,,Mine Intendent,Смотритель шахты
-perkStoneUpStoneRank4Desc,progression,Skills,,Mountain Destroyer,Разрушитель гор
-perkStoneUpStoneRank5Desc,progression,Skills,,Super Miner,Супер шахтер
+perkStoneUpStoneName,progression,perk,,Stone Upon Stone,Камень на камне,石上加石
+perkStoneUpStoneDesc,progression,perk,,"A good miner can destroy a mountain. A super miner can change the world. By developing the skill you will increase the damage to blocks and the amount of resources obtained during mining.","Хороший шахтер может разрушить гору. Супер Шахтер может изменять мир. Развивая навык вы увеличите урон по блокам и объем получаемых ресурсов при добыче","一個好的礦工可以摧毀一座山。一個超級礦工可以改變世界。通過發展這項技能，你將增加對方塊的傷害和採礦時獲得的資源量。"
+perkStoneUpStoneRank1LongDesc,progression,Skills,,"Knock... knock... knock...\nIncreased block damage and resource yield by 20% when mining","Тук... тук... тук...\nНа 20% увеличен урон по блокам и получаемые ресурсы при горной добыче","敲...敲...敲...\n採礦時增加20%的方塊傷害和資源產量"
+perkStoneUpStoneRank2LongDesc,progression,Skills,,"Knock-knock-knock...\nIncreased block damage and resource yield by 40% when mining","Тук-тук-тук...\nНа 40% увеличен урон по блокам и получаемые ресурсы при горной добыче","敲敲敲...\n採礦時增加40%的方塊傷害和資源產量"
+perkStoneUpStoneRank3LongDesc,progression,Skills,,"The main thing is that nothing collapses after such extraction.\nIncreased block damage and resource yield by 60% when mining","Главное чтобы ничего после такой добычи не обвалилось.\nНа 60% увеличен урон по блокам и получаемые ресурсы при горной добыче","最重要的是這樣開採後不會有任何塌陷。\n採礦時增加60%的方塊傷害和資源產量"
+perkStoneUpStoneRank4LongDesc,progression,Skills,,"KNOCK-k-k... KNOCK-k-k... KNOCK-k-k...\nIncreased block damage and resource yield by 80% when mining","ТУК-к-к... ТУК-к-к... ТУК-к-к...\nНа 80% увеличен урон по блокам и получаемые ресурсы при горной добыче","咚-咚-咚... 咚-咚-咚... 咚-咚-咚...\n採礦時增加80%的方塊傷害和資源產量"
+perkStoneUpStoneRank5LongDesc,progression,Skills,,"A smart person won't go up a mountain, a smart person will go around a mountain. A super miner won't go up a mountain, he'll smash it.\nIncreased block damage and resource yield by 100% when mining","Умный в гору не пойдет, умный гору обойдет. Супер шахтер в гору не пойдет, он ее раздолбает.\nНа 100% увеличен урон по блокам и получаемые ресурсы при горной добыче","聰明人不會爬山，聰明人會繞過山。超級礦工不會爬山，他會把山砸碎。\n採礦時增加100%的方塊傷害和資源產量"
+perkStoneUpStoneRank1Desc,progression,Skills,,The Dolt,Долбатель,呆子
+perkStoneUpStoneRank2Desc,progression,Skills,,Rock crusher,Камнедробитель,碎石機
+perkStoneUpStoneRank3Desc,progression,Skills,,Mine Intendent,Смотритель шахты,礦場監督
+perkStoneUpStoneRank4Desc,progression,Skills,,Mountain Destroyer,Разрушитель гор,山峰破壞者
+perkStoneUpStoneRank5Desc,progression,Skills,,Super Miner,Супер шахтер,超級礦工
 
-perkRecyclingName,progression,perk,,Recycling,Переработка
-perkRecyclingDesc,progression,perk,,"With detailed processing you get more useful resources. The problem with spare parts will solve itself","При детальной переработке вы получаете больше полезных ресурсов. Проблема с запчастями решиться сама собой"
-perkRecyclingRank1LongDesc,progression,Skills,,"If you remember how to assemble, then disassembling is easy.\nDisassembly speed and resources received are increased by 20%","Если помнить как собрать, тогда и разбирать легко.\nНа 20% увеличена скорость при разборе и получаемые ресурсы"
-perkRecyclingRank2LongDesc,progression,Skills,,"Assembly line at the factory, almost the same as the dismantling line in the wasteland.\nSpeed of dismantling and resources received increased by 40%","Сборачная линия на заводе, почти тоже самое что разборачная в пустоше.\nНа 40% увеличена скорость при разборе и получаемые ресурсы"
-perkRecyclingRank3LongDesc,progression,Skills,,"These guys don't have spare parts.\n60% increase in dismantling speed and resources received","У этих ребят не бывает лишних запчастей.\nНа 60% увеличена скорость при разборе и получаемые ресурсы"
-perkRecyclingRank4LongDesc,progression,Skills,,"The expert will always be able to find useful parts even in trash.\nThe speed of disassembling and the resources received have been increased by 80%","Эксперт всегда сможет найти полезные части даже в мусоре.\nНа 80% увеличена скорость при разборе и получаемые ресурсы"
-perkRecyclingRank5LongDesc,progression,Skills,,"Super master always knows how to make candy out of trash. And vice versa.\nSpeed of disassembly and resources received are increased by 100%","Супер мастер всегда знает как из мусора собрать конфетку. И наоборот.\nНа 100% увеличена скорость при разборе и получаемые ресурсы"
-perkRecyclingRank1Desc,progression,Skills,,Assembler,Сборщик
-perkRecyclingRank2Desc,progression,Skills,,Workshop worker,Работник цеха
-perkRecyclingRank3Desc,progression,Skills,,IKEA Master,Мастер IKEA
-perkRecyclingRank4Desc,progression,Skills,,Expert Disassembler,Эксперт по разборке
-perkRecyclingRank5Desc,progression,Skills,,Super Disassembler,Супер разборщик
+perkRecyclingName,progression,perk,,Recycling,Переработка,回收
+perkRecyclingDesc,progression,perk,,"With detailed processing you get more useful resources. The problem with spare parts will solve itself","При детальной переработке вы получаете больше полезных ресурсов. Проблема с запчастями решиться сама собой","通過詳細的處理，你可以獲得更多有用的資源。備件的問題將自行解決"
+perkRecyclingRank1LongDesc,progression,Skills,,"If you remember how to assemble, then disassembling is easy.\nDisassembly speed and resources received are increased by 20%","Если помнить как собрать, тогда и разбирать легко.\nНа 20% увеличена скорость при разборе и получаемые ресурсы","如果你記得如何組裝，那麼拆解就很容易。\n拆解速度和獲得的資源增加20%"
+perkRecyclingRank2LongDesc,progression,Skills,,"Assembly line at the factory, almost the same as the dismantling line in the wasteland.\nSpeed of dismantling and resources received increased by 40%","Сборачная линия на заводе, почти тоже самое что разборачная в пустоше.\nНа 40% увеличена скорость при разборе и получаемые ресурсы","工廠的裝配線，幾乎和荒廢之地的拆解線一樣。\n拆解速度和獲得的資源增加40%"
+perkRecyclingRank3LongDesc,progression,Skills,,"These guys don't have spare parts.\n60% increase in dismantling speed and resources received","У этих ребят не бывает лишних запчастей.\nНа 60% увеличена скорость при разборе и получаемые ресурсы","這些傢伙沒有多餘的零件。\n拆解速度和獲得的資源增加60%"
+perkRecyclingRank4LongDesc,progression,Skills,,"The expert will always be able to find useful parts even in trash.\nThe speed of disassembling and the resources received have been increased by 80%","Эксперт всегда сможет найти полезные части даже в мусоре.\nНа 80% увеличена скорость при разборе и получаемые ресурсы","專家總能在垃圾中找到有用的零件.\n拆解速度和獲得的資源增加80%"
+perkRecyclingRank5LongDesc,progression,Skills,,"Super master always knows how to make candy out of trash. And vice versa.\nSpeed of disassembly and resources received are increased by 100%","Супер мастер всегда знает как из мусора собрать конфетку. И наоборот.\nНа 100% увеличена скорость при разборе и получаемые ресурсы","超級大師總是知道如何從垃圾中製造糖果。反之亦然。\n拆解速度和獲得的資源增加100%"
+perkRecyclingRank1Desc,progression,Skills,,Assembler,Сборщик,組裝工
+perkRecyclingRank2Desc,progression,Skills,,Workshop worker,Работник цеха,車間工人
+perkRecyclingRank3Desc,progression,Skills,,IKEA Master,Мастер IKEA,宜家大師
+perkRecyclingRank4Desc,progression,Skills,,Expert Disassembler,Эксперт по разборке,拆解專家
+perkRecyclingRank5Desc,progression,Skills,,Super Disassembler,Супер разборщик,超級拆解者
 
-perkMeatFeastName,progression,perk,,Meat Feast,Мясной пир
-perkMeatFeastDesc,progression,perk,,"Rabbits are not only valuable fur, but also 1, 10 or even 76.3 kilograms of delicious meat. It all depends on where you found this rabbit. Learn to skillfully handle a knife or tool when cutting up animal carcasses. This will allow you to get more useful resources","Кролики это не только ценный мех, но и 1, 10 или даже 76,3 килограмм вкуснейшего мяса. Все зависит от того, где ты нашел этого кролика. Научитесь вертуозно обращаться с ножом или инструментом при разделке туш животных. Это позволит вам получить больше полезных ресурсов"
-perkMeatFeastRank1LongDesc,progression,Skills,,"If you cut around the edges, you can make excellent shawarma.\nThe amount of resources when cutting up animal carcasses has been increased by 20%","Если надрезать по краям можно приготовить отменную шаверму.\nНа 20% увеличено количество ресурсов при разделке туш животных"
-perkMeatFeastRank2LongDesc,progression,Skills,,"Butchering small animals is your main profession.\nThe amount of resources when butchering animal carcasses has been increased by 40%","Разделывать мелкую дичь ваша основная профессия.\nНа 40% увеличено количество ресурсов при разделке туш животных"
-perkMeatFeastRank3LongDesc,progression,Skills,,"With animals it's almost like with fish, only there's more blood.\nThe amount of resources when cutting up animal carcasses has been increased by 60%","С животными почти как с рыбой, только крови больше.\nНа 60% увеличено количество ресурсов при разделке туш животных"
-perkMeatFeastRank4LongDesc,progression,Skills,,"You know very well how to get the maximum amount of meat when cutting up a carcass. Not necessarily animals.\nThe amount of resources when cutting up animal carcasses has been increased by 80%","Вы прекрасно знаете как добыть максимум мяса при разделке туши. Не обязательно животных.\nНа 80% увеличено количество ресурсов при разделке туш животных"
-perkMeatFeastRank5LongDesc,progression,Skills,,"The super butcher takes everything from life. What can we say about the carcasses he butchers.\nThe amount of resources when butchering animal carcasses has been increased by 100%","Супер мясник берет от жизни все. Что уже говорить про туши которые он разделывает.\nНа 100% увеличено количество ресурсов при разделке туш животных"
-perkMeatFeastRank1Desc,progression,Skills,,Food court worker,Работник фудкорта
-perkMeatFeastRank2Desc,progression,Skills,,Senior Assistant Junior Chef,Старший помощник младшего повара
-perkMeatFeastRank3Desc,progression,Skills,,Sushi master,Суши мастер
-perkMeatFeastRank4Desc,progression,Skills,,Junior Assistant to the Head Chef,Младший помощник старшего повара
-perkMeatFeastRank5Desc,progression,Skills,,Super Butcher,Супер мясник
+perkMeatFeastName,progression,perk,,Meat Feast,Мясной пир,肉食盛宴
+perkMeatFeastDesc,progression,perk,,"Rabbits are not only valuable fur, but also 1, 10 or even 76.3 kilograms of delicious meat. It all depends on where you found this rabbit. Learn to skillfully handle a knife or tool when cutting up animal carcasses. This will allow you to get more useful resources","Кролики это не только ценный мех, но и 1, 10 или даже 76,3 килограмм вкуснейшего мяса. Все зависит от того, где ты нашел этого кролика. Научитесь вертуозно обращаться с ножом или инструментом при разделке туш животных. Это позволит вам получить больше полезных ресурсов","兔子不僅是有價值的毛皮，還有1、10甚至76.3公斤的美味肉。這完全取決於你在哪裡找到這隻兔子。學會在切割動物屍體時熟練使用刀具或工具。這將使你獲得更多有用的資源"
+perkMeatFeastRank1LongDesc,progression,Skills,,"If you cut around the edges, you can make excellent shawarma.\nThe amount of resources when cutting up animal carcasses has been increased by 20%","Если надрезать по краям можно приготовить отменную шаверму.\nНа 20% увеличено количество ресурсов при разделке туш животных","如果你沿邊緣切割，你可以做出excellent的沙威瑪。\n切割動物屍體時獲得的資源量增加了20%"
+perkMeatFeastRank2LongDesc,progression,Skills,,"Butchering small animals is your main profession.\nThe amount of resources when butchering animal carcasses has been increased by 40%","Разделывать мелкую дичь ваша основная профессия.\nНа 40% увеличено количество ресурсов при разделке туш животных","屠宰小動物是你的主要職業。\n切割動物屍體時獲得的資源量增加了40%"
+perkMeatFeastRank3LongDesc,progression,Skills,,"With animals it's almost like with fish, only there's more blood.\nThe amount of resources when cutting up animal carcasses has been increased by 60%","С животными почти как с рыбой, только крови больше.\nНа 60% увеличено количество ресурсов при разделке туш животных","處理動物幾乎和處理魚一樣，只是血更多。\n切割動物屍體時獲得的資源量增加了60%"
+perkMeatFeastRank4LongDesc,progression,Skills,,"You know very well how to get the maximum amount of meat when cutting up a carcass. Not necessarily animals.\nThe amount of resources when cutting up animal carcasses has been increased by 80%","Вы прекрасно знаете как добыть максимум мяса при разделке туши. Не обязательно животных.\nНа 80% увеличено количество ресурсов при разделке туш животных","你非常清楚如何在切割屍體時獲得最大量的肉。不一定是動物的。\n切割動物屍體時獲得的資源量增加了80%"
+perkMeatFeastRank5LongDesc,progression,Skills,,"The super butcher takes everything from life. What can we say about the carcasses he butchers.\nThe amount of resources when butchering animal carcasses has been increased by 100%","Супер мясник берет от жизни все. Что уже говорить про туши которые он разделывает.\nНа 100% увеличено количество ресурсов при разделке туш животных","超級屠夫從生活中獲取一切。更不用說他屠宰的屍體了。\n切割動物屍體時獲得的資源量增加了100%"
+perkMeatFeastRank1Desc,progression,Skills,,Food court worker,Работник фудкорта,美食廣場工作者
+perkMeatFeastRank2Desc,progression,Skills,,Senior Assistant Junior Chef,Старший помощник младшего повара,高級助理初級廚師
+perkMeatFeastRank3Desc,progression,Skills,,Sushi master,Суши мастер,壽司大師
+perkMeatFeastRank4Desc,progression,Skills,,Junior Assistant to the Head Chef,Младший помощник старшего повара,主廚初級助理
+perkMeatFeastRank5Desc,progression,Skills,,Super Butcher,Супер мясник,超級屠夫
 
-perkGoodSowingName,progression,perk,,Good Sowing,Хорошая посевная
-perkGoodSowingDesc,progression,perk,,"Good sowing is the key to a good harvest. The teacher sows correctly and then you will have something to collect. Increases the amount of resources collected and gives a chance to get additional seeds when collecting.","Хорошая посевная - залог хорошего урожая. Научитель правильно сеят и тогда вам будет что собирать. Увеличивает количество собираемых ресурсов и дает шанс получить дополнительные семена при сборе."
-perkGoodSowingRank1LongDesc,progression,Skills,,"A garden can't be beautiful without putting in the effort.\nWhen you harvest, you get 1 more seed","Сад не может быть красивым не приложив к этому усилий.\nПри сборе урожая вы получаете на 1 семя больше"
-perkGoodSowingRank2LongDesc,progression,Skills,,"The garden is your second home.\nWhen harvesting, you get 1 more seed, 1 more resource. Also, the chance to find seeds is increased by 10%","Огород ваш второй дом.\nПри сборе урожая вы получаете на 1 семя больше, на 1 ресурс больше. Также шанс найти семена увеличен на 10%"
-perkGoodSowingRank3LongDesc,progression,Skills,,"You have mastered the farming business to perfection.\nWhen harvesting, you get 1 more seed, 2 more resources. Also, the chance to find seeds is increased by 20%","Вы в совершенстве овладели фермерским делом.\nПри сборе урожая вы получаете на 1 семя больше, на 2 ресурса больше. Также шанс найти семена увеличен на 20%"
-perkGoodSowingRank1Desc,progression,Skills,,Gardener,Садовод
-perkGoodSowingRank2Desc,progression,Skills,,Fatan of the gardens,Фатан огородов
-perkGoodSowingRank3Desc,progression,Skills,,Farmer from God,Фермер от бога
+perkGoodSowingName,progression,perk,,Good Sowing,Хорошая посевная,良好播種
+perkGoodSowingDesc,progression,perk,,"Good sowing is the key to a good harvest. The teacher sows correctly and then you will have something to collect. Increases the amount of resources collected and gives a chance to get additional seeds when collecting.","Хорошая посевная - залог хорошего урожая. Научитель правильно сеят и тогда вам будет что собирать. Увеличивает количество собираемых ресурсов и дает шанс получить дополнительные семена при сборе.","良好的播種是豐收的關鍵。老師正確播種，然後你就有東西可以收穫。增加收集的資源量，並在收集時有機會獲得額外的種子。"
+perkGoodSowingRank1LongDesc,progression,Skills,,"A garden can't be beautiful without putting in the effort.\nWhen you harvest, you get 1 more seed","Сад не может быть красивым не приложив к этому усилий.\nПри сборе урожая вы получаете на 1 семя больше","沒有付出努力，花園就不可能美麗。\n收穫時，你會多得到1顆種子"
+perkGoodSowingRank2LongDesc,progression,Skills,,"The garden is your second home.\nWhen harvesting, you get 1 more seed, 1 more resource. Also, the chance to find seeds is increased by 10%","Огород ваш второй дом.\nПри сборе урожая вы получаете на 1 семя больше, на 1 ресурс больше. Также шанс найти семена увеличен на 10%","花園是你的第二個家。\n收穫時，你會多得到1顆種子，1個資源。此外，找到種子的機會增加10%"
+perkGoodSowingRank3LongDesc,progression,Skills,,"You have mastered the farming business to perfection.\nWhen harvesting, you get 1 more seed, 2 more resources. Also, the chance to find seeds is increased by 20%","Вы в совершенстве овладели фермерским делом.\nПри сборе урожая вы получаете на 1 семя больше, на 2 ресурса больше. Также шанс найти семена увеличен на 20%","你已經完美掌握了農業。\n收穫時，你會多得到1顆種子，2個資源。此外，找到種子的機會增加20%"
+perkGoodSowingRank1Desc,progression,Skills,,Gardener,Садовод,園丁
+perkGoodSowingRank2Desc,progression,Skills,,Fatan of the gardens,Фатан огородов,花園達人
+perkGoodSowingRank3Desc,progression,Skills,,Farmer from God,Фермер от бога,天賦農夫
 
 0000 Armor Skills 0000
 
-skillArmorName,progression,Skills,,Armor skills,Навыки владения броней
+skillArmorName,progression,Skills,,Armor skills,Навыки владения броней,護甲技能
 
-perkArmorLightName,progression,perk,,Light Armor,Легкая броня
-perkArmorLightDesc,progression,perk,,"True connoisseurs of light armor can always adjust it to themselves. By improving the skill of possession, you reduce the speed of its breakdown, increase the speed of your run, and also reduce all damage received when wearing a full set.","Настоящие ценители легкой брони всегда могу подстроить ее под себя. Улучшая навык владения вы снижаете скорость ее поломки, увеличиваете скорость своего бега, а также снижаете весь получаемый урон при ношении полного комплекта."
-perkArmorLightRank1LongDesc,progression,Skills,,"You are a amateur of light armor.\nYour armor breakage rate is reduced by 10%. When wearing a full set of light armor, your running speed is increased by 5% and damage taken is reduced by 3%.","Вы любитель легкой брони.\nСкорость поломки брони уменьшена на 10%. При ношении полного комплекта легкой брони скорость вашего бега увеличена на 5%, а получаемый урон уменьшен на 3%."
-perkArmorLightRank2LongDesc,progression,Skills,,"You are a light armor pro.\nArmor breakage rate is reduced by 20%. When wearing a full set of light armor, your running speed is increased by 10% and damage taken is reduced by 6%.","Вы профи легкой брони.\nСкорость поломки брони уменьшена на 20%. При ношении полного комплекта легкой брони скорость вашего бега увеличена на 10%, а получаемый урон уменьшен на 6%."
-perkArmorLightRank3LongDesc,progression,Skills,,"You are a fan of light armor.\nArmor breakage rate is reduced by 30%. When wearing a full set of light armor, your running speed is increased by 15% and damage taken is reduced by 9%.","Вы фанат легкой брони.\nСкорость поломки брони уменьшена на 30%. При ношении полного комплекта легкой брони скорость вашего бега увеличена на 15%, а получаемый урон уменьшен на 9%."
-perkArmorLightRank4LongDesc,progression,Skills,,"You are an expert in light armor.\nYour armor breakage rate is reduced by 40%. When wearing a full set of light armor, your running speed is increased by 20% and damage taken is reduced by 12%.","Вы эксперт легкой брони.\nСкорость поломки брони уменьшена на 40%. При ношении полного комплекта легкой брони скорость вашего бега увеличена на 20%, а получаемый урон уменьшен на 12%."
-perkArmorLightRank5LongDesc,progression,Skills,,"You are a master of light armor.\nArmor breakage rate is reduced by 50%. While wearing a full set of light armor, your run speed is increased by 25% and damage taken is reduced by 15%.","Вы мастер легкой брони.\nСкорость поломки брони уменьшена на 50%. При ношении полного комплекта легкой брони скорость вашего бега увеличена на 25%, а получаемый урон уменьшен на 15%."
-perkArmorLightRank1Desc,progression,Skills,,Amateur,Любитель
-perkArmorLightRank2Desc,progression,Skills,,Pro,Профи
-perkArmorLightRank3Desc,progression,Skills,,Fan,Фанат
-perkArmorLightRank4Desc,progression,Skills,,Expert,Эксперт
-perkArmorLightRank5Desc,progression,Skills,,Master,Мастер
+perkArmorLightName,progression,perk,,Light Armor,Легкая броня,輕甲
+perkArmorLightDesc,progression,perk,,"True connoisseurs of light armor can always adjust it to themselves. By improving the skill of possession, you reduce the speed of its breakdown, increase the speed of your run, and also reduce all damage received when wearing a full set.","Настоящие ценители легкой брони всегда могу подстроить ее под себя. Улучшая навык владения вы снижаете скорость ее поломки, увеличиваете скорость своего бега, а также снижаете весь получаемый урон при ношении полного комплекта.","真正的輕甲鑑賞家總能調整它以適應自己。通過提高掌握技能，你可以減少它的損壞速度，增加你的奔跑速度，並在穿戴全套時減少所有受到的傷害。"
+perkArmorLightRank1LongDesc,progression,Skills,,"You are a amateur of light armor.\nYour armor breakage rate is reduced by 10%. When wearing a full set of light armor, your running speed is increased by 5% and damage taken is reduced by 2%.","Вы любитель легкой брони.\nСкорость поломки брони уменьшена на 10%. При ношении полного комплекта легкой брони скорость вашего бега увеличена на 5%, а получаемый урон уменьшен на 2%.","你是輕甲的愛好者。\n你的護甲損壞率降低10%。穿戴全套輕甲時，你的奔跑速度增加5%，受到的傷害減少2%。"
+perkArmorLightRank2LongDesc,progression,Skills,,"You are a light armor pro.\nArmor breakage rate is reduced by 20%. When wearing a full set of light armor, your running speed is increased by 10% and damage taken is reduced by 4%.","Вы профи легкой брони.\nСкорость поломки брони уменьшена на 20%. При ношении полного комплекта легкой брони скорость вашего бега увеличена на 10%, а получаемый урон уменьшен на 4%.","你是輕甲專家。\n護甲損壞率降低20%。穿戴全套輕甲時，你的奔跑速度增加10%，受到的傷害減少4%。"
+perkArmorLightRank3LongDesc,progression,Skills,,"You are a fan of light armor.\nArmor breakage rate is reduced by 30%. When wearing a full set of light armor, your running speed is increased by 15% and damage taken is reduced by 6%.","Вы фанат легкой брони.\nСкорость поломки брони уменьшена на 30%. При ношении полного комплекта легкой брони скорость вашего бега увеличена на 15%, а получаемый урон уменьшен на 6%.","你是輕甲的粉絲。\n護甲損壞率降低30%。穿戴全套輕甲時，你的奔跑速度增加15%，受到的傷害減少6%。"
+perkArmorLightRank4LongDesc,progression,Skills,,"You are an expert in light armor.\nYour armor breakage rate is reduced by 40%. When wearing a full set of light armor, your running speed is increased by 20% and damage taken is reduced by 8%.","Вы эксперт легкой брони.\nСкорость поломки брони уменьшена на 40%. При ношении полного комплекта легкой брони скорость вашего бега увеличена на 20%, а получаемый урон уменьшен на 8%.","你是輕甲專家。\n你的護甲損壞率降低40%。穿戴全套輕甲時，你的奔跑速度增加20%，受到的傷害減少8%。"
+perkArmorLightRank5LongDesc,progression,Skills,,"You are a master of light armor.\nArmor breakage rate is reduced by 50%. While wearing a full set of light armor, your run speed is increased by 25% and damage taken is reduced by 10%.","Вы мастер легкой брони.\nСкорость поломки брони уменьшена на 50%. При ношении полного комплекта легкой брони скорость вашего бега увеличена на 25%, а получаемый урон уменьшен на 10%.","你是輕甲大師。\n護甲損壞率降低50%。穿戴全套輕甲時，你的奔跑速度增加25%，受到的傷害減少10%。"
+perkArmorLightRank1Desc,progression,Skills,,Amateur,Любитель,業餘愛好者
+perkArmorLightRank2Desc,progression,Skills,,Pro,Профи,專業
+perkArmorLightRank3Desc,progression,Skills,,Fan,Фанат,粉絲
+perkArmorLightRank4Desc,progression,Skills,,Expert,Эксперт,專家
+perkArmorLightRank5Desc,progression,Skills,,Master,Мастер,大師
 
-perkArmorMediumName,progression,perk,,Medium Armor,Средняя броня
-perkArmorMediumDesc,progression,perk,,"True connoisseurs of medium armor can always adjust it to suit themselves. By improving the skill of possession, you reduce the speed of its breakdown, increase damage to enemies from ranged weapons, and also reduce all damage received when wearing a full set.","Настоящие ценители средней брони всегда могу подстроить ее под себя. Улучшая навык владения вы снижаете скорость ее поломки, увеличиваете урон по противникам из оружия дальнего боя, а также снижаете весь получаемый урон при ношении полного комплекта."
-perkArmorMediumRank1LongDesc,progression,Skills,,"You are a amateur of medium armor.\nArmor breakdown rate is reduced by 10%. When wearing a full set of medium armor, ranged damage to enemies is increased by 3%, and damage taken is reduced by 4%.","Вы любитель средней брони.\nСкорость поломки брони уменьшена на 10%. При ношении полного комплекта средней брони урон по противникам из оружия дальнего боя увеличена на 3%, а получаемый урон уменьшен на 4%."
-perkArmorMediumRank2LongDesc,progression,Skills,,"You are a pro at medium armor.\nArmor breakdown rate is reduced by 20%. When wearing a full set of medium armor, ranged damage to enemies is increased by 6%, and damage taken is reduced by 8%.","Вы профи средней брони.\nСкорость поломки брони уменьшена на 20%. При ношении полного комплекта средней брони урон по противникам из оружия дальнего боя увеличена на 6%, а получаемый урон уменьшен на 8%."
-perkArmorMediumRank3LongDesc,progression,Skills,,"You're a fan of medium armor.\nArmor breakdown rate reduced by 30%. When wearing a full set of medium armor, ranged damage to enemies is increased by 9%, and damage taken is reduced by 12%.","Вы фанат средней брони.\nСкорость поломки брони уменьшена на 30%. При ношении полного комплекта средней брони урон по противникам из оружия дальнего боя увеличена на 9%, а получаемый урон уменьшен на 12%."
-perkArmorMediumRank4LongDesc,progression,Skills,,"You are an expert in medium armor.\nArmor breakdown rate is reduced by 40%. When wearing a full set of medium armor, ranged damage to enemies is increased by 12%, and damage taken is reduced by 16%.","Вы эксперт средней брони.\nСкорость поломки брони уменьшена на 40%. При ношении полного комплекта средней брони урон по противникам из оружия дальнего боя увеличена на 12%, а получаемый урон уменьшен на 16%."
-perkArmorMediumRank5LongDesc,progression,Skills,,"You are a master of medium armor.\nArmor breakdown rate is reduced by 50%. When wearing a full set of medium armor, ranged damage to enemies is increased by 15%, and damage taken is reduced by 20%.","Вы мастер средней брони.\nСкорость поломки брони уменьшена на 50%. При ношении полного комплекта средней брони урон по противникам из оружия дальнего боя увеличена на 15%, а получаемый урон уменьшен на 20%."
-perkArmorMediumRank1Desc,progression,Skills,,Amateur,Любитель
-perkArmorMediumRank2Desc,progression,Skills,,Pro,Профи
-perkArmorMediumRank3Desc,progression,Skills,,Fan,Фанат
-perkArmorMediumRank4Desc,progression,Skills,,Expert,Эксперт
-perkArmorMediumRank5Desc,progression,Skills,,Master,Мастер
+perkArmorMediumName,progression,perk,,Medium Armor,Средняя броня,中甲
+perkArmorMediumDesc,progression,perk,,"True connoisseurs of medium armor can always adjust it to suit themselves. By improving the skill of possession, you reduce the speed of its breakdown, increase damage to enemies from ranged weapons, and also reduce all damage received when wearing a full set.","Настоящие ценители средней брони всегда могу подстроить ее под себя. Улучшая навык владениявы снижаете скорость ее поломки, увеличиваете урон по противникам из оружия дальнего боя, а также снижаете весь получаемый урон при ношении полного комплекта.","真正的中甲鑑賞家總能調整它以適應自己。通過提高掌握技能，你可以減少它的損壞速度，增加遠程武器對敵人的傷害，並在穿戴全套時減少所有受到的傷害。"
+perkArmorMediumRank1LongDesc,progression,Skills,,"You are a amateur of medium armor.\nArmor breakdown rate is reduced by 10%. When wearing a full set of medium armor, ranged damage to enemies is increased by 3%, and damage taken is reduced by 2%.","Вы любитель средней брони.\nСкорость поломки брони уменьшена на 10%. При ношении полного комплекта средней брони урон по противникам из оружия дальнего боя увеличена на 3%, а получаемый урон уменьшен на 2%.","你是中甲的愛好者。\n護甲損壞率降低10%。穿戴全套中甲時，對敵人的遠程傷害增加3%，受到的傷害減少2%。"
+perkArmorMediumRank2LongDesc,progression,Skills,,"You are a pro at medium armor.\nArmor breakdown rate is reduced by 20%. When wearing a full set of medium armor, ranged damage to enemies is increased by 6%, and damage taken is reduced by 4%.","Вы профи средней брони.\nСкорость поломки брони уменьшена на 20%. При ношении полного комплекта средней брони урон по противникам из оружия дальнего боя увеличена на 6%, а получаемый урон уменьшен на 4%.","你是中甲專家。\n護甲損壞率降低20%。穿戴全套中甲時，對敵人的遠程傷害增加6%，受到的傷害減少4%。"
+perkArmorMediumRank3LongDesc,progression,Skills,,"You're a fan of medium armor.\nArmor breakdown rate reduced by 30%. When wearing a full set of medium armor, ranged damage to enemies is increased by 9%, and damage taken is reduced by 6%.","Вы фанат средней брони.\nСкорость поломки брони уменьшена на 30%. При ношении полного комплекта средней брони урон по противникам из оружия дальнего боя увеличена на 9%, а получаемый урон уменьшен на 6%.","你是中甲的粉絲。\n護甲損壞率降低30%。穿戴全套中甲時，對敵人的遠程傷害增加9%，受到的傷害減少6%。"
+perkArmorMediumRank4LongDesc,progression,Skills,,"You are an expert in medium armor.\nArmor breakdown rate is reduced by 40%. When wearing a full set of medium armor, ranged damage to enemies is increased by 12%, and damage taken is reduced by 8%.","Вы эксперт средней брони.\nСкорость поломки брони уменьшена на 40%. При ношении полного комплекта средней брони урон по противникам из оружия дальнего боя увеличена на 12%, а получаемый урон уменьшен на 8%.","你是中甲專家。\n護甲損壞率降低40%。穿戴全套中甲時，對敵人的遠程傷害增加12%，受到的傷害減少8%。"
+perkArmorMediumRank5LongDesc,progression,Skills,,"You are a master of medium armor.\nArmor breakdown rate is reduced by 50%. When wearing a full set of medium armor, ranged damage to enemies is increased by 15%, and damage taken is reduced by 10%.","Вы мастер средней брони.\nСкорость поломки брони уменьшена на 50%. При ношении полного комплекта средней брони урон по противникам из оружия дальнего боя увеличена на 15%, а получаемый урон уменьшен на 10%.","你是中甲大師。\n護甲損壞率降低50%。穿戴全套中甲時，對敵人的遠程傷害增加15%，受到的傷害減少10%。"
+perkArmorMediumRank1Desc,progression,Skills,,Amateur,Любитель,業餘愛好者
+perkArmorMediumRank2Desc,progression,Skills,,Pro,Профи,專業
+perkArmorMediumRank3Desc,progression,Skills,,Fan,Фанат,粉絲
+perkArmorMediumRank4Desc,progression,Skills,,Expert,Эксперт,專家
+perkArmorMediumRank5Desc,progression,Skills,,Master,Мастер,大師
 
-perkArmorHeavyName,progression,perk,,Heavy Armor,Тяжелая броня
-perkArmorHeavyDesc,progression,perk,,"True connoisseurs of heavy armor can always customize it for themselves. By improving the skill of wielding it, you reduce the speed of its breakdown, increase your health reserve and damage in close combat, and also reduce all damage received when wearing a full set.","Настоящие ценители тяжелой брони всегда могу подстроить ее под себя. Улучшая навык владения вы снижаете скорость ее поломки, увеличиваете запас своего здоровья и урон в ближнем бою, а также снижаете весь получаемый урон при ношении полного комплекта."
-perkArmorHeavyRank1LongDesc,progression,Skills,,"You are a amateur of heavy armor.\nYour armor breakage rate is reduced by 10%. While wearing a full set of heavy armor, your health is increased by 6, your melee damage is increased by 5%, and damage taken is reduced by 5%.","Вы любитель тяжелой брони.\nСкорость поломки брони уменьшена на 10%. При ношении полного комплекта тяжелой брони запас вашего здоровья увеличен на 6, урон по противникам в ближнем бою увеличена на 5%, а получаемый урон уменьшен на 5%."
-perkArmorHeavyRank2LongDesc,progression,Skills,,"You are a heavy armor pro.\nArmor breakdown rate is reduced by 20%. While wearing a full set of heavy armor, your health is increased by 12, your melee damage is increased by 10%, and damage taken is reduced by 10%.","Вы профи тяжелой брони.\nСкорость поломки брони уменьшена на 20%. При ношении полного комплекта тяжелой брони запас вашего здоровья увеличен на 12, урон по противникам в ближнем бою увеличена на 10%, а получаемый урон уменьшен на 10%."
-perkArmorHeavyRank3LongDesc,progression,Skills,,"You're a fan of heavy armor.\nYour armor breakage rate is reduced by 30%. While wearing a full set of heavy armor, your health is increased by 18, your melee damage is increased by 15%, and damage taken is reduced by 15%.","Вы фанат тяжелой брони.\nСкорость поломки брони уменьшена на 30%. При ношении полного комплекта тяжелой брони запас вашего здоровья увеличен на 18, урон по противникам в ближнем бою увеличена на 15%, а получаемый урон уменьшен на 15%."
-perkArmorHeavyRank4LongDesc,progression,Skills,,"You are an expert in heavy armor.\nYour armor breakage rate is reduced by 40%. While wearing a full set of heavy armor, your health is increased by 24, your melee damage is increased by 20%, and damage taken is reduced by 20%.","Вы эксперт тяжелой брони.\nСкорость поломки брони уменьшена на 40%. При ношении полного комплекта тяжелой брони запас вашего здоровья увеличен на 24, урон по противникам в ближнем бою увеличена на 20%, а получаемый урон уменьшен на 20%."
-perkArmorHeavyRank5LongDesc,progression,Skills,,"You are a master of heavy armor.\nYour armor breakage rate is reduced by 50%. While wearing a full set of heavy armor, your health is increased by 30, your melee damage is increased by 25%, and damage taken is reduced by 25%.","Вы мастер тяжелой брони.\nСкорость поломки брони уменьшена на 50%. При ношении полного комплекта тяжелой брони запас вашего здоровья увеличен на 30, урон по противникам в ближнем бою увеличена на 25%, а получаемый урон уменьшен на 25%."
-perkArmorHeavyRank1Desc,progression,Skills,,Amateur,Любитель
-perkArmorHeavyRank2Desc,progression,Skills,,Pro,Профи
-perkArmorHeavyRank3Desc,progression,Skills,,Fan,Фанат
-perkArmorHeavyRank4Desc,progression,Skills,,Expert,Эксперт
-perkArmorHeavyRank5Desc,progression,Skills,,Master,Мастер
+perkArmorHeavyName,progression,perk,,Heavy Armor,Тяжелая броня,重甲
+perkArmorHeavyDesc,progression,perk,,"True connoisseurs of heavy armor can always customize it for themselves. By improving the skill of wielding it, you reduce the speed of its breakdown, increase your health reserve and damage in close combat, and also reduce all damage received when wearing a full set.","Настоящие ценители тяжелой брони всегда могу подстроить ее под себя. Улучшая навык владения вы снижаете скорость ее поломки, увеличиваете запас своего здоровья и урон в ближнем бою, а также снижаете весь получаемый урон при ношении полного комплекта.","真正的重甲鑑賞家總能為自己定制。通過提高掌握技能，你可以減少它的損壞速度，增加你的生命值儲備和近戰傷害，並在穿戴全套時減少所有受到的傷害。"
+perkArmorHeavyRank1LongDesc,progression,Skills,,"You are a amateur of heavy armor.\nYour armor breakage rate is reduced by 10%. While wearing a full set of heavy armor your melee damage is increased by 5%, and damage taken is reduced by 2%.","Вы любитель тяжелой брони.\nСкорость поломки брони уменьшена на 10%. При ношении полного комплекта тяжелой брони урон по противникам в ближнем бою увеличена на 5%, а получаемый урон уменьшен на 2%.","你是重甲的愛好者。\n你的護甲損壞率降低10%。穿戴全套重甲時，你的近戰傷害增加5%，受到的傷害減少2%。"
+perkArmorHeavyRank2LongDesc,progression,Skills,,"You are a heavy armor pro.\nArmor breakdown rate is reduced by 20%. While wearing a full set of heavy armor your melee damage is increased by 10%, and damage taken is reduced by 4%.","Вы профи тяжелой брони.\nСкорость поломки брони уменьшена на 20%. При ношении полного комплекта тяжелой брони урон по противникам в ближнем бою увеличена на 10%, а получаемый урон уменьшен на 4%.","你是重甲專家。\n護甲損壞率降低20%。穿戴全套重甲時，你的近戰傷害增加10%，受到的傷害減少4%。"
+perkArmorHeavyRank3LongDesc,progression,Skills,,"You're a fan of heavy armor.\nYour armor breakage rate is reduced by 30%. While wearing a full set of heavy armor your melee damage is increased by 15%, and damage taken is reduced by 6%.","Вы фанат тяжелой брони.\nСкорость поломки брони уменьшена на 30%. При ношении полного комплекта тяжелой брони урон по противникам в ближнем бою увеличена на 15%, а получаемый урон уменьшен на 6%.","你是重甲的粉絲。\n你的護甲損壞率降低30%。穿戴全套重甲時，你的近戰傷害增加15%，受到的傷害減少6%。"
+perkArmorHeavyRank4LongDesc,progression,Skills,,"You are an expert in heavy armor.\nYour armor breakage rate is reduced by 40%. While wearing a full set of heavy armor your melee damage is increased by 20%, and damage taken is reduced by 8%.","Вы эксперт тяжелой брони.\nСкорость поломки брони уменьшена на 40%. При ношении полного комплекта тяжелой брони урон по противникам в ближнем бою увеличена на 20%, а получаемый урон уменьшен на 8%.","你是重甲專家。\n你的護甲損壞率降低40%。穿戴全套重甲時，你的近戰傷害增加20%，受到的傷害減少8%。"
+perkArmorHeavyRank5LongDesc,progression,Skills,,"You are a master of heavy armor.\nYour armor breakage rate is reduced by 50%. While wearing a full set of heavy armor your melee damage is increased by 25%, and damage taken is reduced by 10%.","Вы мастер тяжелой брони.\nСкорость поломки брони уменьшена на 50%. При ношении полного комплекта тяжелой брони урон по противникам в ближнем бою увеличена на 25%, а получаемый урон уменьшен на 10%.","你是重甲大師。\n你的護甲損壞率降低50%。穿戴全套重甲時，你的近戰傷害增加25%，受到的傷害減少10%。"
+perkArmorHeavyRank1Desc,progression,Skills,,Amateur,Любитель,業餘愛好者
+perkArmorHeavyRank2Desc,progression,Skills,,Pro,Профи,專業
+perkArmorHeavyRank3Desc,progression,Skills,,Fan,Фанат,粉絲
+perkArmorHeavyRank4Desc,progression,Skills,,Expert,Эксперт,專家
+perkArmorHeavyRank5Desc,progression,Skills,,Master,Мастер,大師
 
 0000 Weapon Skills 0000
 
-skillWeaponName,progression,Skills,,Weapon skills,Навыки владения оружием
+skillWeaponName,progression,Skills,,Weapon skills,Навыки владения оружием,武器技能
 
-perkSniperRifleName,progression,perk,,Sniper Rifles,Снайперские винтовки
-perkSniperRifleDesc,progression,perk,,"True connoisseurs of sniper rifles know how to handle them properly. By improving the skill of ownership, you reduce the speed of weapon breakdown, increase its rate of fire, damage and reload speed.","Настоящие ценители снайперских винтовок знают как с ними правильно управляться. Улучшая навык владения вы снижаете скорость поломки оружия, увеличиваете его скорострельно, урон и скорость перезарядки"
-perkSniperRifleRank1LongDesc,progression,Skills,,"You are a amateur of sniper rifles.\nWeapon breakdown rate is reduced by 10%. Damage is increased by 10%, reload speed by 6% and its rate of fire by 5%.","Вы любитель снайперских винтовок.\nСкорость поломки оружия уменьшена на 10%. Урон увеличен на 10%, скорость перезарядки на 6% а его скорострельность на 5%"
-perkSniperRifleRank2LongDesc,progression,Skills,,"You are a pro with sniper rifles.\nWeapon breakdown rate is reduced by 20%. Damage is increased by 20%, reload speed by 12% and its rate of fire by 10%.","Вы профи снайперских винтовок.\nСкорость поломки оружия уменьшена на 20%. Урон увеличен на 20%, скорость перезарядки на 12% а его скорострельность на 10%"
-perkSniperRifleRank3LongDesc,progression,Skills,,"You are a fan of sniper rifles.\nWeapon breakdown rate is reduced by 30%. Damage is increased by 30%, reload speed by 18% and its rate of fire by 15%.","Вы фанат снайперских винтовок.\nСкорость поломки оружия уменьшена на 30%. Урон увеличен на 30%, скорость перезарядки на 18% а его скорострельность на 15%"
-perkSniperRifleRank4LongDesc,progression,Skills,,"You are an expert in sniper rifles.\nWeapon breakdown rate is reduced by 40%. Damage is increased by 40%, reload speed by 24% and its rate of fire by 20%.","Вы эксперт снайперских винтовок.\nСкорость поломки оружия уменьшена на 40%. Урон увеличен на 40%, скорость перезарядки на 24% а его скорострельность на 20%"
-perkSniperRifleRank5LongDesc,progression,Skills,,"You are a master of sniper rifles.\nWeapon breakdown rate is reduced by 50%. Damage is increased by 50%, reload speed by 30% and its rate of fire by 25%.","Вы мастер снайперских винтовок.\nСкорость поломки оружия уменьшена на 50%. Урон увеличен на 50%, скорость перезарядки на 30% а его скорострельность на 25%"
-perkSniperRifleRank1Desc,progression,Skills,,Amateur,Любитель
-perkSniperRifleRank2Desc,progression,Skills,,Pro,Профи
-perkSniperRifleRank3Desc,progression,Skills,,Fan,Фанат
-perkSniperRifleRank4Desc,progression,Skills,,Expert,Эксперт
-perkSniperRifleRank5Desc,progression,Skills,,Master,Мастер
+perkSniperRifleName,progression,perk,,Sniper Rifles,Снайперские винтовки,狙擊步槍
+perkSniperRifleDesc,progression,perk,,"True connoisseurs of sniper rifles know how to handle them properly. By improving the skill of ownership, you reduce the speed of weapon breakdown, increase its rate of fire, damage and reload speed.","Настоящие ценители снайперских винтовок знают как с ними правильно управляться. Улучшая навык владения вы снижаете скорость поломки оружия, увеличиваете его скорострельно, урон и скорость перезарядки","真正的狙擊步槍鑑賞家知道如何正確處理它們。通過提高掌握技能，你可以減少武器的損壞速度，增加其射速、傷害和重新裝彈速度。"
+perkSniperRifleRank1LongDesc,progression,Skills,,"You are a amateur of sniper rifles.\nWeapon breakdown rate is reduced by 10%. Damage is increased by 10%, reload speed by 6% and its rate of fire by 5%.","Вы любитель снайперских винтовок.\nСкорость поломки оружия уменьшена на 10%. Урон увеличен на 10%, скорость перезарядки на 6% а его скорострельность на 5%","你是狙擊步槍的愛好者。\n武器損壞率降低10%。傷害增加10%，重新裝彈速度增加6%，射速增加5%。"
+perkSniperRifleRank2LongDesc,progression,Skills,,"You are a pro with sniper rifles.\nWeapon breakdown rate is reduced by 20%. Damage is increased by 20%, reload speed by 12% and its rate of fire by 10%.","Вы профи снайперских винтовок.\nСкорость поломки оружия уменьшена на 20%. Урон увеличен на 20%, скорость перезарядки на 12% а его скорострельность на 10%","你是狙擊步槍專家。\n武器損壞率降低20%。傷害增加20%，重新裝彈速度增加12%，射速增加10%。"
+perkSniperRifleRank3LongDesc,progression,Skills,,"You are a fan of sniper rifles.\nWeapon breakdown rate is reduced by 30%. Damage is increased by 30%, reload speed by 18% and its rate of fire by 15%.","Вы фанат снайперских винтовок.\nСкорость поломки оружия уменьшена на 30%. Урон увеличен на 30%, скорость перезарядки на 18% а его скорострельность на 15%","你是狙擊步槍的粉絲。\n武器損壞率降低30%。傷害增加30%，重新裝彈速度增加18%，射速增加15%。"
+perkSniperRifleRank4LongDesc,progression,Skills,,"You are an expert in sniper rifles.\nWeapon breakdown rate is reduced by 40%. Damage is increased by 40%, reload speed by 24% and its rate of fire by 20%.","Вы эксперт снайперских винтовок.\nСкорость поломки оружия уменьшена на 40%. Урон увеличен на 40%, скорость перезарядки на 24% а его скорострельность на 20%","你是狙擊步槍專家。\n武器損壞率降低40%。傷害增加40%，重新裝彈速度增加24%，射速增加20%。"
+perkSniperRifleRank5LongDesc,progression,Skills,,"You are a master of sniper rifles.\nWeapon breakdown rate is reduced by 50%. Damage is increased by 50%, reload speed by 30% and its rate of fire by 25%.","Вы мастер снайперских винтовок.\nСкорость поломки оружия уменьшена на 50%. Урон увеличен на 50%, скорость перезарядки на 30% а его скорострельность на 25%","你是狙擊步槍大師。\n武器損壞率降低50%。傷害增加50%，重新裝彈速度增加30%，射速增加25%。"
+perkSniperRifleRank1Desc,progression,Skills,,Amateur,Любитель,業餘愛好者
+perkSniperRifleRank2Desc,progression,Skills,,Pro,Профи,專業
+perkSniperRifleRank3Desc,progression,Skills,,Fan,Фанат,粉絲
+perkSniperRifleRank4Desc,progression,Skills,,Expert,Эксперт,專家
+perkSniperRifleRank5Desc,progression,Skills,,Master,Мастер,大師
 
-perkShotgunPerfName,progression,perk,,Shotguns,Дробовики
-perkShotgunPerfDesc,progression,perk,,"True connoisseurs of shotguns know how to handle them properly. By improving the skill of ownership, you reduce the speed of weapon breakdown, increase its rate of fire, damage and reload speed.","Настоящие ценители дробовиков знают как с ним правильно управляться. Улучшая навык владения вы снижаете скорость поломки оружия, увеличиваете его скорострельно, урон и скорость перезарядки"
-perkShotgunPerfRank1LongDesc,progression,Skills,,"You are a amateur of shotguns.\nWeapon breakdown rate is reduced by 10%. Damage is increased by 10%, reload speed by 6% and its rate of fire by 5%.","Вы любитель дробовиков.\nСкорость поломки оружия уменьшена на 10%. Урон увеличен на 10%, скорость перезарядки на 6% а его скорострельность на 5%"
-perkShotgunPerfRank2LongDesc,progression,Skills,,"You are a pro with shotguns.\nWeapon breakdown rate is reduced by 20%. Damage is increased by 20%, reload speed by 12% and its rate of fire by 10%.","Вы профи дробовиков.\nСкорость поломки оружия уменьшена на 20%. Урон увеличен на 20%, скорость перезарядки на 12% а его скорострельность на 10%"
-perkShotgunPerfRank3LongDesc,progression,Skills,,"You are a fan of shotguns.\nWeapon breakdown rate is reduced by 30%. Damage is increased by 30%, reload speed by 18% and its rate of fire by 15%.","Вы фанат дробовиков.\nСкорость поломки оружия уменьшена на 30%. Урон увеличен на 30%, скорость перезарядки на 18% а его скорострельность на 15%"
-perkShotgunPerfRank4LongDesc,progression,Skills,,"You are an expert in shotguns.\nWeapon breakdown rate is reduced by 40%. Damage is increased by 40%, reload speed by 24% and its rate of fire by 20%.","Вы эксперт дробовиков.\nСкорость поломки оружия уменьшена на 40%. Урон увеличен на 40%, скорость перезарядки на 24% а его скорострельность на 20%"
-perkShotgunPerfRank5LongDesc,progression,Skills,,"You are a master of shotguns.\nWeapon breakdown rate is reduced by 50%. Damage is increased by 50%, reload speed by 30% and its rate of fire by 25%.","Вы мастер дробовиков.\nСкорость поломки оружия уменьшена на 50%. Урон увеличен на 50%, скорость перезарядки на 30% а его скорострельность на 25%"
-perkShotgunPerfRank1Desc,progression,Skills,,Amateur,Любитель
-perkShotgunPerfRank2Desc,progression,Skills,,Pro,Профи
-perkShotgunPerfRank3Desc,progression,Skills,,Fan,Фанат
-perkShotgunPerfRank4Desc,progression,Skills,,Expert,Эксперт
-perkShotgunPerfRank5Desc,progression,Skills,,Master,Мастер
+perkShotgunPerfName,progression,perk,,Shotguns,Дробовики,霰彈槍
+perkShotgunPerfDesc,progression,perk,,"True connoisseurs of shotguns know how to handle them properly. By improving the skill of ownership, you reduce the speed of weapon breakdown, increase its rate of fire, damage and reload speed.","Настоящие ценители дробовиков знают как с ним правильно управляться. Улучшая навык владения вы снижаете скорость поломки оружия, увеличиваете его скорострельно, урон и скорость перезарядки","真正的霰彈槍鑑賞家知道如何正確處理它們。通過提高掌握技能，你可以減少武器的損壞速度，增加其射速、傷害和重新裝彈速度。"
+perkShotgunPerfRank1LongDesc,progression,Skills,,"You are a amateur of shotguns.\nWeapon breakdown rate is reduced by 10%. Damage is increased by 10%, reload speed by 6% and its rate of fire by 5%.","Вы любитель дробовиков.\nСкорость поломки оружия уменьшена на 10%. Урон увеличен на 10%, скорость перезарядки на 6% а его скорострельность на 5%","你是霰彈槍的愛好者。\n武器損壞率降低10%。傷害增加10%，重新裝彈速度增加6%，射速增加5%。"
+perkShotgunPerfRank2LongDesc,progression,Skills,,"You are a pro with shotguns.\nWeapon breakdown rate is reduced by 20%. Damage is increased by 20%, reload speed by 12% and its rate of fire by 10%.","Вы профи дробовиков.\nСкорость поломки оружия уменьшена на 20%. Урон увеличен на 20%, скорость перезарядки на 12% а его скорострельность на 10%","你是霰彈槍專家。\n武器損壞率降低20%。傷害增加20%，重新裝彈速度增加12%，射速增加10%。"
+perkShotgunPerfRank3LongDesc,progression,Skills,,"You are a fan of shotguns.\nWeapon breakdown rate is reduced by 30%. Damage is increased by 30%, reload speed by 18% and its rate of fire by 15%.","Вы фанат дробовиков.\nСкорость поломки оружия уменьшена на 30%. Урон увеличен на 30%, скорость перезарядки на 18% а его скорострельность на 15%","你是霰彈槍的粉絲。\n武器損壞率降低30%。傷害增加30%，重新裝彈速度增加18%，射速增加15%。"
+perkShotgunPerfRank4LongDesc,progression,Skills,,"You are an expert in shotguns.\nWeapon breakdown rate is reduced by 40%. Damage is increased by 40%, reload speed by 24% and its rate of fire by 20%.","Вы эксперт дробовиков.\nСкорость поломки оружия уменьшена на 40%. Урон увеличен на 40%, скорость перезарядки на 24% а его скорострельность на 20%","你是霰彈槍專家。\n武器損壞率降低40%。傷害增加40%，重新裝彈速度增加24%，射速增加20%。"
+perkShotgunPerfRank5LongDesc,progression,Skills,,"You are a master of shotguns.\nWeapon breakdown rate is reduced by 50%. Damage is increased by 50%, reload speed by 30% and its rate of fire by 25%.","Вы мастер дробовиков.\nСкорость поломки оружия уменьшена на 50%. Урон увеличен на 50%, скорость перезарядки на 30% а его скорострельность на 25%","你是霰彈槍大師。\n武器損壞率降低50%。傷害增加50%，重新裝彈速度增加30%，射速增加25%。"
+perkShotgunPerfRank1Desc,progression,Skills,,Amateur,Любитель,業餘愛好者
+perkShotgunPerfRank2Desc,progression,Skills,,Pro,Профи,專業
+perkShotgunPerfRank3Desc,progression,Skills,,Fan,Фанат,粉絲
+perkShotgunPerfRank4Desc,progression,Skills,,Expert,Эксперт,專家
+perkShotgunPerfRank5Desc,progression,Skills,,Master,Мастер,大師
 
-perkAutomaticWeaponName,progression,perk,,Automatic Weapons,Автоматическое оружие
-perkAutomaticWeaponDesc,progression,perk,,"True connoisseurs of automatic weapons know how to handle them properly. By improving the skill of ownership, you reduce the speed of weapon breakdown, increase its rate of fire, damage and reload speed.","Настоящие ценители автоматического оружия знают как с ним правильно управляться. Улучшая навык владения вы снижаете скорость поломки оружия, увеличиваете его скорострельно, урон и скорость перезарядки"
-perkAutomaticWeaponRank1LongDesc,progression,Skills,,"You are a amateur of automatic weapons.\nWeapon breakdown rate is reduced by 10%. Damage is increased by 10%, reload speed by 6% and its rate of fire by 5%.","Вы любитель автоматического оружия.\nСкорость поломки оружия уменьшена на 10%. Урон увеличен на 10%, скорость перезарядки на 6% а его скорострельность на 5%"
-perkAutomaticWeaponRank2LongDesc,progression,Skills,,"You are a pro with automatic weapons.\nWeapon breakdown rate is reduced by 20%. Damage is increased by 20%, reload speed by 12% and its rate of fire by 10%.","Вы профи автоматического оружия.\nСкорость поломки оружия уменьшена на 20%. Урон увеличен на 20%, скорость перезарядки на 12% а его скорострельность на 10%"
-perkAutomaticWeaponRank3LongDesc,progression,Skills,,"You are a fan of automatic weapons.\nWeapon breakdown rate is reduced by 30%. Damage is increased by 30%, reload speed by 18% and its rate of fire by 15%.","Вы фанат автоматического оружия.\nСкорость поломки оружия уменьшена на 30%. Урон увеличен на 30%, скорость перезарядки на 18% а его скорострельность на 15%"
-perkAutomaticWeaponRank4LongDesc,progression,Skills,,"You are an expert in automatic weapons.\nWeapon breakdown rate is reduced by 40%. Damage is increased by 40%, reload speed by 24% and its rate of fire by 20%.","Вы эксперт автоматического оружия.\nСкорость поломки оружия уменьшена на 40%. Урон увеличен на 40%, скорость перезарядки на 24% а его скорострельность на 20%"
-perkAutomaticWeaponRank5LongDesc,progression,Skills,,"You are a master of automatic weapons.\nWeapon breakdown rate is reduced by 50%. Damage is increased by 50%, reload speed by 30% and its rate of fire by 25%.","Вы мастер автоматического оружия.\nСкорость поломки оружия уменьшена на 50%. Урон увеличен на 50%, скорость перезарядки на 30% а его скорострельность на 25%"
-perkAutomaticWeaponRank1Desc,progression,Skills,,Amateur,Любитель
-perkAutomaticWeaponRank2Desc,progression,Skills,,Pro,Профи
-perkAutomaticWeaponRank3Desc,progression,Skills,,Fan,Фанат
-perkAutomaticWeaponRank4Desc,progression,Skills,,Expert,Эксперт
-perkAutomaticWeaponRank5Desc,progression,Skills,,Master,Мастер
+perkAutomaticWeaponName,progression,perk,,Automatic Weapons,Автоматическое оружие,自動武器
+perkAutomaticWeaponDesc,progression,perk,,"True connoisseurs of automatic weapons know how to handle them properly. By improving the skill of ownership, you reduce the speed of weapon breakdown, increase its rate of fire, damage and reload speed.","Настоящие ценители автоматического оружия знают как с ним правильно управляться. Улучшая навык владения вы снижаете скорость поломки оружия, увеличиваете его скорострельно, урон и скорость перезарядки","真正的自動武器鑑賞家知道如何正確處理它們。通過提高掌握技能，你可以減少武器的損壞速度，增加其射速、傷害和重新裝彈速度。"
+perkAutomaticWeaponRank1LongDesc,progression,Skills,,"You are a amateur of automatic weapons.\nWeapon breakdown rate is reduced by 10%. Damage is increased by 10%, reload speed by 6% and its rate of fire by 5%.","Вы любитель автоматического оружия.\nСкорость поломки оружия уменьшена на 10%. Урон увеличен на 10%, скорость перезарядки на 6% а его скорострельность на 5%","你是自動武器的愛好者。\n武器損壞率降低10%。傷害增加10%，重新裝彈速度增加6%，射速增加5%。"
+perkAutomaticWeaponRank2LongDesc,progression,Skills,,"You are a pro with automatic weapons.\nWeapon breakdown rate is reduced by 20%. Damage is increased by 20%, reload speed by 12% and its rate of fire by 10%.","Вы профи автоматического оружия.\nСкорость поломки оружия уменьшена на 20%. Урон увеличен на 20%, скорость перезарядки на 12% а его скорострельность на 10%","你是自動武器專家。\n武器損壞率降低20%。傷害增加20%，重新裝彈速度增加12%，射速增加10%。"
+perkAutomaticWeaponRank3LongDesc,progression,Skills,,"You are a fan of automatic weapons.\nWeapon breakdown rate is reduced by 30%. Damage is increased by 30%, reload speed by 18% and its rate of fire by 15%.","Вы фанат автоматического оружия.\nСкорость поломки оружия уменьшена на 30%. Урон увеличен на 30%, скорость перезарядки на 18% а его скорострельность на 15%","你是自動武器的粉絲。\n武器損壞率降低30%。傷害增加30%，重新裝彈速度增加18%，射速增加15%。"
+perkAutomaticWeaponRank4LongDesc,progression,Skills,,"You are an expert in automatic weapons.\nWeapon breakdown rate is reduced by 40%. Damage is increased by 40%, reload speed by 24% and its rate of fire by 20%.","Вы эксперт автоматического оружия.\nСкорость поломки оружия уменьшена на 40%. Урон увеличен на 40%, скорость перезарядки на 24% а его скорострельность на 20%","你是自動武器專家。\n武器損壞率降低40%。傷害增加40%，重新裝彈速度增加24%，射速增加20%。"
+perkAutomaticWeaponRank5LongDesc,progression,Skills,,"You are a master of automatic weapons.\nWeapon breakdown rate is reduced by 50%. Damage is increased by 50%, reload speed by 30% and its rate of fire by 25%.","Вы мастер автоматического оружия.\nСкорость поломки оружия уменьшена на 50%. Урон увеличен на 50%, скорость перезарядки на 30% а его скорострельность на 25%","你是自動武器大師。\n武器損壞率降低50%。傷害增加50%，重新裝彈速度增加30%，射速增加25%。"
+perkAutomaticWeaponRank1Desc,progression,Skills,,Amateur,Любитель,業餘愛好者
+perkAutomaticWeaponRank2Desc,progression,Skills,,Pro,Профи,專業
+perkAutomaticWeaponRank3Desc,progression,Skills,,Fan,Фанат,粉絲
+perkAutomaticWeaponRank4Desc,progression,Skills,,Expert,Эксперт,專家
+perkAutomaticWeaponRank5Desc,progression,Skills,,Master,Мастер,大師
 
-perkPistolPerfName,progression,perk,,Pistols,Пистолеты
-perkPistolPerfDesc,progression,perk,,"True connoisseurs of pistols know how to handle them properly. By improving the skill of ownership, you reduce the speed of weapon breakdown, increase its rate of fire, damage and reload speed.","Настоящие ценители пистолетов знают как с ним правильно управляться. Улучшая навык владения вы снижаете скорость поломки оружия, увеличиваете его скорострельно, урон и скорость перезарядки"
-perkPistolPerfRank1LongDesc,progression,Skills,,"You are a amateur of pistols.\nWeapon breakdown rate is reduced by 10%. Damage is increased by 10%, reload speed by 6% and its rate of fire by 5%.","Вы любитель пистолетов.\nСкорость поломки оружия уменьшена на 10%. Урон увеличен на 10%, скорость перезарядки на 6% а его скорострельность на 5%"
-perkPistolPerfRank2LongDesc,progression,Skills,,"You are a pro with pistols.\nWeapon breakdown rate is reduced by 20%. Damage is increased by 20%, reload speed by 12% and its rate of fire by 10%.","Вы профи пистолетов.\nСкорость поломки оружия уменьшена на 20%. Урон увеличен на 20%, скорость перезарядки на 12% а его скорострельность на 10%"
-perkPistolPerfRank3LongDesc,progression,Skills,,"You are a fan of pistols.\nWeapon breakdown rate is reduced by 30%. Damage is increased by 30%, reload speed by 18% and its rate of fire by 15%.","Вы фанат пистолетов.\nСкорость поломки оружия уменьшена на 30%. Урон увеличен на 30%, скорость перезарядки на 18% а его скорострельность на 15%"
-perkPistolPerfRank4LongDesc,progression,Skills,,"You are an expert in pistols.\nWeapon breakdown rate is reduced by 40%. Damage is increased by 40%, reload speed by 24% and its rate of fire by 20%.","Вы эксперт пистолетов.\nСкорость поломки оружия уменьшена на 40%. Урон увеличен на 40%, скорость перезарядки на 24% а его скорострельность на 20%"
-perkPistolPerfRank5LongDesc,progression,Skills,,"You are a master of pistols.\nWeapon breakdown rate is reduced by 50%. Damage is increased by 50%, reload speed by 30% and its rate of fire by 25%.","Вы мастер пистолетов.\nСкорость поломки оружия уменьшена на 50%. Урон увеличен на 50%, скорость перезарядки на 30% а его скорострельность на 25%"
-perkPistolPerfRank1Desc,progression,Skills,,Amateur,Любитель
-perkPistolPerfRank2Desc,progression,Skills,,Pro,Профи
-perkPistolPerfRank3Desc,progression,Skills,,Fan,Фанат
-perkPistolPerfRank4Desc,progression,Skills,,Expert,Эксперт
-perkPistolPerfRank5Desc,progression,Skills,,Master,Мастер
+perkPistolPerfName,progression,perk,,Pistols,Пистолеты,手槍
+perkPistolPerfDesc,progression,perk,,"True connoisseurs of pistols know how to handle them properly. By improving the skill of ownership, you reduce the speed of weapon breakdown, increase its rate of fire, damage and reload speed.","Настоящие ценители пистолетов знают как с ним правильно управляться. Улучшая навык владения вы снижаете скорость поломки оружия, увеличиваете его скорострельно, урон и скорость перезарядки","真正的手槍鑑賞家知道如何正確處理它們。通過提高掌握技能，你可以減少武器的損壞速度，增加其射速、傷害和重新裝彈速度。"
+perkPistolPerfRank1LongDesc,progression,Skills,,"You are a amateur of pistols.\nWeapon breakdown rate is reduced by 10%. Damage is increased by 10%, reload speed by 6% and its rate of fire by 5%.","Вы любитель пистолетов.\nСкорость поломки оружия уменьшена на 10%. Урон увеличен на 10%, скорость перезарядки на 6% а его скорострельность на 5%","你是手槍的愛好者。\n武器損壞率降低10%。傷害增加10%，重新裝彈速度增加6%，射速增加5%。"
+perkPistolPerfRank2LongDesc,progression,Skills,,"You are a pro with pistols.\nWeapon breakdown rate is reduced by 20%. Damage is increased by 20%, reload speed by 12% and its rate of fire by 10%.","Вы профи пистолетов.\nСкорость поломки оружия уменьшена на 20%. Урон увеличен на 20%, скорость перезарядки на 12% а его скорострельность на 10%","你是手槍專家。\n武器損壞率降低20%。傷害增加20%，重新裝彈速度增加12%，射速增加10%。"
+perkPistolPerfRank3LongDesc,progression,Skills,,"You are a fan of pistols.\nWeapon breakdown rate is reduced by 30%. Damage is increased by 30%, reload speed by 18% and its rate of fire by 15%.","Вы фанат пистолетов.\nСкорость поломки оружия уменьшена на 30%. Урон увеличен на 30%, скорость перезарядки на 18% а его скорострельность на 15%","你是手槍的粉絲。\n武器損壞率降低30%。傷害增加30%，重新裝彈速度增加18%，射速增加15%。"
+perkPistolPerfRank4LongDesc,progression,Skills,,"You are an expert in pistols.\nWeapon breakdown rate is reduced by 40%. Damage is increased by 40%, reload speed by 24% and its rate of fire by 20%.","Вы эксперт пистолетов.\nСкорость поломки оружия уменьшена на 40%. Урон увеличен на 40%, скорость перезарядки на 24% а его скорострельность на 20%","你是手槍專家。\n武器損壞率降低40%。傷害增加40%，重新裝彈速度增加24%，射速增加20%。"
+perkPistolPerfRank5LongDesc,progression,Skills,,"You are a master of pistols.\nWeapon breakdown rate is reduced by 50%. Damage is increased by 50%, reload speed by 30% and its rate of fire by 25%.","Вы мастер пистолетов.\nСкорость поломки оружия уменьшена на 50%. Урон увеличен на 50%, скорость перезарядки на 30% а его скорострельность на 25%","你是手槍大師。\n武器損壞率降低50%。傷害增加50%，重新裝彈速度增加30%，射速增加25%。"
+perkPistolPerfRank1Desc,progression,Skills,,Amateur,Любитель,業餘愛好者
+perkPistolPerfRank2Desc,progression,Skills,,Pro,Профи,專業
+perkPistolPerfRank3Desc,progression,Skills,,Fan,Фанат,粉絲
+perkPistolPerfRank4Desc,progression,Skills,,Expert,Эксперт,專家
+perkPistolPerfRank5Desc,progression,Skills,,Master,Мастер,大師
 
-perkBowsPerfName,progression,perk,,Bows and crossbows,Луки и арбалеты
-perkBowsPerfDesc,progression,perk,,"True connoisseurs of bows and crossbows know how to handle them properly. By improving the skill of ownership, you reduce the speed of weapon breakdown, increase its rate of fire, damage and reload speed.","Настоящие ценители луков и арбалетов знают как с ними правильно управляться. Улучшая навык владения вы снижаете скорость поломки оружия, увеличиваете его скорострельно, урон и скорость перезарядки"
-perkBowsPerfRank1LongDesc,progression,Skills,,"You are a amateur of bows and crossbows.\nWeapon breakdown rate is reduced by 10%. Damage is increased by 10%, reload speed by 6% and its rate of fire by 5%.","Вы любитель луков и арбалетов.\nСкорость поломки оружия уменьшена на 10%. Урон увеличен на 10%, скорость перезарядки на 6% а его скорострельность на 5%"
-perkBowsPerfRank2LongDesc,progression,Skills,,"You are a pro with bows and crossbows.\nWeapon breakdown rate is reduced by 20%. Damage is increased by 20%, reload speed by 12% and its rate of fire by 10%.","Вы профи луков и арбалетов.\nСкорость поломки оружия уменьшена на 20%. Урон увеличен на 20%, скорость перезарядки на 12% а его скорострельность на 10%"
-perkBowsPerfRank3LongDesc,progression,Skills,,"You are a fan of bows and crossbows.\nWeapon breakdown rate is reduced by 30%. Damage is increased by 30%, reload speed by 18% and its rate of fire by 15%.","Вы фанат луков и арбалетов.\nСкорость поломки оружия уменьшена на 30%. Урон увеличен на 30%, скорость перезарядки на 18% а его скорострельность на 15%"
-perkBowsPerfRank4LongDesc,progression,Skills,,"You are an expert in bows and crossbows.\nWeapon breakdown rate is reduced by 40%. Damage is increased by 40%, reload speed by 24% and its rate of fire by 20%.","Вы эксперт луков и арбалетов.\nСкорость поломки оружия уменьшена на 40%. Урон увеличен на 40%, скорость перезарядки на 24% а его скорострельность на 20%"
-perkBowsPerfRank5LongDesc,progression,Skills,,"You are a master of bows and crossbows.\nWeapon breakdown rate is reduced by 50%. Damage is increased by 50%, reload speed by 30% and its rate of fire by 25%.","Вы мастер луков и арбалетов.\nСкорость поломки оружия уменьшена на 50%. Урон увеличен на 50%, скорость перезарядки на 30% а его скорострельность на 25%"
-perkBowsPerfRank1Desc,progression,Skills,,Amateur,Любитель
-perkBowsPerfRank2Desc,progression,Skills,,Pro,Профи
-perkBowsPerfRank3Desc,progression,Skills,,Fan,Фанат
-perkBowsPerfRank4Desc,progression,Skills,,Expert,Эксперт
-perkBowsPerfRank5Desc,progression,Skills,,Master,Мастер
+perkBowsPerfName,progression,perk,,Bows and crossbows,Луки и арбалеты,弓和弩
+perkBowsPerfDesc,progression,perk,,"True connoisseurs of bows and crossbows know how to handle them properly. By improving the skill of ownership, you reduce the speed of weapon breakdown, increase its rate of fire, damage and reload speed.","Настоящие ценители луков и арбалетов знают как с ними правильно управляться. Улучшая навык владения вы снижаете скорость поломки оружия, увеличиваете его скорострельно, урон и скорость перезарядки","真正的弓和弩的鑑賞家知道如何正確處理它們。通過提高掌握技能，你可以減少武器的損壞速度，增加其射速、傷害和重新裝填速度。"
+perkBowsPerfRank1LongDesc,progression,Skills,,"You are a amateur of bows and crossbows.\nWeapon breakdown rate is reduced by 10%. Damage is increased by 10%, reload speed by 6% and its rate of fire by 5%.","Вы любитель луков и арбалетов.\nСкорость поломки оружия уменьшена на 10%. Урон увеличен на 10%, скорость перезарядки на 6% а его скорострельность на 5%","你是弓和弩的愛好者。\n武器損壞率降低10%。傷害增加10%，重新裝填速度增加6%，射速增加5%。"
+perkBowsPerfRank2LongDesc,progression,Skills,,"You are a pro with bows and crossbows.\nWeapon breakdown rate is reduced by 20%. Damage is increased by 20%, reload speed by 12% and its rate of fire by 10%.","Вы профи луков и арбалетов.\nСкорость поломки оружия уменьшена на 20%. Урон увеличен на 20%, скорость перезарядки на 12% а его скорострельность на 10%","你是弓和弩專家。\n武器損壞率降低20%。傷害增加20%，重新裝填速度增加12%，射速增加10%。"
+perkBowsPerfRank3LongDesc,progression,Skills,,"You are a fan of bows and crossbows.\nWeapon breakdown rate is reduced by 30%. Damage is increased by 30%, reload speed by 18% and its rate of fire by 15%.","Вы фанат луков и арбалетов.\nСкорость поломки оружия уменьшена на 30%. Урон увеличен на 30%, скорость перезарядки на 18% а его скорострельность на 15%","你是弓和弩的粉絲。\n武器損壞率降低30%。傷害增加30%，重新裝填速度增加18%，射速增加15%。"
+perkBowsPerfRank4LongDesc,progression,Skills,,"You are an expert in bows and crossbows.\nWeapon breakdown rate is reduced by 40%. Damage is increased by 40%, reload speed by 24% and its rate of fire by 20%.","Вы эксперт луков и арбалетов.\nСкорость поломки оружия уменьшена на 40%. Урон увеличен на 40%, скорость перезарядки на 24% а его скорострельность на 20%","你是弓和弩專家。\n武器損壞率降低40%。傷害增加40%，重新裝填速度增加24%，射速增加20%。"
+perkBowsPerfRank5LongDesc,progression,Skills,,"You are a master of bows and crossbows.\nWeapon breakdown rate is reduced by 50%. Damage is increased by 50%, reload speed by 30% and its rate of fire by 25%.","Вы мастер луков и арбалетов.\nСкорость поломки оружия уменьшена на 50%. Урон увеличен на 50%, скорость перезарядки на 30% а его скорострельность на 25%","你是弓和弩大師。\n武器損壞率降低50%。傷害增加50%，重新裝填速度增加30%，射速增加25%。"
+perkBowsPerfRank1Desc,progression,Skills,,Amateur,Любитель,業餘愛好者
+perkBowsPerfRank2Desc,progression,Skills,,Pro,Профи,專業
+perkBowsPerfRank3Desc,progression,Skills,,Fan,Фанат,粉絲
+perkBowsPerfRank4Desc,progression,Skills,,Expert,Эксперт,專家
+perkBowsPerfRank5Desc,progression,Skills,,Master,Мастер,大師
 
-perkRoboticsPerfName,progression,perk,,Robotics,Робототехника
-perkRoboticsPerfDesc,progression,perk,,"True connoisseurs of robotics know how to use them correctly. By improving the skill of ownership, you increase the reload speed, magazine size, damage and attack speed of your turrets.","Настоящие ценители робототехники знают как с ними правильно управляться. Улучшая навык владения вы увеличиваете скорость перезарядки, размер магазина, урон и скорость атаки своих туррелей"
-perkRoboticsPerfRank1LongDesc,progression,Skills,,"You are a amateur of turrets.\nReload speed increased by 4%, magazine size increased by 10, damage increased by 10%, and attack speed increased by 30%","Вы любитель туррелей.\nСкорость перезарядки увеличена 4%, размер магазина увеличен на 10, урон увеличен на 10%, а также скорость атаки увеличена на 20%"
-perkRoboticsPerfRank2LongDesc,progression,Skills,,"You are a pro turret.\nReload speed increased by 8%, magazine size increased by 20, damage increased by 20%, and attack speed increased by 70%","Вы профи туррелей.\nСкорость перезарядки увеличена 8%, размер магазина увеличен на 20, урон увеличен на 20%, а также скорость атаки увеличена на 40%"
-perkRoboticsPerfRank3LongDesc,progression,Skills,,"You're a fan of turrets.\nReload speed increased by 12%, magazine size increased by 30, damage increased by 30%, and attack speed increased by 110%","Вы фанат туррелей.\nСкорость перезарядки увеличена 12%, размер магазина увеличен на 30, урон увеличен на 30%, а также скорость атаки увеличена на 60%"
-perkRoboticsPerfRank4LongDesc,progression,Skills,,"You are an expert in bows and crossbows.\nWeapon breakdown rate is reduced by 40%. Damage is increased by 40%, reload speed by 24% and its rate of fire by 20%.","Вы эксперт туррелей.\nСкорость перезарядки увеличена 16%, размер магазина увеличен на 40, урон увеличен на 40%, а также скорость атаки увеличена на 80%"
-perkRoboticsPerfRank5LongDesc,progression,Skills,,"You are a master of turrets.\nReload speed increased by 20%, magazine size increased by 50, damage increased by 50%, and attack speed increased by 100%.","Вы мастер туррелей.\nСкорость перезарядки увеличена 20%, размер магазина увеличен на 50, урон увеличен на 50%, а также скорость атаки увеличена на 100%"
-perkRoboticsPerfRank1Desc,progression,Skills,,Amateur,Любитель
-perkRoboticsPerfRank2Desc,progression,Skills,,Pro,Профи
-perkRoboticsPerfRank3Desc,progression,Skills,,Fan,Фанат
-perkRoboticsPerfRank4Desc,progression,Skills,,Expert,Эксперт
-perkRoboticsPerfRank5Desc,progression,Skills,,Master,Мастер
+perkRoboticsPerfName,progression,perk,,Robotics,Робототехника,機器人技術
+perkRoboticsPerfDesc,progression,perk,,"True connoisseurs of robotics know how to use them correctly. By improving the skill of ownership, you increase the reload speed, magazine size, damage and attack speed of your turrets.","Настоящие ценители робототехники знают как с ними правильно управляться. Улучшая навык владения вы увеличиваете скорость перезарядки, размер магазина, урон и скорость атаки своих туррелей","真正的機器人技術鑑賞家知道如何正確使用它們。通過提高掌握技能，你可以增加砲塔的重新裝填速度、彈匣容量、傷害和攻擊速度。"
+perkRoboticsPerfRank1LongDesc,progression,Skills,,"You are a amateur of turrets.\nReload speed increased by 4%, magazine size increased by 10, damage increased by 10%, and attack speed increased by 30%","Вы любитель туррелей.\nСкорость перезарядки увеличена 4%, размер магазина увеличен на 10, урон увеличен на 10%, а также скорость атаки увеличена на 20%","你是砲塔的愛好者。\n重新裝填速度增加4%，彈匣容量增加10，傷害增加10%，攻擊速度增加30%"
+perkRoboticsPerfRank2LongDesc,progression,Skills,,"You are a pro turret.\nReload speed increased by 8%, magazine size increased by 20, damage increased by 20%, and attack speed increased by 70%","Вы профи туррелей.\nСкорость перезарядки увеличена 8%, размер магазина увеличен на 20, урон увеличен на 20%, а также скорость атаки увеличена на 40%","你是砲塔專家。\n重新裝填速度增加8%，彈匣容量增加20，傷害增加20%，攻擊速度增加70%"
+perkRoboticsPerfRank3LongDesc,progression,Skills,,"You're a fan of turrets.\nReload speed increased by 12%, magazine size increased by 30, damage increased by 30%, and attack speed increased by 110%","Вы фанат туррелей.\nСкорость перезарядки увеличена 12%, размер магазина увеличен на 30, урон увеличен на 30%, а также скорость атаки увеличена на 60%","你是砲塔的粉絲。\n重新裝填速度增加12%，彈匣容量增加30，傷害增加30%，攻擊速度增加110%"
+perkRoboticsPerfRank4LongDesc,progression,Skills,,"You are an expert in bows and crossbows.\nWeapon breakdown rate is reduced by 40%. Damage is increased by 40%, reload speed by 24% and its rate of fire by 20%.","Вы эксперт туррелей.\nСкорость перезарядки увеличена 16%, размер магазина увеличен на 40, урон увеличен на 40%, а также скорость атаки увеличена на 80%","你是砲塔專家。\n重新裝填速度增加16%，彈匣容量增加40，傷害增加40%，攻擊速度增加80%"
+perkRoboticsPerfRank5LongDesc,progression,Skills,,"You are a master of turrets.\nReload speed increased by 20%, magazine size increased by 50, damage increased by 50%, and attack speed increased by 100%.","Вы мастер туррелей.\nСкорость перезарядки увеличена 20%, размер магазина увеличен на 50, урон увеличен на 50%, а также скорость атаки увеличена на 100%","你是砲塔大師。\n重新裝填速度增加20%，彈匣容量增加50，傷害增加50%，攻擊速度增加100%"
+perkRoboticsPerfRank1Desc,progression,Skills,,Amateur,Любитель,業餘愛好者
+perkRoboticsPerfRank2Desc,progression,Skills,,Pro,Профи,專業
+perkRoboticsPerfRank3Desc,progression,Skills,,Fan,Фанат,粉絲
+perkRoboticsPerfRank4Desc,progression,Skills,,Expert,Эксперт,專家
+perkRoboticsPerfRank5Desc,progression,Skills,,Master,Мастер,大師
 
-perkMeleeHeavyPerfName,progression,perk,,Heavy melee weapon,Тяжелое оружие ближнего боя
-perkMeleeHeavyPerfDesc,progression,perk,,"True connoisseurs of heavy melee weapons, such as a spear, sledgehammer or club, know how to handle them correctly. Improving the skill of wielding them, you reduce the speed of weapon breakdown, stamina consumption, and also increase the attack speed and damage of this weapon.","Настоящие ценители тяжелого оружия ближнего боя, таких как копье, кувалда или дубина, знают как с ними правильно управляться. Улучшая навык владения вы снижаете скорость поломки оружия, расход выносливости, а также увеличиваете скорость атаки и урон этим оружием"
-perkMeleeHeavyPerfRank1LongDesc,progression,Skills,,"You are a amateur of heavy melee weapons - spears, sledgehammers and clubs.\nWeapon breakage rate decreased by 10% and stamina consumption by 6%. Attack speed increased by 5% and damage by 10%","Вы любитель тяжелого оружия ближнего боя - копья,кувалды и дубины.\nСкорость поломки оружия уменьшена на 10% а расход выносливости на 6%. Скорость атаки увеличена на 5% а урон на 10%"
-perkMeleeHeavyPerfRank2LongDesc,progression,Skills,,"You are a pro of heavy melee weapons - spears, sledgehammers and clubs.\nWeapon breakage rate decreased by 20% and stamina consumption by 12%. Attack speed increased by 10% and damage by 20%","Вы профи тяжелого оружия ближнего боя - копья,кувалды и дубины.\nСкорость поломки оружия уменьшена на 20% а расход выносливости на 12%. Скорость атаки увеличена на 10% а урон на 20%"
-perkMeleeHeavyPerfRank3LongDesc,progression,Skills,,"You are a fan of heavy melee weapons - spears, sledgehammers and clubs.\nWeapon breakage rate decreased by 30% and stamina consumption by 18%. Attack speed increased by 15% and damage by 30%","Вы фанат тяжелого оружия ближнего боя - копья,кувалды и дубины.\nСкорость поломки оружия уменьшена на 30% а расход выносливости на 18%. Скорость атаки увеличена на 15% а урон на 30%"
-perkMeleeHeavyPerfRank4LongDesc,progression,Skills,,"You are a expert of heavy melee weapons - spears, sledgehammers and clubs.\nWeapon breakage rate decreased by 50% and stamina consumption by 24%. Attack speed increased by 20% and damage by 40%","Вы эксперт тяжелого оружия ближнего боя - копья,кувалды и дубины.\nСкорость поломки оружия уменьшена на 40% а расход выносливости на 24%. Скорость атаки увеличена на 20% а урон на 40%"
-perkMeleeHeavyPerfRank5LongDesc,progression,Skills,,"You are a master of heavy melee weapons - spears, sledgehammers and clubs.\nWeapon breakage rate decreased by 50% and stamina consumption by 30%. Attack speed increased by 25% and damage by 50%","Вы мастер тяжелого оружия ближнего боя - копья,кувалды и дубины.\nСкорость поломки оружия уменьшена на 50% а расход выносливости на 30%. Скорость атаки увеличена на 25% а урон на 50%"
-perkMeleeHeavyPerfRank1Desc,progression,Skills,,Amateur,Любитель
-perkMeleeHeavyPerfRank2Desc,progression,Skills,,Pro,Профи
-perkMeleeHeavyPerfRank3Desc,progression,Skills,,Fan,Фанат
-perkMeleeHeavyPerfRank4Desc,progression,Skills,,Expert,Эксперт
-perkMeleeHeavyPerfRank5Desc,progression,Skills,,Master,Мастер
-
-perkMeleeLightPerfName,progression,perk,,Light melee weapon,Легкое оружие ближнего боя
-perkMeleeLightPerfDesc,progression,perk,,"True connoisseurs of light melee weapons, such as brass knuckles, knives or stun batons, know how to handle them properly. Improving the skill of wielding them, you reduce the speed of weapon breakdown, stamina consumption, and also increase the attack speed and damage of this weapon.","Настоящие ценители легкого оружия ближнего боя, таких как кастеты, ножи или оглушающие жезлы, знают как с ними правильно управляться. Улучшая навык владения вы снижаете скорость поломки оружия, расход выносливости, а также увеличиваете скорость атаки и урон этим оружием"
-perkMeleeLightPerfRank1LongDesc,progression,Skills,,"You are a amateur of light melee weapons - brass knuckles, knives and stun batons.\nWeapon breakage rate decreased by 10% and stamina consumption by 6%. Attack speed increased by 5% and damage by 10%","Вы любитель легкого оружия ближнего боя - кастеты,ножи и оглушающие жезлы.\nСкорость поломки оружия уменьшена на 10% а расход выносливости на 6%. Скорость атаки увеличена на 5% а урон на 10%"
-perkMeleeLightPerfRank2LongDesc,progression,Skills,,"You are a pro of light melee weapons - brass knuckles, knives and stun batons.\nWeapon breakage rate decreased by 20% and stamina consumption by 12%. Attack speed increased by 10% and damage by 20%","Вы профи легкого оружия ближнего боя - кастеты,ножи и оглушающие жезлы.\nСкорость поломки оружия уменьшена на 20% а расход выносливости на 12%. Скорость атаки увеличена на 10% а урон на 20%"
-perkMeleeLightPerfRank3LongDesc,progression,Skills,,"You are a fan of light melee weapons - brass knuckles, knives and stun batons.\nWeapon breakage rate decreased by 30% and stamina consumption by 18%. Attack speed increased by 15% and damage by 30%","Вы фанат легкого оружия ближнего боя - кастеты,ножи и оглушающие жезлы.\nСкорость поломки оружия уменьшена на 30% а расход выносливости на 18%. Скорость атаки увеличена на 15% а урон на 30%"
-perkMeleeLightPerfRank4LongDesc,progression,Skills,,"You are a expert of light melee weapons - brass knuckles, knives and stun batons.\nWeapon breakage rate decreased by 50% and stamina consumption by 24%. Attack speed increased by 20% and damage by 40%","Вы эксперт легкого оружия ближнего боя - кастеты,ножи и оглушающие жезлы.\nСкорость поломки оружия уменьшена на 40% а расход выносливости на 24%. Скорость атаки увеличена на 20% а урон на 40%"
-perkMeleeLightPerfRank5LongDesc,progression,Skills,,"You are a master of light melee weapons - brass knuckles, knives and stun batons.\nWeapon breakage rate decreased by 50% and stamina consumption by 30%. Attack speed increased by 25% and damage by 50%","Вы мастер легкого оружия ближнего боя - кастеты,ножи и оглушающие жезлы.\nСкорость поломки оружия уменьшена на 50% а расход выносливости на 30%. Скорость атаки увеличена на 25% а урон на 50%"
-perkMeleeLightPerfRank1Desc,progression,Skills,,Amateur,Любитель
-perkMeleeLightPerfRank2Desc,progression,Skills,,Pro,Профи
-perkMeleeLightPerfRank3Desc,progression,Skills,,Fan,Фанат
-perkMeleeLightPerfRank4Desc,progression,Skills,,Expert,Эксперт
-perkMeleeLightPerfRank5Desc,progression,Skills,,Master,Мастер
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+perkMeleeHeavyPerfName,progression,perk,,Heavy melee weapon,Тяжелое оружие ближнего боя,重型近戰武器
+perkMeleeHeavyPerfDesc,progression,perk,,"True connoisseurs of heavy melee weapons, such as a spear, sledgehammer or club, know how to handle them correctly. Improving the skill of wielding them, you reduce the speed of weapon breakdown, stamina consumption, and also increase the attack speed and damage of this weapon.","Настоящие ценители тяжелого оружия ближнего боя, таких как копье, кувалда или дубина, знают как с ними правильно управляться. Улучшая навык владения вы снижаете скорость поломки оружия, расход выносливости, а также увеличиваете скорость атаки и урон этим оружием","真正的重型近戰武器鑑賞家，如長矛、大錘或棍棒，知道如何正確處理它們。通過提高掌握技能，你可以減少武器的損壞速度、耐力消耗，並增加攻擊速度和這種武器的傷害。"
+perkMeleeHeavyPerfRank1LongDesc,progression,Skills,,"You are a amateur of heavy melee weapons - spears, sledgehammers and clubs.\nWeapon breakage rate decreased by 10% and stamina consumption by 6%. Attack speed increased by 5% and damage by 10%","Вы любитель тяжелого оружия ближнего боя - копья,кувалды и дубины.\nСкорость поломки оружия уменьшена на 10% а расход выносливости на 6%. Скорость атаки увеличена на 5% а урон на 10%","你是重型近戰武器的愛好者 - 長矛、大錘和棍棒。\n武器損壞率降低10%，耐力消耗降低6%。攻擊速度增加5%，傷害增加10%"
+perkMeleeHeavyPerfRank2LongDesc,progression,Skills,,"You are a pro of heavy melee weapons - spears, sledgehammers and clubs.\nWeapon breakage rate decreased by 20% and stamina consumption by 12%. Attack speed increased by 10% and damage by 20%","Вы профи тяжелого оружия ближнего боя - копья,кувалды и дубины.\nСкорость поломки оружия уменьшена на 20% а расход выносливости на 12%. Скорость атаки увеличена на 10% а урон на 20%","你是重型近戰武器專家 - 長矛、大錘和棍棒。\n武器損壞率降低20%，耐力消耗降低12%。攻擊速度增加10%，傷害增加20%"
+perkMeleeHeavyPerfRank3LongDesc,progression,Skills,,"You are a fan of heavy melee weapons - spears, sledgehammers and clubs.\nWeapon breakage rate decreased by 30% and stamina consumption by 18%. Attack speed increased by 15% and damage by 30%","Вы фанат тяжелого оружия ближнего боя - копья,кувалды и дубины.\nСкорость поломки оружия уменьшена на 30% а расход выносливости на 18%. Скорость атаки увеличена на 15% а урон на 30%","你是重型近戰武器的粉絲 - 長矛、大錘和棍棒。\n武器損壞率降低30%，耐力消耗降低18%。攻擊速度增加15%，傷害增加30%"
+perkMeleeHeavyPerfRank4LongDesc,progression,Skills,,"You are a expert of heavy melee weapons - spears, sledgehammers and clubs.\nWeapon breakage rate decreased by 50% and stamina consumption by 24%. Attack speed increased by 20% and damage by 40%","Вы эксперт тяжелого оружия ближнего боя - копья,кувалды и дубины.\nСкорость поломки оружия уменьшена на 40% а расход выносливости на 24%. Скорость атаки увеличена на 20% а урон на 40%","你是重型近戰武器專家 - 長矛、大錘和棍棒。\n武器損壞率降低50%，耐力消耗降低24%。攻擊速度增加20%，傷害增加40%"
+perkMeleeHeavyPerfRank5LongDesc,progression,Skills,,"You are a master of heavy melee weapons - spears, sledgehammers and clubs.\nWeapon breakage rate decreased by 50% and stamina consumption by 30%. Attack speed increased by 25% and damage by 50%","Вы мастер тяжелого оружия ближнего боя - копья,кувалды и дубины.\nСкорость поломки оружия уменьшена на 50% а расход выносливости на 30%. Скорость атаки увеличена на 25% а урон на 50%","你是重型近戰武器大師 - 長矛、大錘和棍棒。\n武器損壞率降低50%，耐力消耗降低30%。攻擊速度增加25%，傷害增加50%"
+perkMeleeHeavyPerfRank1Desc,progression,Skills,,Amateur,Любитель,業餘愛好者
+perkMeleeHeavyPerfRank2Desc,progression,Skills,,Pro,Профи,專業
+perkMeleeHeavyPerfRank3Desc,progression,Skills,,Fan,Фанат,粉絲
+perkMeleeHeavyPerfRank4Desc,progression,Skills,,Expert,Эксперт,專家
+perkMeleeHeavyPerfRank5Desc,progression,Skills,,Master,Мастер,大師
+perkMeleeLightPerfName,progression,perk,,Light melee weapon,Легкое оружие ближнего боя,輕型近戰武器
+perkMeleeLightPerfDesc,progression,perk,,"True connoisseurs of light melee weapons, such as brass knuckles, knives or stun batons, know how to handle them properly. Improving the skill of wielding them, you reduce the speed of weapon breakdown, stamina consumption, and also increase the attack speed and damage of this weapon.","Настоящие ценители легкого оружия ближнего боя, таких как кастеты, ножи или оглушающие жезлы, знают как с ними правильно управляться. Улучшая навык владения вы снижаете скорость поломки оружия, расход выносливости, а также увеличиваете скорость атаки и урон этим оружием","真正的輕型近戰武器鑑賞家，如指虎、刀或電擊棒，知道如何正確處理它們。通過提高掌握技能，你可以減少武器的損壞速度、耐力消耗，並增加攻擊速度和這種武器的傷害。"
+perkMeleeLightPerfRank1LongDesc,progression,Skills,,"You are a amateur of light melee weapons - brass knuckles, knives and stun batons.\nWeapon breakage rate decreased by 10% and stamina consumption by 6%. Attack speed increased by 5% and damage by 10%","Вы любитель легкого оружия ближнего боя - кастеты,ножи и оглушающие жезлы.\nСкорость поломки оружия уменьшена на 10% а расход выносливости на 6%. Скорость атаки увеличена на 5% а урон на 10%","你是輕型近戰武器的愛好者 - 指虎、刀和電擊棒。\n武器損壞率降低10%，耐力消耗降低6%。攻擊速度增加5%，傷害增加10%"
+perkMeleeLightPerfRank2LongDesc,progression,Skills,,"You are a pro of light melee weapons - brass knuckles, knives and stun batons.\nWeapon breakage rate decreased by 20% and stamina consumption by 12%. Attack speed increased by 10% and damage by 20%","Вы профи легкого оружия ближнего боя - кастеты,ножи и оглушающие жезлы.\nСкорость поломки оружия уменьшена на 20% а расход выносливости на 12%. Скорость атаки увеличена на 10% а урон на 20%","你是輕型近戰武器專家 - 指虎、刀和電擊棒。\n武器損壞率降低20%，耐力消耗降低12%。攻擊速度增加10%，傷害增加20%"
+perkMeleeLightPerfRank3LongDesc,progression,Skills,,"You are a fan of light melee weapons - brass knuckles, knives and stun batons.\nWeapon breakage rate decreased by 30% and stamina consumption by 18%. Attack speed increased by 15% and damage by 30%","Вы фанат легкого оружия ближнего боя - кастеты,ножи и оглушающие жезлы.\nСкорость поломки оружия уменьшена на 30% а расход выносливости на 18%. Скорость атаки увеличена на 15% а урон на 30%","你是輕型近戰武器的粉絲 - 指虎、刀和電擊棒。\n武器損壞率降低30%，耐力消耗降低18%。攻擊速度增加15%，傷害增加30%"
+perkMeleeLightPerfRank4LongDesc,progression,Skills,,"You are a expert of light melee weapons - brass knuckles, knives and stun batons.\nWeapon breakage rate decreased by 50% and stamina consumption by 24%. Attack speed increased by 20% and damage by 40%","Вы эксперт легкого оружия ближнего боя - кастеты,ножи и оглушающие жезлы.\nСкорость поломки оружия уменьшена на 40% а расход выносливости на 24%. Скорость атаки увеличена на 20% а урон на 40%","你是輕型近戰武器專家 - 指虎、刀和電擊棒。\n武器損壞率降低50%，耐力消耗降低24%。攻擊速度增加20%，傷害增加40%"
+perkMeleeLightPerfRank5LongDesc,progression,Skills,,"You are a master of light melee weapons - brass knuckles, knives and stun batons.\nWeapon breakage rate decreased by 50% and stamina consumption by 30%. Attack speed increased by 25% and damage by 50%","Вы мастер легкого оружия ближнего боя - кастеты,ножи и оглушающие жезлы.\nСкорость поломки оружия уменьшена на 50% а расход выносливости на 30%. Скорость атаки увеличена на 25% а урон на 50%","你是輕型近戰武器大師 - 指虎、刀和電擊棒。\n武器損壞率降低50%，耐力消耗降低30%。攻擊速度增加25%，傷害增加50%"
+perkMeleeLightPerfRank1Desc,progression,Skills,,Amateur,Любитель,業餘愛好者
+perkMeleeLightPerfRank2Desc,progression,Skills,,Pro,Профи,專業
+perkMeleeLightPerfRank3Desc,progression,Skills,,Fan,Фанат,粉絲
+perkMeleeLightPerfRank4Desc,progression,Skills,,Expert,Эксперт,專家
+perkMeleeLightPerfRank5Desc,progression,Skills,,Master,Мастер,大師

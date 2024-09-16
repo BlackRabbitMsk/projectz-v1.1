@@ -1,23 +1,22 @@
-Key,Source,Context,Changes,English,Russian
+Key,Source,Context,Changes,English,Russian,TChinese
 
-BuffVeteranAOE,buffs,Buff,,Veteran,Ветеран
-BuffVeteranAOEName,buffs,buff,,Veteran nearby, Ветеран рядом
-BuffVeteranAOETooltip,buffs,buff,,Veteran is on the hunt,Ветеран вышел на охоту
-BuffVeteranAOEIncDesc,buffs,Buff,,"This creature was once one of the elite units. But a little beer and a bit of zombies do the trick. Don't underestimate the stamina and thirst for shooting of someone who only knew how to kill - even in this form. They say the brotherhood of arms is on another physical level. And even now they are always ready to help each other.\n\nIt's hard for you to overcome your fear. Your eyes are dark and everything is blurry. But you can still RUN!!!\nYour mobility is reduced by [FFB800]10%[-]","Это создание когда давно был одним из представителей элитных подразделений. Но немного пива и чуток зомби делают свое дело. Не стоит недооценивать выносливость и жажду пострелять того, кто только и умел что убивать - даже в таком виде. Говорят боевое братство на другом физическом уровне. И даже сейчас они всегда готовы помочь друг другу.\n\nВам сложно преодолеть страх. В глазах потемнего и все поплыло. Но вы все еще можете БЕЖАТЬ!!!\nВаша мобильность снижена на [FFB800]10%[-]"
+BuffVeteranAOE,buffs,Buff,,Veteran,Ветеран,老兵
+BuffVeteranAOEName,buffs,buff,,Veteran nearby,Ветеран рядом,老兵在附近
+BuffVeteranAOETooltip,buffs,buff,,Veteran is on the hunt,Ветеран вышел на охоту,老兵正在獵捕中
+BuffVeteranAOEIncDesc,buffs,Buff,,"This creature was once one of the elite units. But a little beer and a bit of zombies do the trick. Don't underestimate the stamina and thirst for shooting of someone who only knew how to kill - even in this form. They say the brotherhood of arms is on another physical level. And even now they are always ready to help each other.\n\nIt's hard for you to overcome your fear. Your eyes are dark and everything is blurry. But you can still RUN!!!\nYour mobility is reduced by [FFB800]10%[-]","Это создание когда давно был одним из представителей элитных подразделений. Но немного пива и чуток зомби делают свое дело. Не стоит недооценивать выносливость и жажду пострелять того, кто только и умел что убивать - даже в таком виде. Говорят боевое братство на другом физическом уровне. И даже сейчас они всегда готовы помочь друг другу.\n\nВам сложно преодолеть страх. В глазах потемнего и все поплыло. Но вы все еще можете БЕЖАТЬ!!!\nВаша мобильность снижена на [FFB800]10%[-]","這個生物曾經是精英部隊的一員。但一點啤酒和一些殭屍就能讓它變成這樣。不要低估一個只會殺戮的人的耐力和對射擊的渴望 - 即使在這種形態下也是如此。據說戰友情誼是另一種層次的物理連結。即使到現在，他們仍然隨時準備幫助彼此。\n\n你很難克服恐懼。你的眼前一片漆黑，一切都變得模糊。但你仍然可以奔跑！！！\n你的移動速度降低了 [FFB800]10%[-]"
+BuffBossEnragePlayer,buffs,Buff,,Boss in rage,Босс в бешенстве,憤怒的首領
+BuffBossEnragePlayerName,buffs,buff,,Boss in rage,Босс в бешенстве,憤怒的首領
+BuffBossEnragePlayerTooltip,buffs,buff,,Boss in rage,Босс в бешенстве,憤怒的首領
+BuffBossEnragePlayerIncDesc,buffs,Buff,,"You've driven Boss into a rage. Better run away!\nHis movement speed is increased by [DECEA3]50%[-], his attack speed is increased by [DECEA3]60%[-], and any of his attacks will knock you down.\n\nHowever, his damage resistance is decreased by [DECEA3]30%[-]","Вы довели Босса до приступа бешенства. Лучше убегайте!\nСкорость его передвижения увеличена на [DECEA3]50%[-], скорость атаки увеличена на [DECEA3]60%[-], также любая его атака собъет вас с ног.\n\nОднако сопротивление урону уменьшенно на [DECEA3]30%[-]","你激怒了首領。最好趕緊逃跑！\n他的移動速度增加了 [DECEA3]50%[-]，攻擊速度增加了 [DECEA3]60%[-]，而且他的任何攻擊都會將你擊倒。\n\n然而，他的傷害抗性降低了 [DECEA3]30%[-]"
 
-BuffBossEnragePlayer,buffs,Buff,,Boss in rage,Босс в бешенстве
-BuffBossEnragePlayerName,buffs,buff,,Boss in rage,Босс в бешенстве
-BuffBossEnragePlayerTooltip,buffs,buff,,Boss in rage,Босс в бешенстве
-BuffBossEnragePlayerIncDesc,buffs,Buff,,"You've driven Boss into a rage. Better run away!\nHis movement speed is increased by [DECEA3]50%[-], his attack speed is increased by [DECEA3]60%[-], and any of his attacks will knock you down.\n\nHowever, his damage resistance is decreased by [DECEA3]30%[-]","Вы довели Босса до приступа бешенства. Лучше убегайте!\nСкорость его передвижения увеличена на [DECEA3]50%[-], скорость атаки увеличена на [DECEA3]60%[-], также любая его атака собъет вас с ног.\n\nОднако сопротивление урону уменьшенно на [DECEA3]30%[-]"
+BuffBossHealthTheftPlayer,buffs,Buff,,Boss steals health,Босс крадет здоровье,首領偷取生命值
+BuffBossHealthTheftPlayerName,buffs,buff,,Boss steals health,Босс крадет здоровье,首領偷取生命值
+BuffBossHealthTheftPlayerTooltip,buffs,buff,,Boss steals health,Босс крадет здоровье,首領偷取生命值
+BuffBossHealthTheftPlayerIncDesc,buffs,Buff,,"The boss feeds on your adrenaline. You take damage over time and are slowed down. Try to wait it out and stay alive.","Босс питается вашим адреналином. Вы получаете периодический урон и замедлены\nПостарайтесь переждать и остаться в живых.","首領正在吸取你的腎上腺素。你會持續受到傷害並被減速。試著撐過去並保持存活。"
 
-BuffBossHealthTheftPlayer,buffs,Buff,,Boss steals health,Босс крадет здоровье
-BuffBossHealthTheftPlayerName,buffs,buff,,Boss steals health,Босс крадет здоровье
-BuffBossHealthTheftPlayerTooltip,buffs,buff,,Boss steals health,Босс крадет здоровье
-BuffBossHealthTheftPlayerIncDesc,buffs,Buff,,"The boss feeds on your adrenaline. You take damage over time and are slowed down. Try to wait it out and stay alive.","Босс питается вашим адреналином. Вы получаете периодический урон и замедлены\nПостарайтесь переждать и остаться в живых."
+BuffBossBrotherhoodPlayer,buffs,Buff,,Brotherhood in arms,Боевое братство,戰友情誼
+BuffBossBrotherhoodPlayerName,buffs,buff,,Boss's Brotherhood of War,Боевое братство босса,首領的戰友情誼
+BuffBossBrotherhoodPlayerTooltip,buffs,buff,,The boss calls for a fighting brotherhood,Босс призывает боевое братство,首領召喚戰友情誼
+BuffBossBrotherhoodPlayerIncDesc,buffs,Buff,,"The boss summons a brotherhood of arms. For the duration of the ability, all enemies within 20 meters of the boss receive a mobility bonus of [DECEA3]25%[-], and all damage taken by them is reduced by [DECEA3]50%[-]. In addition, your resistance to physical damage is reduced by [FFB800]25%[-]\nTry to wait it out and stay alive.","Босс вызывает боевое братство. На время действия способности все противники в радиусе 20 метров от боссы получают бонус к мобильности [DECEA3]25%[-], а также весь урон по ним уменьшен на [DECEA3]50%[-]. Кроме ваше сопротивление к физическому урону снижено на [FFB800]25%[-]\nПостарайтесь переждать и остаться в живых.","首領召喚戰友情誼。在技能持續期間，首領20米範圍內的所有敵人獲得 [DECEA3]25%[-] 的移動速度加成，並且他們受到的所有傷害減少 [DECEA3]50%[-]。此外，你對物理傷害的抗性降低 [FFB800]25%[-]。\n試著撐過去並保持存活。"
 
-BuffBossBrotherhoodPlayer,buffs,Buff,,Brotherhood in arms,Боевое братство
-BuffBossBrotherhoodPlayerName,buffs,buff,,Boss's Brotherhood of War,Боевое братство босса
-BuffBossBrotherhoodPlayerTooltip,buffs,buff,,The boss calls for a fighting brotherhood,Босс призывает боевое братство
-BuffBossBrotherhoodPlayerIncDesc,buffs,Buff,,"The boss summons a brotherhood of arms. For the duration of the ability, all enemies within 20 meters of the boss receive a mobility bonus of [DECEA3]25%[-], and all damage taken by them is reduced by [DECEA3]50%[-]. In addition, your resistance to physical damage is reduced by [FFB800]25%[-]\nTry to wait it out and stay alive.","Босс вызывает боевое братство. На время действия способности все противники в радиусе 20 метров от боссы получают бонус к мобильности [DECEA3]25%[-], а также весь урон по ним уменьшен на [DECEA3]50%[-]. Кроме ваше сопротивление к физическому урону снижено на [FFB800]25%[-]\nПостарайтесь переждать и остаться в живых."
-
-bossVeteran,entityclasses,Entity,,[FFB800]BOSS[-] VETERAN,[FFB800]БОСС[-] ВЕТЕРАН
+bossVeteran,entityclasses,Entity,,[FFB800]BOSS[-] VETERAN,[FFB800]БОСС[-] ВЕТЕРАН,[FFB800]首領[-] 老兵

@@ -1,22 +1,17 @@
-Key,Source,Context,Changes,English,Russian
+Key,Source,Context,Changes,English,Russian,TChinese
 
-foodT5-1,progression,Attribute,,Tier 5: SuperElixir Quest Runner,Уровень 5: Суперэликсир Бегун по Квестам
-foodT5-2,progression,Attribute,,Tier 5: SuperElixir Melee Master,Уровень 5: Суперэликсир Мастер Ближнего Боя
-foodT5-3,progression,Attribute,,Tier 5: SuperElixir Miner Master,Уровень 5: Суперэликсир Мастер Добычи
-foodT5-4,progression,Attribute,,Tier 5: SuperElixir Master of Trade,Уровень 5: Суперэликсир Мастера Торговли
-foodT5-5,progression,Attribute,,Tier 5: SuperElixir Horde Expert,Уровень 5: Суперэликсир Эксперт по Орде
-
-superElixirTradeMaster,items,item,,[DECEA3]Super Elixir[-] Master of Trade,[DECEA3]Суперэликсир[-] Мастера Торговли
-superElixirTradeMasterDesc,items,item,,"You get the maximum when you trade.\nApplies buffs to the character:\nGrandpa's Elixir for Study\nGrandpa's Awesome Sauce\nSuggar Butts\nPumpkin Cheesecake\n\nBase duration of all buffs [DECEA3]7 minutes[-]","Вы получаете максимум когда торгуете.\nНакладывает на персонажа баффы:\nДедушкин эликсир для учебы\nКлассное дедушкино пойло\nАвось да небось\nТыквенный чизкейк\n\nБазовая длительность всех баффов [DECEA3]7 минут[-]"
-
-superElixirQuestRunner,items,item,,[DECEA3]Super Elixir[-] Quest Runner,[DECEA3]Суперэликсир[-] Бегун по Квестам
-superElixirQuestRunnerDesc,items,item,,"He came, took everything apart, searched everything.\nApplies buffs to the character:\nGrandpa's Elixir for Study\nEye Candy\nHackers\nSteroids\n\nBase duration of all buffs [DECEA3]8 minutes[-]","Пришел, обыскал, разобрал.\nНакладывает на персонажа баффы:\nДедушкин эликсир для учебы\nДраже удачи\nХакеры\nСтероиды\n\nБазовая длительность всех баффов [DECEA3]8 минут[-]"
-
-superElixirHordeExpert,items,item,,[DECEA3]Super Elixir[-] Horde Expert,[DECEA3]Суперэликсир[-] Эксперт по Орде
-superElixirHordeExpertDesc,items,item,,"You don't run from the horde. The horde runs from you.\nApplies buffs to the character:\nGrandpa's Elixir for Study\nRecog\nFortbites\n\nBase duration of all buffs [DECEA3]7 minutes[-]","Вы не бежите от орды. Орда бежит от вас.\nНакладывает на персонажа баффы:\nДедушкин эликсир для учебы\nСокол\nФорт Байтс\n\nБазовая длительность всех баффов [DECEA3]7 минут[-]"
-
-superElixirMeleeMaster,items,item,,[DECEA3]Super Elixir[-] Melee Master,[DECEA3]Суперэликсир[-] Мастер Ближнего Боя
-superElixirMeleeMasterDesc,items,item,,"In close combat you are indestructible.\nApplies buffs to the character:\nGrandpa's Elixir for Study\nSkull Crushers\nFortbites\n\nBase duration of all buffs [DECEA3]7 minutes[-]","В ближнем бою вы не сокрушимы.\nНакладывает на персонажа баффы:\nДедушкин эликсир для учебы\nДробитель черепов\nФорт Байтс\n\nБазовая длительность всех баффов [DECEA3]7 минут[-]"
-
-superElixirMinerMaster,items,item,,[DECEA3]Super Elixir[-] Miner Master,[DECEA3]Суперэликсир[-] Мастер Добычи
-superElixirMinerMasterDesc,items,item,,"You can't dig enough.\nApplies buffs to the character:\nGrandpa's Elixir for Study\nBlackstrap Coffee\nRock Busters\n\nBase duration of all buffs [DECEA3]7 minutes[-]","Копать да не перекопать.\nНакладывает на персонажа баффы:\nДедушкин эликсир для учебы\nКофе рудокопов\nRock Busters\n\nБазовая длительность всех баффов [DECEA3]7 минут[-]"
+foodT5-1,progression,Attribute,,Tier 5: SuperElixir Quest Runner,Уровень 5: Суперэликсир Бегун по Квестам,階級5：超級藥劑任務奔跑者
+foodT5-2,progression,Attribute,,Tier 5: SuperElixir Melee Master,Уровень 5: Суперэликсир Мастер Ближнего Боя,階級5：超級藥劑近戰大師
+foodT5-3,progression,Attribute,,Tier 5: SuperElixir Miner Master,Уровень 5: Суперэликсир Мастер Добычи,階級5：超級藥劑採礦大師
+foodT5-4,progression,Attribute,,Tier 5: SuperElixir Master of Trade,Уровень 5: Суперэликсир Мастера Торговли,階級5：超級藥劑貿易大師
+foodT5-5,progression,Attribute,,Tier 5: SuperElixir Horde Expert,Уровень 5: Суперэликсир Эксперт по Орде,階級5：超級藥劑大軍專家
+superElixirTradeMaster,items,item,,[DECEA3]Super Elixir[-] Master of Trade,[DECEA3]Суперэликсир[-] Мастера Торговли,[DECEA3]超級藥劑[-] 貿易大師
+superElixirTradeMasterDesc,items,item,,"You get the maximum when you trade.\nApplies buffs to the character:\nGrandpa's Elixir for Study\nGrandpa's Awesome Sauce\nSuggar Butts\nPumpkin Cheesecake\n\nBase duration of all buffs [DECEA3]7 minutes[-]","Вы получаете максимум когда торгуете.\nНакладывает на персонажа баффы:\nДедушкин эликсир для учебы\nКлассное дедушкино пойло\nАвось да небось\nТыквенный чизкейк\n\nБазовая длительность всех баффов [DECEA3]7 минут[-]","你在交易時獲得最大收益。\n為角色添加以下增益效果：\n爺爺的學習藥劑\n爺爺的絕妙醬料\n甜蜜臀部\n南瓜芝士蛋糕\n\n所有增益效果的基礎持續時間為[DECEA3]7分鐘[-]"
+superElixirQuestRunner,items,item,,[DECEA3]Super Elixir[-] Quest Runner,[DECEA3]Суперэликсир[-] Бегун по Квестам,[DECEA3]超級藥劑[-] 任務奔跑者
+superElixirQuestRunnerDesc,items,item,,"He came, took everything apart, searched everything.\nApplies buffs to the character:\nGrandpa's Elixir for Study\nEye Candy\nHackers\nSteroids\n\nBase duration of all buffs [DECEA3]8 minutes[-]","Пришел, обыскал, разобрал.\nНакладывает на персонажа баффы:\nДедушкин эликсир для учебы\nДраже удачи\nХакеры\nСтероиды\n\nБазовая длительность всех баффов [DECEA3]8 минут[-]","他來了，拆解一切，搜索所有。\n為角色添加以下增益效果：\n爺爺的學習藥劑\n眼睛糖果\n駭客\n類固醇\n\n所有增益效果的基礎持續時間為[DECEA3]8分鐘[-]"
+superElixirHordeExpert,items,item,,[DECEA3]Super Elixir[-] Horde Expert,[DECEA3]Суперэликсир[-] Эксперт по Орде,[DECEA3]超級藥劑[-] 大軍專家
+superElixirHordeExpertDesc,items,item,,"You don't run from the horde. The horde runs from you.\nApplies buffs to the character:\nGrandpa's Elixir for Study\nRecog\nFortbites\n\nBase duration of all buffs [DECEA3]7 minutes[-]","Вы не бежите от орды. Орда бежит от вас.\nНакладывает на персонажа баффы:\nДедушкин эликсир для учебы\nСокол\nФорт Байтс\n\nБазовая длительность всех баффов [DECEA3]7 минут[-]","你不是在逃避大軍。大軍在逃避你。\n為角色添加以下增益效果：\n爺爺的學習藥劑\n識別\n堡壘點心\n\n所有增益效果的基礎持續時間為[DECEA3]7分鐘[-]"
+superElixirMeleeMaster,items,item,,[DECEA3]Super Elixir[-] Melee Master,[DECEA3]Суперэликсир[-] Мастер Ближнего Боя,[DECEA3]超級藥劑[-] 近戰大師
+superElixirMeleeMasterDesc,items,item,,"In close combat you are indestructible.\nApplies buffs to the character:\nGrandpa's Elixir for Study\nSkull Crushers\nFortbites\n\nBase duration of all buffs [DECEA3]7 minutes[-]","В ближнем бою вы не сокрушимы.\nНакладывает на персонажа баффы:\nДедушкин эликсир для учебы\nДробитель черепов\nФорт Байтс\n\nБазовая длительность всех баффов [DECEA3]7 минут[-]","在近戰中你是不可摧毀的。\n為角色添加以下增益效果：\n爺爺的學習藥劑\n顱骨粉碎者\n堡壘點心\n\n所有增益效果的基礎持續時間為[DECEA3]7分鐘[-]"
+superElixirMinerMaster,items,item,,[DECEA3]Super Elixir[-] Miner Master,[DECEA3]Суперэликсир[-] Мастер Добычи,[DECEA3]超級藥劑[-] 採礦大師
+superElixirMinerMasterDesc,items,item,,"You can't dig enough.\nApplies buffs to the character:\nGrandpa's Elixir for Study\nBlackstrap Coffee\nRock Busters\n\nBase duration of all buffs [DECEA3]7 minutes[-]","Копать да не перекопать.\nНакладывает на персонажа баффы:\nДедушкин эликсир для учебы\nКофе рудокопов\nRock Busters\n\nБазовая длительность всех баффов [DECEA3]7 минут[-]","你永遠挖不夠。\n為角色添加以下增益效果：\n爺爺的學習藥劑\n黑帶咖啡\n岩石破壞者\n\n所有增益效果的基礎持續時間為[DECEA3]7分鐘[-]"

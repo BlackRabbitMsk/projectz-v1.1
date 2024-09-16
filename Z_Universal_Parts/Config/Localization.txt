@@ -1,4 +1,4 @@
-Key,Source,Context,Changes,English,Russian
+Key,Source,Context,Changes,English,Russian,TChinese
 
-UniversalParts,items,Resources,,Universal parts,Универсальные части
-UniversalPartsDesc,items,Resources,,"A bunch of different spare parts.\nWith the proper skill, you can assemble parts for a tool, weapon or armor from this.","Куча различных запчатей.\nПри должном умении из это можно собрать части для инструмента, оружии или брони."
+UniversalParts,items,Resources,,Universal parts,Универсальные части,通用零件
+UniversalPartsDesc,items,Resources,,"A bunch of different spare parts.\nWith the proper skill, you can assemble parts for a tool, weapon or armor from this.","Куча различных запчатей.\nПри должном умении из это можно собрать части для инструмента, оружии или брони.","一堆不同的備用零件。\n有適當的技能，你可以用這些組裝工具、武器或護甲的零件。"

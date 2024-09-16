@@ -1,5 +1,3 @@
-Key,Source,Context,Changes,English,Russian
+Key,Source,Context,Changes,English,Russian,TChinese
 
-xuiLevel,UI,XUI,,LEVEL,УРОВЕНЬ
-
-
+xuiLevel,UI,XUI,,LEVEL,УРОВЕНЬ,等級
