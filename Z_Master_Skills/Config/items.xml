@@ -3266,10 +3266,9 @@
 	</append>
 	
 	<!-- Set unlock craft to solarcell -->
-	
-	<!-- <append xpath="/items/item[@name='solarCell']"> -->
-		<!-- <property name="UnlockedBy" value="MasterElectrician"/> -->
-	<!-- </append> -->
+	<append xpath="/items/item[@name='solarCell']">
+		<property name="UnlockedBy" value="MasterElectrician"/>
+	</append>
 	
 	<!-- Set craft dew tools -->
 	<set xpath="/items/item[@name='toolDewGatherer']/property[@name='UnlockedBy']/@value">MasterWorkstations</set>

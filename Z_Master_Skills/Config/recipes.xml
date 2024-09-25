@@ -39,18 +39,18 @@
 			<ingredient name="resourceForgedSteel" count="25"/>
 		</recipe>
 		
-		<!-- <recipe name="solarCell" count="1" craft_time="1500" craft_area="workbench" tags="learnable,perkMachineGunner"> -->
-			<!-- <ingredient name="resourceElectricPartsImp" count="10"/> -->
-			<!-- <ingredient name="resourceBrokenGlass" count="100"/> -->
-			<!-- <ingredient name="resourceScrapPolymers" count="50"/> -->
-			<!-- <ingredient name="resourceForgedSteel" count="20"/> -->
-			<!-- <effect_group> -->
-				<!-- <passive_effect name="CraftingIngredientCount" level="2,6" operation="base_add" value="3,15" tags="resourceElectricPartsImp"/> -->
-				<!-- <passive_effect name="CraftingIngredientCount" level="2,6" operation="base_add" value="50,250" tags="resourceBrokenGlass"/> -->
-				<!-- <passive_effect name="CraftingIngredientCount" level="2,6" operation="base_add" value="30,150" tags="resourceScrapPolymers"/> -->
-				<!-- <passive_effect name="CraftingIngredientCount" level="5,6" operation="base_add" value="10,50" tags="resourceForgedSteel"/> -->
-			<!-- </effect_group> -->
-		<!-- </recipe> -->
+		<recipe name="solarCell" count="1" craft_time="1500" craft_area="workbench" tags="learnable,perkMachineGunner">
+			<ingredient name="resourceElectricPartsImp" count="10"/>
+			<ingredient name="resourceBrokenGlass" count="100"/>
+			<ingredient name="resourceScrapPolymers" count="50"/>
+			<ingredient name="resourceForgedSteel" count="20"/>
+			<effect_group>
+				<passive_effect name="CraftingIngredientCount" level="2,6" operation="base_add" value="3,15" tags="resourceElectricPartsImp"/>
+				<passive_effect name="CraftingIngredientCount" level="2,6" operation="base_add" value="50,250" tags="resourceBrokenGlass"/>
+				<passive_effect name="CraftingIngredientCount" level="2,6" operation="base_add" value="30,150" tags="resourceScrapPolymers"/>
+				<passive_effect name="CraftingIngredientCount" level="5,6" operation="base_add" value="10,50" tags="resourceForgedSteel"/>
+			</effect_group>
+		</recipe>
 		
 		<!-- Cement Mixer -->
 		<recipe name="cementMixerImp" count="1" craft_time="1200" tags="learnable,workbenchCrafting">

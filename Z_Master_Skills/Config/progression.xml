@@ -318,7 +318,7 @@
 		<crafting_skill name="MasterElectrician" max_level="20" parent="attmaster" name_key="MasterElectricianName" desc_key="MasterElectricianDesc" long_desc_key="MasterElectricianLongDesc" icon="ui_game_symbol_electric_generator">
 			
 			<display_entry item="solarbank" unlock_level="3"/>
-			<!-- <display_entry item="solarCell" unlock_level="5,7,9,11,13,15"/> -->
+			<display_entry item="solarCell" unlock_level="5,7,9,11,13,15"/>
 			<display_entry icon="modMeleeStunBatonRepulsor,controlPanelBase01" name_key="MasterElectricianT3-1,MasterElectricianT3-2" has_quality="false" unlock_level="18,20">
 				<unlock_entry item="PortableReactor" unlock_tier="1" />
 				<unlock_entry item="ReactorСhargingStation" unlock_tier="2" />
@@ -326,10 +326,10 @@
 			
 			<effect_group>
 				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="3,100" value="1" tags="solarbank"/>
-				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="5,100" value="1" tags="solarCell"/>
+				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="5,100" value="1" tags="solarCell" />
 				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="18,100" value="1" tags="PortableReactor"/>
 				<passive_effect name="RecipeTagUnlocked" operation="base_set" level="20,100" value="1" tags="ReactorСhargingStation"/>
-				<!-- <passive_effect name="CraftingTier" operation="base_add" level="5,7,9,11,13,15" value="1,2,3,4,5,5" tags="solarCell"/> -->
+				<passive_effect name="CraftingTier" operation="base_add" level="7,9,11,13,15,20" value="1,2,3,4,5,5" tags="solarCell" />
 			</effect_group>
 		</crafting_skill>
 		
@@ -469,6 +469,5 @@
 		
 		
 	</append>
-	 
-
+	
 </config>
